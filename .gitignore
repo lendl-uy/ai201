@@ -1,2 +1,6 @@
 .DS_Store
 programming_hw_3/ai201_pa3_uy.py
+programming_hw_3/training_set.csv
+programming_hw_3/training_labels.csv
+programming_hw_3/validation_set.csv
+programming_hw_3/validation_labels.csv

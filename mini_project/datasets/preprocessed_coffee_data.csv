@@ -5,7 +5,6 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 8.17,8.58,8.42,8.42,8.5,8.25,10.0,10.0,10.0,East Africa,Other,Natural / Dry
 8.25,8.5,8.25,8.5,8.42,8.33,10.0,10.0,10.0,East Africa,Other,Washed / Wet
 8.58,8.42,8.42,8.5,8.25,8.33,10.0,10.0,10.0,Brazil,Other,Natural / Dry
-8.42,8.5,8.33,8.5,8.25,8.25,10.0,10.0,10.0,Peru,Other,Washed / Wet
 8.25,8.33,8.5,8.42,8.33,8.5,10.0,10.0,9.33,East Africa,Other,Other
 8.67,8.67,8.58,8.42,8.33,8.42,9.33,10.0,9.33,East Africa,Other,Other
 8.08,8.58,8.5,8.5,7.67,8.42,10.0,10.0,10.0,East Africa,Other,Natural / Dry
@@ -15,7 +14,6 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 8.33,8.42,8.08,8.25,8.25,8.0,10.0,10.0,10.0,United States,Other,Other
 8.25,8.33,8.5,8.25,8.58,8.75,9.33,10.0,9.33,East Africa,Other,Other
 8.0,8.5,8.58,8.17,8.17,8.0,10.0,10.0,10.0,United States,Other,Washed / Wet
-8.33,8.25,7.83,7.75,8.5,8.42,10.0,10.0,10.0,Asia Pacific,Other,Other
 8.17,8.33,8.25,8.33,8.42,8.33,9.33,10.0,9.33,East Africa,Other,Other
 8.42,8.25,8.08,8.17,7.92,8.0,10.0,10.0,10.0,Asia Pacific,Catimor,Washed / Wet
 8.17,8.17,8.0,8.17,8.08,8.33,10.0,10.0,10.0,East Africa,Ethiopian Yirgacheffe,Natural / Dry
@@ -59,8 +57,7 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.83,8.0,8.0,8.17,7.83,8.0,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
 8.0,8.0,7.83,8.33,7.83,7.83,10.0,10.0,10.0,Guatemala,Catuai,Washed / Wet
 7.83,8.0,7.83,8.17,7.92,8.0,10.0,10.0,10.0,East Africa,Caturra,Natural / Dry
-8.0,8.0,8.0,8.08,7.92,7.75,10.0,10.0,10.0,Peru,Other,Washed / Wet
-8.33,8.42,7.83,8.33,8.0,8.25,9.33,9.33,10.0,Other,Other,Washed / Wet
+8.33,8.42,7.83,8.33,8.0,8.25,9.33,9.33,10.0,Asia Pacific,Other,Washed / Wet
 7.92,8.17,8.0,7.92,7.75,7.83,10.0,10.0,10.0,Central America,Bourbon,Washed / Wet
 7.83,8.0,8.0,7.75,7.92,8.17,10.0,10.0,10.0,Central America,Bourbon,Semi-washed / Semi-pulped
 7.83,8.0,7.92,7.75,8.08,8.0,10.0,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
@@ -85,7 +82,6 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 8.0,7.92,7.75,8.0,7.92,7.83,10.0,10.0,10.0,Guatemala,Bourbon,Other
 8.17,7.92,7.83,8.0,7.58,7.83,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
 7.58,8.08,7.92,7.83,8.0,7.92,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.75,7.83,7.67,8.0,8.08,7.83,10.0,10.0,10.0,Asia Pacific,Sumatra Lintong,Semi-washed / Semi-pulped
 8.25,8.0,7.67,7.92,7.75,7.67,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
 7.75,8.0,7.58,8.0,8.0,7.92,10.0,10.0,10.0,East Africa,Other,Natural / Dry
 8.17,7.83,7.58,8.08,8.0,7.75,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
@@ -141,7 +137,6 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.67,7.83,7.67,8.0,7.67,7.83,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
 7.83,7.58,7.67,7.92,7.92,7.83,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
 7.92,7.83,7.75,7.92,7.67,7.75,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.67,7.83,7.75,7.75,7.92,7.83,10.0,10.0,10.0,Peru,Other,Other
 7.42,7.75,7.75,8.0,8.0,7.92,10.0,10.0,10.0,East Africa,Other,Other
 7.92,7.75,7.83,7.75,7.58,7.92,10.0,10.0,10.0,East Africa,SL34,Washed / Wet
 7.83,7.67,7.58,7.92,7.67,7.83,10.0,10.0,10.0,Colombia,Other,Washed / Wet
@@ -285,7 +280,6 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.83,7.42,7.5,7.83,7.75,7.83,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
 7.58,7.83,7.33,8.0,7.58,7.75,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
 7.92,7.5,7.33,7.67,8.17,7.5,10.0,10.0,10.0,Brazil,Yellow Bourbon,Natural / Dry
-7.5,7.67,7.58,7.75,7.83,7.83,10.0,10.0,10.0,Other,Other,Natural / Dry
 7.67,7.58,7.58,7.83,7.58,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
 7.5,7.83,7.5,7.83,7.83,7.67,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
 7.67,8.0,7.67,7.42,7.67,7.5,10.0,10.0,10.0,Mexico,Bourbon,Natural / Dry
@@ -302,7 +296,6 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.83,7.75,7.67,7.5,7.58,7.67,10.0,10.0,10.0,Asia Pacific,Catimor,Washed / Wet
 7.75,7.67,7.5,7.67,7.58,7.83,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
 8.0,7.92,7.58,7.75,7.33,7.5,10.0,10.0,10.0,East Africa,Bourbon,Natural / Dry
-7.83,7.83,7.83,7.67,8.0,8.17,9.33,9.33,10.0,Other,Other,Washed / Wet
 7.67,7.67,7.67,7.92,7.5,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
 7.67,7.42,7.42,7.42,8.0,8.33,10.0,10.0,10.0,Colombia,Other,Washed / Wet
 7.58,7.67,7.75,7.67,7.67,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
@@ -405,8 +398,6 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.67,7.67,7.42,7.67,7.67,7.67,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
 7.83,7.58,7.83,7.67,7.92,8.0,9.33,10.0,9.33,United States,Hawaiian Kona,Natural / Dry
 7.5,7.67,7.67,7.5,7.83,7.17,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.83,7.75,7.58,7.83,7.92,7.58,9.33,10.0,10.0,Peru,Other,Washed / Wet
-7.58,7.5,7.67,7.5,7.83,7.42,10.0,10.0,10.0,Haiti,Typica,Washed / Wet
 7.67,7.67,7.5,7.67,7.92,7.42,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
 7.83,7.67,7.17,7.67,7.67,7.67,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
 7.92,7.5,7.58,7.83,7.67,7.67,9.33,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
@@ -441,7 +432,6 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.67,7.42,7.5,7.58,7.67,7.58,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
 7.58,7.58,7.33,7.67,7.75,7.58,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
 7.67,7.58,7.42,7.67,7.67,7.58,10.0,10.0,10.0,East Africa,Bourbon,Washed / Wet
-7.92,7.5,7.5,7.58,7.67,7.5,10.0,10.0,10.0,Peru,Other,Other
 7.58,7.42,7.08,7.33,7.58,8.58,10.0,10.0,10.0,Asia Pacific,Catimor,Natural / Dry
 7.67,7.75,7.42,7.75,7.58,7.5,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
 7.67,7.67,7.5,7.67,7.5,7.67,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
@@ -507,7 +497,6 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.67,7.67,7.67,7.5,7.42,7.5,10.0,10.0,10.0,Brazil,Catuai,Natural / Dry
 7.92,7.92,7.83,7.58,7.33,7.25,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
 7.83,7.58,7.5,7.5,7.58,7.5,10.0,10.0,10.0,East Africa,SL14,Washed / Wet
-7.67,7.5,7.67,7.83,7.75,7.83,10.0,10.0,9.33,Other,Other,Washed / Wet
 7.67,7.67,7.42,7.83,7.5,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
 7.67,7.58,7.5,7.58,7.5,7.5,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
 7.75,7.58,7.42,7.67,7.42,7.67,10.0,10.0,10.0,Brazil,Yellow Bourbon,Semi-washed / Semi-pulped
@@ -535,13 +524,11 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.5,7.5,7.75,7.58,7.92,7.83,10.0,10.0,9.33,Central America,Bourbon,Washed / Wet
 7.58,7.67,7.5,7.33,7.67,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
 7.17,7.83,7.25,7.67,7.67,7.58,10.0,10.0,10.0,Taiwan,Caturra,Natural / Dry
-7.58,7.58,7.5,7.5,7.58,7.58,10.0,10.0,10.0,East Africa,Ethiopian Heirlooms,Washed / Wet
 7.5,7.58,7.67,7.33,7.5,7.75,10.0,10.0,10.0,Taiwan,Typica,Natural / Dry
 7.58,7.58,7.67,7.58,7.5,7.5,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
 8.08,7.5,7.67,7.42,7.33,7.5,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
 7.83,7.67,7.25,7.58,7.5,7.5,10.0,10.0,10.0,Mexico,Typica,Natural / Dry
 7.75,7.67,7.42,7.42,7.75,7.5,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.08,7.5,7.5,7.83,7.75,7.67,10.0,10.0,10.0,Brazil,Moka Peaberry,Semi-washed / Semi-pulped
 8.0,7.5,7.5,7.58,7.33,7.42,10.0,10.0,10.0,East Africa,SL14,Washed / Wet
 7.75,7.58,7.58,7.5,7.5,7.5,10.0,10.0,10.0,East Africa,SL14,Washed / Wet
 7.75,7.5,7.42,7.58,7.67,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
@@ -685,7 +672,6 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.5,7.5,7.5,7.67,7.42,7.5,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
 7.42,7.5,7.42,7.58,7.42,7.5,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
 7.58,7.67,7.33,7.5,7.5,7.42,10.0,10.0,10.0,Brazil,Catuai,Semi-washed / Semi-pulped
-7.58,7.58,7.58,7.75,7.5,7.58,9.33,10.0,10.0,Peru,Other,Washed / Wet
 7.25,7.33,7.25,7.5,7.42,7.5,10.0,10.0,10.0,Brazil,Yellow Bourbon,Natural / Dry
 7.5,7.58,7.5,7.92,7.42,7.67,9.33,10.0,10.0,Mexico,Bourbon,Washed / Wet
 7.25,7.67,7.42,7.17,7.75,7.5,10.0,10.0,10.0,Central America,Other,Washed / Wet
@@ -903,7 +889,6 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.42,7.42,7.33,7.33,7.5,7.25,10.0,10.0,10.0,Brazil,Yellow Bourbon,Washed / Wet
 7.42,7.33,7.17,7.58,7.42,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
 7.67,7.5,7.42,7.5,6.75,7.42,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.33,7.5,7.25,7.5,7.5,7.17,10.0,10.0,10.0,Mexico,Marigojipe,Natural / Dry
 7.67,7.58,7.42,7.58,7.58,7.42,10.0,10.0,8.67,Mexico,Typica,Natural / Dry
 7.08,7.33,7.58,7.58,7.17,7.5,10.0,10.0,10.0,Asia Pacific,Other,Other
 7.33,7.33,7.17,7.5,7.58,7.33,10.0,10.0,10.0,Asia Pacific,Other,Other
@@ -919,7 +904,6 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.5,7.42,7.17,7.58,7.25,7.42,10.0,10.0,10.0,Guatemala,Other,Washed / Wet
 7.42,7.33,7.67,7.33,7.42,7.5,10.0,10.0,9.33,Taiwan,Typica,Washed / Wet
 7.58,7.5,7.5,7.67,7.67,7.83,9.33,9.33,9.33,Brazil,Yellow Bourbon,Semi-washed / Semi-pulped
-7.42,7.33,7.25,7.42,7.42,7.33,10.0,10.0,10.0,Haiti,Blue Mountain,Washed / Wet
 7.5,7.42,7.25,7.25,7.33,7.33,10.0,10.0,10.0,Taiwan,Typica,Other
 7.33,7.33,7.17,7.42,7.5,7.5,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
 7.58,7.42,7.25,7.42,7.33,7.33,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
@@ -941,7 +925,6 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.25,7.5,7.42,7.17,7.33,7.33,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
 7.42,7.5,7.17,7.42,7.42,7.42,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
 7.67,7.33,7.25,7.17,7.25,7.42,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.42,7.42,7.17,7.33,7.42,7.42,10.0,10.0,10.0,Peru,Other,Washed / Wet
 7.42,7.33,7.25,7.42,7.42,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
 7.42,7.33,7.25,7.17,7.25,7.42,10.0,10.0,10.0,Mexico,Caturra,Washed / Wet
 7.42,7.42,7.25,7.25,7.5,7.33,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
@@ -987,10 +970,8 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.42,7.33,7.17,7.33,7.42,7.17,10.0,10.0,10.0,East Africa,Other,Natural / Dry
 7.58,7.42,7.5,7.25,7.75,7.58,9.33,10.0,9.33,Brazil,Mundo Novo,Natural / Dry
 7.33,7.33,7.33,7.42,7.33,7.33,10.0,10.0,10.0,Central America,Other,Washed / Wet
-7.42,7.17,7.33,7.42,7.25,7.33,10.0,10.0,10.0,United States,Pache Comun,Natural / Dry
 7.42,7.33,7.33,7.25,7.25,7.33,10.0,10.0,10.0,East Africa,Other,Washed / Wet
 7.42,7.25,7.17,7.25,7.25,7.58,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.67,7.75,7.67,7.58,7.58,7.67,6.67,10.0,10.0,Other,Other,Washed / Wet
 7.25,7.42,7.33,7.33,7.17,7.33,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
 7.33,7.25,7.33,7.42,7.25,7.42,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
 7.33,7.33,7.25,7.42,7.25,7.25,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
@@ -1045,7 +1026,6 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.25,7.33,7.08,7.5,7.25,7.33,10.0,10.0,10.0,Central America,Catuai,Natural / Dry
 7.33,7.33,7.25,7.25,7.17,7.17,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
 7.58,7.33,7.42,7.25,7.5,7.5,9.33,9.33,10.0,Mexico,Typica,Washed / Wet
-7.42,7.0,7.42,7.25,7.08,7.33,10.0,10.0,10.0,Haiti,Typica,Washed / Wet
 7.08,7.33,7.17,7.25,7.33,7.67,10.0,10.0,10.0,United States,Arusha,Natural / Dry
 7.33,7.08,7.08,7.08,7.42,7.33,10.0,10.0,10.0,Taiwan,Typica,Other
 7.58,7.42,7.0,7.67,7.5,7.5,9.33,9.33,10.0,Asia Pacific,Mandheling,Semi-washed / Semi-pulped
@@ -1069,7 +1049,7 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.17,7.17,7.17,7.42,7.17,7.25,10.0,10.0,10.0,Taiwan,Other,Natural / Dry
 7.33,7.25,7.08,7.17,7.25,7.17,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
 7.58,7.33,7.0,7.17,7.33,7.08,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.25,7.25,7.17,7.17,7.25,7.17,10.0,10.0,10.0,Other,Other,Other
+7.25,7.25,7.17,7.17,7.25,7.17,10.0,10.0,10.0,East Africa,Other,Other
 7.25,7.33,7.17,7.5,7.33,7.25,9.33,10.0,10.0,Brazil,Yellow Bourbon,Semi-washed / Semi-pulped
 7.17,7.33,7.17,7.42,7.25,7.08,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
 7.5,7.17,6.83,7.5,7.17,7.17,10.0,10.0,10.0,Guatemala,Other,Washed / Wet
@@ -1146,7 +1126,6 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.75,7.33,7.17,7.33,7.67,7.83,9.33,9.33,8.67,Taiwan,Typica,Natural / Dry
 7.08,7.08,7.25,7.0,7.17,7.17,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
 7.25,7.08,6.92,7.5,7.08,6.92,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.0,7.08,7.0,7.25,7.5,7.42,9.33,10.0,10.0,Peru,Other,Washed / Wet
 7.58,7.5,7.67,7.75,7.67,7.58,8.0,8.0,10.0,Central America,Catuai,Washed / Wet
 7.58,7.08,7.0,7.0,7.5,6.92,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
 7.58,7.08,6.92,7.58,7.5,6.92,10.0,9.33,10.0,Mexico,Bourbon,Washed / Wet
@@ -1175,7 +1154,6 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.08,7.33,7.25,7.58,7.33,7.42,9.33,9.33,9.33,Guatemala,Bourbon,Washed / Wet
 7.25,7.33,6.83,7.0,7.0,7.17,10.0,10.0,10.0,Guatemala,Other,Washed / Wet
 7.0,6.83,6.83,7.42,7.33,7.17,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.42,7.25,6.83,7.0,7.33,7.08,9.33,10.0,10.0,Other,Other,Washed / Wet
 7.42,7.25,6.75,7.25,7.42,7.25,9.33,9.33,10.0,Colombia,Caturra,Washed / Wet
 7.0,7.0,6.83,7.33,7.42,6.92,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
 7.42,7.17,7.08,7.17,7.08,7.08,9.33,10.0,10.0,Mexico,Typica,Washed / Wet
@@ -1191,13 +1169,11 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.17,6.92,6.92,7.08,7.17,7.0,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
 6.75,6.75,6.83,7.25,7.58,7.08,10.0,10.0,10.0,Mexico,Typica,Other
 7.58,7.67,7.42,7.42,7.67,7.67,8.67,8.67,8.67,Guatemala,Bourbon,Washed / Wet
-7.42,7.08,6.75,7.33,7.33,6.92,10.0,9.33,10.0,Other,Other,Washed / Wet
 7.33,7.0,6.92,7.25,7.33,7.08,9.33,10.0,10.0,Mexico,Typica,Washed / Wet
 7.25,7.08,6.75,7.33,7.42,7.0,9.33,10.0,10.0,Mexico,Mundo Novo,Washed / Wet
 7.17,7.25,7.25,7.17,7.25,7.08,9.33,9.33,10.0,Mexico,Typica,Washed / Wet
 7.33,7.17,6.58,7.42,7.08,6.83,10.0,10.0,10.0,Guatemala,Other,Washed / Wet
 7.0,7.0,7.0,7.0,7.0,7.0,10.0,10.0,10.0,Central America,Pacas,Washed / Wet
-7.67,7.17,7.08,7.25,8.0,7.5,8.67,9.33,9.33,Peru,Typica,Washed / Wet
 6.75,7.08,6.67,7.25,7.17,7.08,10.0,10.0,10.0,Mexico,Mundo Novo,Natural / Dry
 7.5,7.17,6.92,7.5,7.25,7.0,8.67,10.0,10.0,Mexico,Typica,Semi-washed / Semi-pulped
 7.17,6.83,6.83,7.25,7.17,6.92,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
@@ -1253,11 +1229,9 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.5,7.33,7.42,7.58,7.58,6.92,8.0,8.0,10.0,Brazil,Bourbon,Natural / Dry
 7.33,7.0,6.83,7.17,7.17,7.17,9.33,9.33,9.33,Guatemala,Other,Washed / Wet
 7.33,7.0,6.67,7.0,6.92,6.92,9.33,9.33,10.0,Mexico,Typica,Washed / Wet
-6.83,6.83,6.83,6.75,6.92,6.92,9.33,10.0,10.0,Haiti,Typica,Washed / Wet
 7.08,6.92,6.83,6.67,7.58,7.42,8.67,9.33,10.0,United States,Other,Natural / Dry
 7.08,7.0,7.0,7.25,7.33,7.25,8.67,8.67,10.0,Mexico,Other,Washed / Wet
-7.42,7.75,7.42,7.67,7.92,7.83,8.67,5.33,9.33,Peru,Caturra,Washed / Wet
-7.67,7.33,7.17,6.67,7.17,7.42,9.33,10.0,6.67,Other,Other,Natural / Dry
+7.67,7.33,7.17,6.67,7.17,7.42,9.33,10.0,6.67,Asia Pacific,Other,Natural / Dry
 6.67,6.33,6.42,6.83,7.0,6.92,10.0,10.0,10.0,Mexico,Typica,Other
 6.42,6.5,6.5,7.33,6.33,6.92,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
 7.17,6.58,6.58,7.0,7.25,6.58,9.33,9.33,10.0,Mexico,Typica,Washed / Wet
@@ -1294,7 +1268,6 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.08,7.08,6.92,7.08,6.92,6.92,8.0,8.0,8.0,Mexico,Typica,Washed / Wet
 8.0,7.33,7.75,7.33,7.42,7.67,6.67,6.67,6.67,Colombia,Other,Natural / Dry
 6.92,6.92,6.92,7.5,7.58,7.17,6.67,6.67,9.33,United States,Hawaiian Kona,Natural / Dry
-6.92,6.75,7.08,7.17,7.33,6.67,10.0,5.33,8.67,Haiti,Other,Other
 6.33,6.5,6.33,6.83,6.33,6.5,10.0,6.67,10.0,Central America,Caturra,Washed / Wet
 6.92,6.92,6.92,6.92,7.17,7.0,10.0,2.67,10.0,Mexico,Mundo Novo,Washed / Wet
 6.5,6.67,6.42,7.17,7.33,6.5,8.0,6.0,10.0,Mexico,Bourbon,Washed / Wet
@@ -1304,35 +1277,32 @@ aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,coun
 7.0,6.17,6.17,6.67,6.5,6.17,8.0,8.0,8.0,Central America,Catuai,Washed / Wet
 7.0,6.33,6.17,6.5,6.67,6.17,8.0,8.0,8.0,Central America,Catuai,Washed / Wet
 7.08,6.83,6.25,7.42,7.25,6.75,10.0,0.0,10.0,Mexico,Bourbon,Washed / Wet
-6.75,6.58,6.42,6.67,7.08,6.67,9.33,6.0,6.0,Haiti,Typica,Natural / Dry
 7.25,6.58,6.33,6.25,6.42,6.08,6.0,6.0,6.0,Central America,Caturra,Other
 7.5,6.67,6.67,7.67,7.33,6.67,8.0,1.33,1.33,Guatemala,Catuai,Washed / Wet
 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Central America,Caturra,Other
 7.83,8.08,7.75,7.92,8.25,7.92,10.0,10.0,8.0,East Africa,Other,Other
-8.0,7.75,7.92,8.0,7.92,7.92,10.0,10.0,8.0,Other,Other,Washed / Wet
-7.92,7.83,7.92,8.0,7.83,7.92,10.0,10.0,7.83,Other,Other,Other
+8.0,7.75,7.92,8.0,7.92,7.92,10.0,10.0,8.0,Asia Pacific,Other,Washed / Wet
+7.92,7.83,7.92,8.0,7.83,7.92,10.0,10.0,7.83,Asia Pacific,Other,Other
 8.0,7.92,7.92,7.75,7.83,7.75,10.0,10.0,7.75,East Africa,Other,Other
 8.33,7.83,7.83,7.75,8.25,7.75,10.0,10.0,7.58,East Africa,Other,Other
-8.0,7.92,7.67,8.0,7.75,7.92,10.0,10.0,7.75,Other,Other,Other
-7.67,7.75,7.83,7.83,7.92,7.75,10.0,10.0,8.0,Other,Other,Other
-7.67,7.75,7.83,7.67,7.92,7.83,10.0,10.0,7.92,Other,Other,Washed / Wet
-7.67,7.75,7.58,7.83,7.83,8.0,10.0,10.0,7.92,Other,Other,Washed / Wet
+8.0,7.92,7.67,8.0,7.75,7.92,10.0,10.0,7.75,Asia Pacific,Other,Other
+7.67,7.75,7.83,7.83,7.92,7.75,10.0,10.0,8.0,Asia Pacific,Other,Other
+7.67,7.75,7.83,7.67,7.92,7.83,10.0,10.0,7.92,Asia Pacific,Other,Washed / Wet
+7.67,7.75,7.58,7.83,7.83,8.0,10.0,10.0,7.92,Asia Pacific,Other,Washed / Wet
 7.67,7.83,7.83,7.83,7.92,7.75,10.0,10.0,7.75,East Africa,Other,Other
 7.58,7.92,7.75,7.83,7.5,7.67,10.0,10.0,7.67,East Africa,Other,Other
-7.67,7.83,7.75,7.5,7.75,7.58,10.0,10.0,7.75,Other,Other,Natural / Dry
-7.58,7.58,7.67,7.58,7.67,7.67,10.0,10.0,7.5,Other,Other,Other
+7.67,7.83,7.75,7.5,7.75,7.58,10.0,10.0,7.75,Asia Pacific,Other,Natural / Dry
+7.58,7.58,7.67,7.58,7.67,7.67,10.0,10.0,7.5,Asia Pacific,Other,Other
 8.0,7.75,7.75,7.58,7.67,7.5,10.0,10.0,7.58,East Africa,Other,Other
 8.0,7.67,7.75,7.5,7.67,7.58,10.0,10.0,7.58,East Africa,Other,Other
-7.75,7.75,7.67,7.67,7.58,7.58,10.0,10.0,7.58,Other,Other,Other
-7.5,7.5,7.25,7.83,7.67,7.83,10.0,10.0,7.83,Other,Other,Natural / Dry
+7.75,7.75,7.67,7.67,7.58,7.58,10.0,10.0,7.58,Asia Pacific,Other,Other
+7.5,7.5,7.25,7.83,7.67,7.83,10.0,10.0,7.83,Asia Pacific,Other,Natural / Dry
 7.33,7.58,7.5,7.75,7.75,7.67,10.0,10.0,7.75,East Africa,Other,Other
 7.83,7.58,7.33,7.67,7.5,7.5,10.0,10.0,7.75,East Africa,Other,Other
 7.75,7.42,7.33,7.58,7.67,7.58,10.0,10.0,7.67,East Africa,Other,Other
-7.67,7.67,7.5,7.33,7.58,7.5,10.0,10.0,7.42,Other,Other,Other
-7.58,7.42,7.42,7.83,7.42,7.5,10.0,10.0,7.42,Other,Other,Natural / Dry
+7.67,7.67,7.5,7.33,7.58,7.5,10.0,10.0,7.42,Asia Pacific,Other,Other
+7.58,7.42,7.42,7.83,7.42,7.5,10.0,10.0,7.42,Asia Pacific,Other,Natural / Dry
 7.92,7.5,7.42,7.42,7.42,7.42,9.33,10.0,7.58,United States,Arusha,Natural / Dry
-7.75,7.58,7.33,7.58,5.08,7.83,10.0,10.0,7.75,Other,Other,Other
-7.5,7.67,7.75,7.75,5.17,5.25,10.0,10.0,8.42,Other,Other,Other
 7.33,7.33,7.17,7.42,7.5,7.17,9.33,9.33,7.42,United States,Other,Natural / Dry
-7.42,6.83,6.75,7.17,7.25,7.0,9.33,9.33,7.08,Other,Other,Natural / Dry
+7.42,6.83,6.75,7.17,7.25,7.0,9.33,9.33,7.08,Asia Pacific,Other,Natural / Dry
 6.75,6.67,6.5,6.83,6.92,6.83,9.33,9.33,6.67,Asia Pacific,Other,Natural / Dry

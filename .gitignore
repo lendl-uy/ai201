@@ -4,3 +4,6 @@ programming_hw_3/training_set.csv
 programming_hw_3/training_labels.csv
 programming_hw_3/validation_set.csv
 programming_hw_3/validation_labels.csv
+mini_project/plots
+mini_project/eda_with_smote.ipynb
+mini_project/recommender_with_smote.ipynb

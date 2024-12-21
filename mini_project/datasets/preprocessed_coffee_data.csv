@@ -1,1308 +1,946 @@
-aroma,flavor,aftertaste,acidity,body,balance,uniformity,clean_cup,sweetness,country_of_origin,variety,processing_method
-8.67,8.83,8.67,8.75,8.5,8.42,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-8.75,8.67,8.5,8.58,8.42,8.42,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-8.42,8.5,8.42,8.42,8.33,8.42,10.0,10.0,10.0,Guatemala,Bourbon,Other
-8.17,8.58,8.42,8.42,8.5,8.25,10.0,10.0,10.0,East Africa,Other,Natural / Dry
-8.25,8.5,8.25,8.5,8.42,8.33,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-8.58,8.42,8.42,8.5,8.25,8.33,10.0,10.0,10.0,Brazil,Other,Natural / Dry
-8.25,8.33,8.5,8.42,8.33,8.5,10.0,10.0,9.33,East Africa,Other,Other
-8.67,8.67,8.58,8.42,8.33,8.42,9.33,10.0,9.33,East Africa,Other,Other
-8.08,8.58,8.5,8.5,7.67,8.42,10.0,10.0,10.0,East Africa,Other,Natural / Dry
-8.17,8.67,8.25,8.5,7.75,8.17,10.0,10.0,10.0,East Africa,Other,Natural / Dry
-8.25,8.42,8.17,8.33,8.08,8.17,10.0,10.0,10.0,United States,Other,Washed / Wet
-8.08,8.67,8.33,8.42,8.0,8.08,10.0,10.0,10.0,United States,Other,Washed / Wet
-8.33,8.42,8.08,8.25,8.25,8.0,10.0,10.0,10.0,United States,Other,Other
-8.25,8.33,8.5,8.25,8.58,8.75,9.33,10.0,9.33,East Africa,Other,Other
-8.0,8.5,8.58,8.17,8.17,8.0,10.0,10.0,10.0,United States,Other,Washed / Wet
-8.17,8.33,8.25,8.33,8.42,8.33,9.33,10.0,9.33,East Africa,Other,Other
-8.42,8.25,8.08,8.17,7.92,8.0,10.0,10.0,10.0,Asia Pacific,Catimor,Washed / Wet
-8.17,8.17,8.0,8.17,8.08,8.33,10.0,10.0,10.0,East Africa,Ethiopian Yirgacheffe,Natural / Dry
-8.0,8.25,8.08,8.5,8.25,8.0,10.0,10.0,10.0,United States,Other,Washed / Wet
-8.08,8.25,8.0,8.17,8.0,8.33,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-8.17,8.25,8.17,8.0,7.83,8.17,10.0,10.0,10.0,Mexico,Other,Washed / Wet
-8.25,8.33,8.17,8.17,7.83,8.17,10.0,10.0,10.0,United States,Other,Washed / Wet
-8.42,8.17,7.92,8.17,8.33,8.0,10.0,10.0,10.0,East Africa,Other,Natural / Dry
-8.5,8.5,8.0,8.0,8.0,8.0,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.83,8.25,8.08,8.17,8.17,8.17,10.0,10.0,10.0,East Africa,Other,Other
-8.42,8.17,8.17,8.17,7.83,7.92,10.0,10.0,10.0,East Africa,SL14,Washed / Wet
-8.17,8.08,8.08,8.0,8.08,8.0,10.0,10.0,10.0,Central America,Caturra,Other
-8.0,8.0,8.0,8.25,8.0,8.17,10.0,10.0,10.0,Taiwan,Sumatra,Pulped natural / honey
-7.92,8.25,8.0,8.33,8.0,8.08,10.0,10.0,10.0,Central America,Other,Other
-8.42,8.17,8.17,8.0,7.58,8.0,10.0,10.0,10.0,East Africa,Other,Natural / Dry
-8.5,8.17,8.0,7.75,8.0,8.0,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-8.17,7.83,8.0,8.08,7.83,8.0,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-8.0,8.08,7.92,8.0,8.08,8.08,10.0,10.0,10.0,East Africa,Other,Natural / Dry
-8.08,8.0,8.0,8.25,7.92,7.92,10.0,10.0,10.0,East Africa,SL34,Washed / Wet
-8.08,8.17,8.0,7.92,7.92,7.83,10.0,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-8.25,8.42,8.08,7.75,7.67,7.83,10.0,10.0,10.0,United States,Other,Other
-7.92,7.75,8.08,8.08,8.08,8.17,10.0,10.0,10.0,East Africa,Other,Other
-7.67,8.17,8.0,8.0,8.17,8.08,10.0,10.0,10.0,United States,Other,Washed / Wet
-7.83,8.33,7.83,8.25,7.58,7.92,10.0,10.0,10.0,Asia Pacific,Caturra,Washed / Wet
-8.17,7.92,7.92,7.75,8.33,8.0,10.0,10.0,10.0,Brazil,Yellow Bourbon,Other
-8.42,7.92,8.0,7.75,7.92,8.0,10.0,10.0,10.0,Brazil,Yellow Bourbon,Other
-8.08,8.17,7.75,8.08,7.75,7.83,10.0,10.0,10.0,Taiwan,Bourbon,Semi-washed / Semi-pulped
-8.08,8.08,8.0,8.0,7.83,8.08,10.0,10.0,10.0,East Africa,SL28,Natural / Dry
-8.33,8.0,8.0,8.0,7.75,8.0,10.0,10.0,10.0,Brazil,Bourbon,Semi-washed / Semi-pulped
-8.08,8.08,7.83,7.92,8.08,7.92,10.0,10.0,10.0,East Africa,Other,Semi-washed / Semi-pulped
-7.75,7.92,7.83,8.08,8.08,8.17,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.92,8.17,7.83,8.5,7.5,7.92,10.0,10.0,10.0,East Africa,SL28,Washed / Wet
-8.25,8.0,7.83,8.08,8.0,7.92,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.75,8.08,8.0,8.25,8.0,8.0,10.0,10.0,10.0,East Africa,Other,Other
-8.33,8.17,7.75,8.0,7.75,7.83,10.0,10.0,10.0,United States,Other,Other
-7.92,8.08,7.92,8.08,8.08,7.83,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-8.17,8.17,7.92,8.08,7.83,7.75,10.0,10.0,10.0,East Africa,SL14,Natural / Dry
-8.0,8.0,8.0,8.17,7.83,8.0,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-8.0,8.0,7.92,8.08,7.83,8.0,10.0,10.0,10.0,Central America,Gesha,Washed / Wet
-7.83,8.08,7.92,8.08,8.0,7.92,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.83,8.0,8.0,8.17,7.83,8.0,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-8.0,8.0,7.83,8.33,7.83,7.83,10.0,10.0,10.0,Guatemala,Catuai,Washed / Wet
-7.83,8.0,7.83,8.17,7.92,8.0,10.0,10.0,10.0,East Africa,Caturra,Natural / Dry
-8.33,8.42,7.83,8.33,8.0,8.25,9.33,9.33,10.0,Asia Pacific,Other,Washed / Wet
-7.92,8.17,8.0,7.92,7.75,7.83,10.0,10.0,10.0,Central America,Bourbon,Washed / Wet
-7.83,8.0,8.0,7.75,7.92,8.17,10.0,10.0,10.0,Central America,Bourbon,Semi-washed / Semi-pulped
-7.83,8.0,7.92,7.75,8.08,8.0,10.0,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-8.0,7.75,7.83,7.83,7.67,8.58,10.0,10.0,10.0,Central America,Caturra,Natural / Dry
-7.92,7.92,7.83,8.08,7.83,7.92,10.0,10.0,10.0,East Africa,SL28,Natural / Dry
-7.83,8.0,7.83,7.92,7.83,8.08,10.0,10.0,10.0,East Africa,Other,Natural / Dry
-8.33,7.92,7.67,7.92,7.67,7.92,10.0,10.0,10.0,East Africa,SL14,Washed / Wet
-8.0,7.83,7.67,8.33,7.83,8.0,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.75,7.83,7.83,8.17,7.92,7.83,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-8.08,8.0,7.83,7.67,8.0,7.83,10.0,10.0,10.0,East Africa,SL14,Washed / Wet
-7.92,7.92,7.75,7.92,7.75,7.92,10.0,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-8.0,8.0,8.0,7.67,7.75,8.0,10.0,10.0,10.0,Brazil,Bourbon,Semi-washed / Semi-pulped
-8.08,7.83,7.83,8.08,7.83,7.83,10.0,10.0,10.0,Central America,Other,Other
-8.0,8.0,8.0,7.83,7.83,7.75,10.0,10.0,10.0,Asia Pacific,Catimor,Natural / Dry
-7.83,7.75,7.83,7.67,7.83,8.58,10.0,10.0,10.0,Guatemala,Pacamara,Natural / Dry
-7.92,8.08,8.0,7.92,8.0,8.08,10.0,10.0,9.33,Central America,Caturra,Washed / Wet
-8.0,7.58,7.58,7.67,8.08,8.5,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.83,8.08,7.75,8.08,7.92,7.75,10.0,10.0,10.0,East Africa,SL34,Washed / Wet
-8.0,7.92,7.92,8.08,7.83,7.75,10.0,10.0,10.0,East Africa,SL34,Washed / Wet
-7.83,7.83,7.92,8.08,7.75,7.83,10.0,10.0,10.0,East Africa,Other,Other
-7.92,7.83,7.75,8.33,7.75,7.75,10.0,10.0,10.0,East Africa,Typica,Other
-8.0,7.92,7.75,8.0,7.92,7.83,10.0,10.0,10.0,Guatemala,Bourbon,Other
-8.17,7.92,7.83,8.0,7.58,7.83,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.58,8.08,7.92,7.83,8.0,7.92,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-8.25,8.0,7.67,7.92,7.75,7.67,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.75,8.0,7.58,8.0,8.0,7.92,10.0,10.0,10.0,East Africa,Other,Natural / Dry
-8.17,7.83,7.58,8.08,8.0,7.75,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-8.42,8.0,7.42,8.0,7.92,7.92,9.33,10.0,10.0,East Africa,Other,Natural / Dry
-7.58,7.83,7.83,7.92,7.83,8.17,10.0,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-7.83,8.0,7.75,7.75,7.83,7.83,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-8.08,8.17,7.92,8.0,8.08,8.0,9.33,9.33,10.0,United States,Other,Other
-7.67,8.0,7.83,8.0,7.92,7.83,10.0,10.0,10.0,East Africa,Other,Other
-7.5,7.92,8.25,7.83,7.92,7.75,10.0,10.0,10.0,United States,Other,Other
-8.17,7.92,7.75,7.75,7.67,7.75,10.0,10.0,10.0,East Africa,SL14,Washed / Wet
-8.0,7.92,7.75,7.92,7.75,7.83,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.83,8.0,7.58,7.92,7.92,7.83,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.83,8.0,7.83,7.75,7.67,7.83,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-8.17,7.83,7.92,7.75,7.67,7.83,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.75,7.83,7.75,8.08,8.0,7.75,10.0,10.0,10.0,East Africa,SL34,Washed / Wet
-8.0,8.0,7.83,7.83,7.67,7.67,10.0,10.0,10.0,Brazil,Mundo Novo,Natural / Dry
-7.92,8.17,7.75,8.08,7.42,7.83,10.0,10.0,10.0,Mexico,Pacamara,Other
-7.75,7.92,7.75,7.75,8.0,8.0,10.0,10.0,10.0,United States,Other,Other
-7.83,8.08,7.67,8.0,7.75,7.67,10.0,10.0,10.0,Guatemala,Other,Other
-7.92,7.92,7.67,7.83,7.92,7.83,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.92,7.83,7.75,7.83,7.75,8.0,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.83,8.0,7.58,8.0,7.92,10.0,10.0,10.0,Taiwan,Typica,Semi-washed / Semi-pulped
-8.0,7.83,7.83,7.92,7.75,7.75,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.75,7.92,7.83,7.75,7.75,8.0,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.75,8.0,7.75,7.83,7.5,7.92,10.0,10.0,10.0,Mexico,Typica,Semi-washed / Semi-pulped
-8.0,7.92,7.75,7.75,8.0,7.75,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-8.0,8.0,7.75,8.0,7.5,7.75,10.0,10.0,10.0,Brazil,Catuai,Natural / Dry
-8.0,7.67,7.83,8.17,7.92,7.75,10.0,10.0,10.0,East Africa,Other,Other
-7.92,7.58,7.83,7.83,7.83,7.83,10.0,10.0,10.0,Taiwan,Typica,Natural / Dry
-7.75,7.92,7.67,7.67,8.25,7.75,10.0,10.0,10.0,East Africa,SL14,Natural / Dry
-7.67,7.75,7.75,7.75,7.83,8.0,10.0,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-7.75,7.92,7.83,7.92,7.75,7.67,10.0,10.0,10.0,East Africa,Other,Other
-7.42,7.92,7.92,8.0,7.83,7.83,10.0,10.0,10.0,East Africa,Other,Other
-7.75,7.75,7.75,7.75,8.0,7.75,10.0,10.0,10.0,Asia Pacific,Caturra,Pulped natural / honey
-7.92,7.83,7.58,7.92,7.75,7.83,10.0,10.0,10.0,East Africa,SL34,Washed / Wet
-7.83,7.75,8.0,7.67,7.67,7.67,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.75,8.0,8.0,8.33,7.67,7.92,10.0,10.0,9.33,Central America,Other,Other
-7.83,7.58,7.58,7.83,7.75,7.67,10.0,10.0,10.0,Central America,Other,Other
-7.83,7.83,7.5,8.0,7.83,7.67,10.0,10.0,10.0,Central America,Bourbon,Washed / Wet
-7.92,7.83,7.75,7.75,7.75,7.75,10.0,10.0,10.0,Asia Pacific,Java,Washed / Wet
-7.75,7.75,7.75,7.42,8.08,7.83,10.0,10.0,10.0,Asia Pacific,Mundo Novo,Pulped natural / honey
-8.08,7.75,7.67,7.83,7.5,7.92,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.75,7.83,7.58,8.0,7.92,7.75,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-8.17,8.0,7.83,7.17,7.83,7.75,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-8.08,7.83,7.75,7.83,7.58,7.67,10.0,10.0,10.0,East Africa,Ethiopian Yirgacheffe,Washed / Wet
-7.67,7.58,7.75,7.75,7.67,8.58,10.0,10.0,10.0,Central America,Other,Other
-8.0,7.58,7.83,7.75,7.75,7.75,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-8.08,7.83,7.75,7.83,7.92,8.0,10.0,10.0,9.33,Central America,Other,Washed / Wet
-8.0,7.92,7.75,7.75,7.75,7.75,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.75,7.83,7.75,7.83,7.75,7.83,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.75,7.92,7.83,8.0,7.58,7.75,10.0,10.0,10.0,East Africa,SL28,Washed / Wet
-8.0,7.83,7.67,7.83,7.67,8.0,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.67,7.83,7.67,8.0,7.67,7.83,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.83,7.58,7.67,7.92,7.92,7.83,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.92,7.83,7.75,7.92,7.67,7.75,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.42,7.75,7.75,8.0,8.0,7.92,10.0,10.0,10.0,East Africa,Other,Other
-7.92,7.75,7.83,7.75,7.58,7.92,10.0,10.0,10.0,East Africa,SL34,Washed / Wet
-7.83,7.67,7.58,7.92,7.67,7.83,10.0,10.0,10.0,Colombia,Other,Washed / Wet
-7.92,7.83,7.58,8.0,7.83,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.83,7.83,7.83,7.75,7.58,7.83,10.0,10.0,10.0,East Africa,Peaberry,Washed / Wet
-7.75,7.83,7.67,7.92,7.75,7.83,10.0,10.0,10.0,Guatemala,Pacas,Washed / Wet
-8.0,7.92,7.67,7.58,7.58,7.67,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.67,7.67,7.58,7.75,7.58,8.5,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.75,7.75,7.83,7.75,7.58,8.0,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.75,7.75,7.75,8.08,7.75,7.75,10.0,10.0,10.0,East Africa,SL28,Washed / Wet
-7.67,7.83,7.83,8.0,7.58,7.92,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.75,7.83,7.75,8.0,7.83,7.67,10.0,10.0,10.0,Central America,Bourbon,Semi-washed / Semi-pulped
-7.42,7.67,7.75,7.75,8.08,7.83,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-8.0,8.0,7.75,7.75,7.58,7.75,10.0,10.0,10.0,Brazil,Bourbon,Semi-washed / Semi-pulped
-8.5,8.0,7.5,7.75,7.5,7.83,10.0,10.0,10.0,Brazil,Catuai,Semi-washed / Semi-pulped
-7.92,7.67,7.92,7.75,7.67,7.58,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.92,7.75,7.67,7.75,7.83,7.75,10.0,10.0,10.0,East Africa,SL14,Washed / Wet
-7.75,7.92,7.67,7.83,7.75,7.67,10.0,10.0,10.0,Asia Pacific,Catimor,Washed / Wet
-7.92,7.83,7.83,7.83,7.58,7.58,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-8.08,7.67,7.83,7.83,7.67,7.67,10.0,10.0,10.0,Colombia,Other,Washed / Wet
-7.67,8.0,7.75,7.83,7.75,7.58,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-8.17,7.83,7.67,7.83,7.67,7.83,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.92,7.83,7.67,8.0,7.67,7.75,10.0,10.0,10.0,East Africa,SL28,Washed / Wet
-8.0,7.92,7.42,8.08,7.5,7.67,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.92,7.83,7.75,7.75,7.75,7.83,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.67,8.0,7.67,8.0,7.5,7.83,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.81,7.81,7.88,7.75,7.38,8.25,9.5,10.0,10.0,Brazil,Other,Other
-8.17,7.67,7.75,7.75,7.67,7.75,10.0,10.0,10.0,Brazil,Other,Other
-7.58,7.83,7.83,8.0,7.67,7.58,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.67,7.67,7.83,7.58,7.83,7.83,10.0,10.0,10.0,Asia Pacific,Mandheling,Other
-7.92,7.83,7.75,7.67,7.92,7.67,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.92,7.75,7.67,7.92,7.67,7.75,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.83,7.83,7.75,8.0,7.5,7.75,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.92,7.92,7.5,7.83,7.5,7.92,10.0,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-7.75,7.92,7.75,7.67,7.83,7.67,10.0,10.0,10.0,Mexico,Pacamara,Washed / Wet
-7.5,7.75,7.83,7.92,7.92,7.75,10.0,10.0,10.0,East Africa,Other,Other
-7.33,7.58,7.83,7.75,7.75,7.92,10.0,10.0,10.0,East Africa,SL28,Washed / Wet
-7.92,8.0,7.75,7.67,7.67,7.75,10.0,10.0,10.0,Central America,Caturra,Other
-7.58,7.75,7.5,7.83,7.67,8.5,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.58,7.92,7.58,7.75,7.92,7.75,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.67,7.67,7.75,7.83,7.75,7.83,10.0,10.0,10.0,Colombia,Other,Other
-7.75,7.67,8.0,7.67,8.08,7.83,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.75,7.58,7.33,7.83,7.58,8.08,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-8.0,7.75,7.75,7.83,7.5,7.67,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-8.17,8.0,7.5,7.75,7.5,7.67,10.0,10.0,10.0,Brazil,Yellow Bourbon,Other
-8.0,8.0,7.5,7.5,7.67,7.75,10.0,10.0,10.0,Brazil,Other,Other
-7.75,7.75,7.92,7.75,7.5,7.92,10.0,10.0,10.0,East Africa,Other,Other
-7.5,7.67,7.75,7.67,7.92,7.92,10.0,10.0,10.0,Guatemala,Other,Other
-7.92,7.75,7.75,7.67,7.67,7.83,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.83,7.75,7.75,7.42,7.83,7.67,10.0,10.0,10.0,Asia Pacific,Catimor,Natural / Dry
-7.83,7.58,7.75,7.58,7.67,8.0,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.75,7.75,7.58,7.92,7.75,7.75,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.75,7.92,7.5,8.08,7.58,7.67,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.83,7.83,7.58,7.75,7.75,7.75,10.0,10.0,10.0,Asia Pacific,Catimor,Natural / Dry
-7.67,7.67,7.75,7.75,7.67,7.92,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.83,7.67,7.75,7.58,7.92,7.75,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.83,7.75,7.83,7.58,7.67,7.75,10.0,10.0,10.0,Colombia,Other,Washed / Wet
-7.42,7.67,7.83,7.75,7.92,7.83,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.83,7.67,7.75,7.83,7.67,7.67,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.83,7.75,7.75,7.75,7.67,7.75,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.83,7.83,7.5,7.92,7.58,7.75,10.0,10.0,10.0,Guatemala,Bourbon,Other
-7.58,7.5,7.75,7.83,7.92,7.83,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.33,7.92,7.92,7.92,7.92,8.08,10.0,10.0,9.33,United States,Hawaiian Kona,Natural / Dry
-7.83,7.92,7.67,7.83,7.5,7.75,10.0,10.0,10.0,Mexico,Typica,Semi-washed / Semi-pulped
-7.83,7.83,7.75,7.67,7.83,7.58,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.83,7.92,7.67,7.75,7.5,7.75,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-8.17,7.75,7.58,7.67,7.83,7.58,10.0,10.0,10.0,East Africa,Other,Natural / Dry
-7.75,7.83,7.58,7.83,7.67,7.75,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.83,7.75,7.58,7.67,7.75,7.83,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.92,7.75,7.67,7.67,7.5,7.67,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.75,7.75,7.58,8.0,7.67,7.83,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.75,7.92,7.58,7.92,7.67,7.67,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.58,7.83,7.58,7.83,7.83,7.67,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-8.0,7.5,7.5,7.67,8.0,7.83,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.83,7.83,7.5,7.67,7.83,10.0,10.0,10.0,Central America,Caturra,Natural / Dry
-7.67,7.75,7.75,7.67,7.83,7.75,10.0,10.0,10.0,Brazil,Catuai,Natural / Dry
-7.67,7.75,7.67,7.75,7.5,8.0,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.5,7.92,7.58,7.83,7.75,7.83,10.0,10.0,10.0,East Africa,Gesha,Natural / Dry
-7.92,7.75,7.75,7.75,7.75,7.58,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.67,7.5,7.67,7.42,7.83,8.58,10.0,10.0,10.0,Colombia,Other,Washed / Wet
-7.67,7.75,7.67,7.75,7.75,7.75,10.0,10.0,10.0,Guatemala,Other,Washed / Wet
-7.58,7.75,7.75,7.75,7.75,7.83,10.0,10.0,10.0,East Africa,SL28,Washed / Wet
-7.58,7.83,7.75,7.67,7.67,8.0,10.0,10.0,10.0,Brazil,Mundo Novo,Natural / Dry
-7.92,7.75,7.67,7.67,7.83,7.92,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-8.42,8.08,7.5,7.17,7.58,8.17,9.33,10.0,10.0,Central America,Bourbon,Natural / Dry
-7.75,7.75,7.75,7.75,7.83,7.75,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.83,7.5,7.5,8.0,7.83,7.83,10.0,10.0,10.0,Guatemala,Catuai,Natural / Dry
-7.83,7.75,7.5,7.83,7.83,7.75,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.81,7.88,7.56,7.75,7.63,7.75,10.0,10.0,10.0,Asia Pacific,Mandheling,Natural / Dry
-7.83,7.5,7.42,7.5,7.83,8.5,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.58,7.67,7.67,7.67,7.75,7.83,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-8.0,7.75,7.5,7.58,7.92,7.67,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.92,7.75,7.67,7.75,7.67,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.58,7.75,7.67,8.0,7.75,7.67,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.83,7.75,7.83,7.83,7.42,8.08,9.33,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-7.67,7.75,7.67,7.75,7.67,7.75,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.92,7.92,7.83,8.0,7.92,7.92,10.0,10.0,8.67,East Africa,Other,Natural / Dry
-7.58,7.75,7.67,7.75,7.83,7.75,10.0,10.0,10.0,Central America,Other,Washed / Wet
-7.83,7.75,7.67,7.75,7.33,7.75,10.0,10.0,10.0,East Africa,Gesha,Natural / Dry
-7.42,7.83,7.75,7.92,7.75,7.58,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.67,7.83,7.58,7.92,7.75,7.67,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.67,7.67,7.83,7.58,7.58,7.83,10.0,10.0,10.0,Colombia,Other,Washed / Wet
-7.92,7.67,7.42,7.92,7.75,7.83,10.0,10.0,10.0,Guatemala,Bourbon,Natural / Dry
-7.75,7.83,7.5,7.83,7.58,7.67,10.0,10.0,10.0,Guatemala,Bourbon,Other
-7.67,7.75,7.67,7.67,7.67,7.75,10.0,10.0,10.0,Colombia,Other,Washed / Wet
-7.58,7.42,7.75,7.92,7.75,7.92,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.67,7.67,7.5,7.5,7.67,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.75,7.75,7.5,7.58,7.67,7.92,10.0,10.0,10.0,East Africa,Other,Natural / Dry
-7.58,7.83,7.67,7.25,8.0,7.75,10.0,10.0,10.0,Brazil,Yellow Bourbon,Natural / Dry
-7.67,7.83,7.67,7.75,7.67,7.75,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.83,7.5,7.75,7.92,7.67,10.0,10.0,10.0,East Africa,SL34,Washed / Wet
-7.92,8.17,8.17,8.42,8.08,8.17,8.67,8.67,9.33,Asia Pacific,Other,Washed / Wet
-7.67,7.75,7.67,7.75,7.83,7.67,10.0,10.0,10.0,East Africa,SL28,Washed / Wet
-7.92,7.75,7.58,7.67,7.67,7.83,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.58,7.75,7.58,7.75,7.58,7.75,10.0,10.0,10.0,Asia Pacific,Other,Other
-7.5,7.75,7.58,7.5,7.58,7.5,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.83,7.83,7.58,7.92,7.42,7.5,10.0,10.0,10.0,Mexico,Mundo Novo,Washed / Wet
-7.67,7.75,7.5,7.67,7.67,7.83,10.0,10.0,10.0,Asia Pacific,Catimor,Natural / Dry
-7.58,7.67,7.67,7.75,7.58,7.83,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.83,7.75,7.83,7.75,7.83,7.75,9.33,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.75,7.67,7.5,7.75,7.83,7.75,10.0,10.0,10.0,Colombia,Other,Other
-7.75,7.58,7.5,7.83,7.75,7.92,10.0,10.0,10.0,Colombia,Other,Other
-7.75,7.75,7.58,7.75,7.75,7.67,10.0,10.0,10.0,Taiwan,Other,Natural / Dry
-7.92,7.67,7.5,7.83,7.58,7.67,10.0,10.0,10.0,Colombia,Other,Washed / Wet
-7.83,7.75,7.58,7.58,7.75,7.75,10.0,10.0,10.0,Colombia,Other,Washed / Wet
-7.75,7.58,7.67,7.83,7.83,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-8.0,7.92,7.92,7.92,7.67,7.33,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.67,7.83,7.67,7.75,7.67,7.83,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.67,7.75,7.58,7.67,7.75,7.83,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.5,7.67,7.58,7.83,7.75,7.75,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.75,7.92,7.83,7.92,7.75,7.67,9.33,10.0,10.0,Mexico,Typica,Washed / Wet
-7.92,7.58,7.5,7.83,7.58,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.83,7.67,7.5,7.75,7.75,7.75,10.0,10.0,10.0,Colombia,Caturra,Other
-7.67,7.67,7.75,7.67,7.5,7.75,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.75,7.75,7.5,7.75,7.83,7.58,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.75,7.67,7.5,7.75,7.75,7.67,10.0,10.0,10.0,Taiwan,Other,Other
-7.25,7.58,7.42,8.0,7.75,7.83,10.0,10.0,10.0,Brazil,Yellow Bourbon,Natural / Dry
-7.67,7.75,7.67,7.75,7.42,7.75,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.75,7.75,7.67,7.67,7.58,7.67,10.0,10.0,10.0,East Africa,Other,Natural / Dry
-7.67,7.67,7.58,7.5,7.83,8.17,10.0,10.0,9.33,Brazil,Bourbon,Semi-washed / Semi-pulped
-7.83,7.42,7.5,7.83,7.75,7.83,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.58,7.83,7.33,8.0,7.58,7.75,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.92,7.5,7.33,7.67,8.17,7.5,10.0,10.0,10.0,Brazil,Yellow Bourbon,Natural / Dry
-7.67,7.58,7.58,7.83,7.58,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.5,7.83,7.5,7.83,7.83,7.67,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.67,8.0,7.67,7.42,7.67,7.5,10.0,10.0,10.0,Mexico,Bourbon,Natural / Dry
-7.67,7.58,7.5,7.75,7.75,7.75,10.0,10.0,10.0,Mexico,Pacas,Natural / Dry
-7.83,7.83,7.58,7.67,7.5,7.58,10.0,10.0,10.0,Brazil,Yellow Bourbon,Semi-washed / Semi-pulped
-7.75,7.75,7.58,8.0,7.67,7.58,10.0,10.0,10.0,Asia Pacific,Other,Other
-7.5,7.83,7.58,7.58,7.75,7.83,10.0,10.0,10.0,Asia Pacific,Other,Other
-7.58,7.83,7.58,8.0,7.83,7.5,10.0,10.0,10.0,East Africa,Other,Other
-7.75,7.58,7.5,7.58,7.75,7.75,10.0,10.0,10.0,East Africa,SL28,Washed / Wet
-7.67,7.67,7.58,7.75,7.67,7.67,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.83,7.83,7.58,7.58,7.58,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.67,7.58,7.58,7.67,7.83,10.0,10.0,10.0,Taiwan,Typica,Natural / Dry
-7.92,7.75,7.5,7.67,7.75,7.5,10.0,10.0,10.0,Colombia,Other,Washed / Wet
-7.83,7.75,7.67,7.5,7.58,7.67,10.0,10.0,10.0,Asia Pacific,Catimor,Washed / Wet
-7.75,7.67,7.5,7.67,7.58,7.83,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-8.0,7.92,7.58,7.75,7.33,7.5,10.0,10.0,10.0,East Africa,Bourbon,Natural / Dry
-7.67,7.67,7.67,7.92,7.5,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.42,7.42,7.42,8.0,8.33,10.0,10.0,10.0,Colombia,Other,Washed / Wet
-7.58,7.67,7.75,7.67,7.67,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.75,7.67,7.75,7.58,7.42,8.0,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.25,7.42,7.67,7.58,7.83,8.25,10.0,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-7.83,7.58,7.58,7.5,7.75,7.67,10.0,10.0,10.0,Mexico,Caturra,Natural / Dry
-7.67,7.58,7.58,7.67,7.75,7.75,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.83,7.83,7.58,7.33,7.42,7.67,10.0,10.0,10.0,Colombia,Other,Other
-7.75,7.67,7.25,7.25,7.58,8.5,10.0,10.0,10.0,Colombia,Other,Other
-7.83,7.67,7.75,7.67,7.58,7.5,10.0,10.0,10.0,United States,Other,Other
-7.67,7.83,7.5,7.67,7.67,7.5,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-8.08,7.67,7.67,7.58,7.25,7.67,10.0,10.0,10.0,East Africa,SL28,Washed / Wet
-7.5,7.5,7.67,7.67,8.0,8.0,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.67,7.75,7.67,7.67,7.83,7.58,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.58,7.75,7.58,7.75,7.58,7.58,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.5,7.67,7.33,7.92,7.83,7.67,10.0,10.0,10.0,Taiwan,Caturra,Natural / Dry
-7.33,7.67,7.67,7.5,7.67,7.5,10.0,10.0,10.0,Central America,Other,Other
-7.5,7.75,7.58,7.83,7.67,7.58,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.5,7.75,7.5,7.75,7.67,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-8.0,7.5,7.33,8.0,8.0,8.0,9.33,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.83,7.75,7.67,7.58,7.58,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.67,7.67,7.67,7.33,7.75,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.67,7.42,7.67,8.0,7.75,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.83,7.67,7.33,7.67,7.67,7.83,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.75,7.75,7.58,7.83,7.17,7.75,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-8.17,8.17,7.83,7.67,8.08,7.75,9.33,9.33,9.33,Guatemala,Caturra,Natural / Dry
-7.67,8.17,7.5,7.42,7.58,7.83,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.67,7.5,7.5,7.33,7.83,8.25,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-8.17,7.67,7.58,7.58,7.42,7.67,10.0,10.0,10.0,Asia Pacific,Typica,Washed / Wet
-7.67,7.5,7.33,8.0,7.67,7.67,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.75,8.0,7.92,8.08,7.75,8.0,9.33,9.33,9.33,United States,Other,Other
-7.58,7.67,7.58,7.58,7.67,7.58,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.75,7.75,7.5,7.83,7.58,7.58,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.75,7.75,7.58,7.58,7.67,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.58,7.58,7.58,7.67,7.75,10.0,10.0,10.0,Asia Pacific,Catimor,Washed / Wet
-7.67,7.75,7.58,7.67,7.75,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.75,7.75,7.58,7.58,7.5,7.67,10.0,10.0,10.0,Mexico,Caturra,Washed / Wet
-7.75,7.67,7.58,7.67,7.5,7.67,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.67,7.67,7.42,7.75,7.75,7.67,10.0,10.0,10.0,East Africa,SL14,Washed / Wet
-7.67,7.58,7.67,7.67,7.67,7.67,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.67,7.58,7.67,7.58,7.67,7.75,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.75,7.58,7.5,7.58,7.75,7.83,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.75,7.75,7.75,7.75,7.5,7.58,10.0,10.0,10.0,Taiwan,Typica,Other
-7.67,7.67,7.58,7.67,7.75,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.83,7.67,7.58,7.58,7.67,7.58,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.67,7.58,7.58,7.58,7.67,7.75,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.83,7.75,7.5,7.75,7.5,7.58,10.0,10.0,10.0,Brazil,Catuai,Semi-washed / Semi-pulped
-7.75,7.58,7.58,7.75,7.75,7.5,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.58,7.58,7.17,7.17,7.0,7.0,10.0,10.0,10.0,Taiwan,Other,Other
-7.92,7.42,7.5,7.67,7.5,7.67,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.75,7.58,7.58,7.5,7.75,7.75,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.67,7.75,7.5,7.83,7.58,7.58,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.58,7.58,7.58,7.58,7.75,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.75,7.67,7.58,7.67,7.67,7.58,10.0,10.0,10.0,East Africa,Ruiru 11,Washed / Wet
-7.25,7.67,7.58,7.92,7.83,7.58,10.0,10.0,10.0,Asia Pacific,Sumatra,Semi-washed / Semi-pulped
-7.67,7.75,7.5,7.58,7.75,7.67,10.0,10.0,10.0,East Africa,Other,Natural / Dry
-7.67,7.42,7.67,7.83,7.58,7.67,10.0,10.0,10.0,Colombia,Other,Washed / Wet
-8.0,7.58,7.25,7.58,7.92,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.58,7.75,7.5,7.83,7.42,7.67,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.75,7.58,7.33,7.5,7.83,7.83,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.5,7.67,7.5,7.67,7.67,10.0,10.0,10.0,Central America,Caturra,Natural / Dry
-7.58,7.75,7.42,7.67,7.75,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.83,7.58,7.25,7.5,7.5,7.42,10.0,10.0,10.0,Mexico,Bourbon,Natural / Dry
-7.67,7.75,7.67,7.75,7.58,7.5,10.0,10.0,10.0,Mexico,Typica,Semi-washed / Semi-pulped
-7.75,7.67,7.67,7.75,7.33,7.5,10.0,10.0,10.0,Mexico,Pacamara,Washed / Wet
-7.83,7.5,7.5,8.0,7.67,7.5,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.67,7.58,7.58,7.67,7.67,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.5,7.5,7.75,7.5,8.0,7.67,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.5,7.67,7.58,7.92,7.58,7.67,10.0,10.0,10.0,United States,Other,Other
-7.83,7.58,7.58,7.58,7.75,7.58,10.0,10.0,10.0,Asia Pacific,Other,Other
-7.5,7.58,7.58,7.5,7.75,7.83,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.75,7.5,7.58,7.58,7.67,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.67,7.67,7.5,7.67,7.67,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.58,7.5,7.42,7.92,7.5,7.67,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.67,7.67,7.0,7.08,7.0,7.0,10.0,10.0,10.0,Taiwan,Other,Other
-7.58,7.75,7.33,7.75,7.67,7.58,10.0,10.0,10.0,East Africa,SL14,Washed / Wet
-7.5,7.58,7.75,7.5,7.75,7.67,10.0,10.0,10.0,Asia Pacific,Catimor,Washed / Wet
-7.58,7.5,7.75,7.58,7.75,7.67,10.0,10.0,10.0,Central America,Bourbon,Washed / Wet
-7.58,7.67,7.58,7.67,7.58,7.67,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.33,7.83,7.75,7.5,7.42,7.83,10.0,10.0,10.0,Brazil,Yellow Bourbon,Semi-washed / Semi-pulped
-7.75,7.67,7.58,7.67,7.58,7.58,10.0,10.0,10.0,East Africa,Bourbon,Washed / Wet
-7.58,7.58,7.25,7.75,7.75,8.58,9.33,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.75,7.83,7.33,7.83,7.5,7.67,10.0,10.0,10.0,Guatemala,Bourbon,Natural / Dry
-7.67,7.75,7.5,7.83,7.58,7.5,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.67,7.5,7.75,7.42,7.75,7.75,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.42,7.75,7.67,7.58,7.67,7.67,10.0,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-7.5,7.75,7.58,7.5,7.67,7.75,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.58,7.58,7.58,7.67,7.75,7.67,10.0,10.0,10.0,Colombia,Other,Other
-7.5,7.92,7.42,7.67,7.83,7.58,10.0,10.0,10.0,United States,Other,Other
-7.58,7.25,7.5,7.92,7.92,7.42,10.0,10.0,10.0,Asia Pacific,Peaberry,Other
-7.25,7.88,7.38,7.63,7.5,8.75,9.0,10.0,10.0,Mexico,Other,Other
-7.75,7.5,7.75,7.58,7.58,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.58,7.58,7.42,7.67,7.75,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.83,7.58,7.58,7.58,7.5,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.5,7.83,7.33,7.58,7.58,7.92,10.0,10.0,10.0,Brazil,Catuai,Semi-washed / Semi-pulped
-7.75,7.75,7.5,7.67,7.5,7.58,10.0,10.0,10.0,Mexico,Caturra,Washed / Wet
-7.67,7.75,7.42,7.83,7.83,7.42,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.75,7.58,7.67,7.58,7.58,7.58,10.0,10.0,10.0,East Africa,Other,Semi-washed / Semi-pulped
-7.67,7.67,7.58,7.67,7.5,7.58,10.0,10.0,10.0,Mexico,Other,Washed / Wet
-7.67,7.67,7.42,7.67,7.67,7.67,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.83,7.58,7.83,7.67,7.92,8.0,9.33,10.0,9.33,United States,Hawaiian Kona,Natural / Dry
-7.5,7.67,7.67,7.5,7.83,7.17,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.67,7.67,7.5,7.67,7.92,7.42,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.83,7.67,7.17,7.67,7.67,7.67,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.92,7.5,7.58,7.83,7.67,7.67,9.33,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-7.75,7.67,7.33,7.5,7.5,7.75,10.0,10.0,10.0,East Africa,Bourbon,Washed / Wet
-7.5,7.67,7.67,7.58,7.67,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-8.08,7.83,7.83,7.75,7.67,7.58,9.33,10.0,9.33,United States,Other,Other
-7.58,7.67,7.58,7.5,7.83,7.67,10.0,10.0,10.0,United States,Other,Other
-7.67,7.83,7.42,7.83,7.33,7.5,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.5,7.5,7.83,7.5,7.67,7.67,10.0,10.0,10.0,Central America,Catuai,Pulped natural / honey
-7.83,7.5,7.42,7.67,7.5,7.67,10.0,10.0,10.0,Central America,Other,Washed / Wet
-7.5,7.58,7.42,7.83,7.67,7.58,10.0,10.0,10.0,Guatemala,Pacas,Washed / Wet
-7.5,7.67,7.67,7.42,7.67,7.67,10.0,10.0,10.0,East Africa,SL14,Washed / Wet
-7.58,7.67,7.42,7.5,7.67,7.42,10.0,10.0,10.0,Brazil,Other,Other
-7.58,7.67,7.67,7.17,7.75,7.83,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.83,7.75,7.5,7.58,7.58,7.58,10.0,10.0,10.0,Mexico,Typica,Natural / Dry
-7.67,7.5,7.5,7.5,7.67,7.83,10.0,10.0,10.0,Taiwan,Bourbon,Washed / Wet
-7.92,7.83,7.75,7.58,7.5,7.33,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.58,7.58,7.5,7.58,7.58,7.75,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.5,7.67,7.58,7.67,7.67,7.5,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.83,7.5,7.67,7.33,7.67,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.58,7.75,7.5,7.5,7.58,7.58,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.58,7.75,7.83,8.0,8.08,7.67,9.33,10.0,9.33,United States,Hawaiian Kona,Natural / Dry
-7.75,7.58,7.58,7.58,7.5,7.58,10.0,10.0,10.0,Mexico,Mundo Novo,Washed / Wet
-7.75,7.75,7.42,7.92,7.33,7.5,10.0,10.0,10.0,Mexico,Caturra,Washed / Wet
-7.83,7.58,7.08,7.83,7.42,8.08,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.75,7.67,7.5,7.58,7.58,7.58,10.0,10.0,10.0,Brazil,Yellow Bourbon,Semi-washed / Semi-pulped
-7.67,7.58,7.58,7.42,7.83,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.67,7.5,7.5,7.58,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.92,7.75,7.25,7.42,7.83,7.58,10.0,10.0,10.0,Colombia,Other,Other
-8.0,7.67,7.67,7.25,7.67,7.5,10.0,10.0,10.0,Colombia,Other,Other
-7.92,7.75,7.5,7.42,7.42,7.67,10.0,10.0,10.0,Colombia,Other,Other
-7.67,7.42,7.5,7.58,7.67,7.58,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.58,7.58,7.33,7.67,7.75,7.58,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.67,7.58,7.42,7.67,7.67,7.58,10.0,10.0,10.0,East Africa,Bourbon,Washed / Wet
-7.58,7.42,7.08,7.33,7.58,8.58,10.0,10.0,10.0,Asia Pacific,Catimor,Natural / Dry
-7.67,7.75,7.42,7.75,7.58,7.5,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.67,7.67,7.5,7.67,7.5,7.67,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.5,7.67,7.33,7.67,7.67,7.67,10.0,10.0,10.0,Asia Pacific,Catimor,Washed / Wet
-7.67,7.67,7.5,7.67,7.42,7.58,10.0,10.0,10.0,Asia Pacific,Catimor,Washed / Wet
-7.5,7.5,7.33,7.67,8.0,7.67,10.0,10.0,10.0,Central America,Bourbon,Washed / Wet
-7.5,7.75,7.5,7.83,7.58,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.92,7.67,7.42,7.75,7.5,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.83,7.75,7.67,7.75,7.83,8.5,9.33,9.33,9.33,East Africa,SL28,Washed / Wet
-7.67,7.58,7.58,7.75,7.42,7.67,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.58,7.67,7.67,7.58,7.42,7.58,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.58,7.5,7.5,7.67,7.5,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-8.0,7.67,7.5,7.42,7.33,7.58,10.0,10.0,10.0,East Africa,SL14,Washed / Wet
-7.58,7.75,7.5,7.58,7.58,7.58,10.0,10.0,10.0,Colombia,Other,Washed / Wet
-7.5,7.5,7.5,7.67,7.67,7.67,10.0,10.0,10.0,Central America,Catuai,Natural / Dry
-7.67,7.67,7.5,7.67,7.5,7.67,10.0,10.0,10.0,Central America,Caturra,Natural / Dry
-7.33,7.83,7.17,8.17,7.33,7.67,10.0,10.0,10.0,Guatemala,Catuai,Washed / Wet
-7.5,7.5,7.58,7.42,7.92,7.67,10.0,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-7.58,7.5,7.58,7.75,7.58,7.58,10.0,10.0,10.0,East Africa,Bourbon,Washed / Wet
-7.67,7.83,7.33,7.67,7.5,7.67,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.75,7.58,7.58,7.58,7.5,7.42,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.75,7.67,7.58,7.5,7.42,7.58,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.58,7.75,7.42,7.67,7.5,7.58,10.0,10.0,10.0,Mexico,Pacamara,Washed / Wet
-7.67,7.5,7.5,7.5,7.58,8.17,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.75,7.5,7.42,7.75,7.58,7.58,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.58,7.67,7.5,7.58,7.67,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.5,7.75,7.58,7.58,7.67,7.5,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.75,7.67,7.58,7.5,7.58,7.58,10.0,10.0,10.0,Brazil,Mundo Novo,Natural / Dry
-7.92,7.58,7.5,7.58,7.42,7.5,10.0,10.0,10.0,Brazil,Mundo Novo,Natural / Dry
-7.75,7.5,7.67,7.5,7.92,8.0,10.0,10.0,9.33,Guatemala,Bourbon,Washed / Wet
-7.75,7.5,7.58,7.5,7.75,7.5,10.0,10.0,10.0,Brazil,Mundo Novo,Semi-washed / Semi-pulped
-7.58,7.75,7.67,7.5,7.67,7.58,10.0,10.0,10.0,Brazil,Other,Other
-7.42,7.83,8.17,8.08,7.17,7.58,10.0,9.33,10.0,Central America,Other,Other
-7.75,8.0,7.67,8.08,7.83,7.92,9.33,9.33,9.33,East Africa,Other,Other
-7.58,7.67,7.33,7.67,7.75,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.75,7.5,7.5,7.42,8.0,7.75,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.58,7.58,7.58,7.5,7.67,7.58,10.0,10.0,10.0,Brazil,Yellow Bourbon,Pulped natural / honey
-7.33,7.67,7.67,7.33,7.75,7.42,10.0,10.0,10.0,Brazil,Yellow Bourbon,Natural / Dry
-7.83,7.92,7.5,7.83,7.67,7.25,9.33,10.0,10.0,Taiwan,Typica,Natural / Dry
-7.42,7.67,7.58,7.5,7.75,7.67,10.0,10.0,10.0,Brazil,Mundo Novo,Natural / Dry
-7.58,7.83,7.67,7.42,7.42,7.5,10.0,10.0,10.0,Brazil,Bourbon,Washed / Wet
-7.83,7.33,7.5,7.67,7.58,7.67,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.33,7.75,7.58,7.33,7.83,7.67,10.0,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-7.75,7.75,7.5,7.5,7.5,7.5,10.0,10.0,10.0,Taiwan,Typica,Other
-7.83,7.83,7.33,7.17,7.75,7.67,10.0,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-7.75,7.67,7.42,7.75,7.5,7.5,10.0,10.0,10.0,Mexico,Other,Washed / Wet
-7.67,7.58,7.5,7.67,7.92,8.0,9.33,9.33,10.0,United States,Hawaiian Kona,Natural / Dry
-7.33,7.58,7.58,7.92,7.67,7.58,10.0,10.0,10.0,United States,Hawaiian Kona,Washed / Wet
-7.33,7.33,7.33,7.58,7.25,8.08,10.0,10.0,10.0,Colombia,Caturra,Other
-7.83,7.75,7.33,7.25,7.42,7.92,10.0,10.0,10.0,Colombia,Other,Other
-7.67,7.58,7.5,7.58,7.67,7.58,10.0,10.0,10.0,Asia Pacific,Other,Other
-7.92,7.67,7.67,7.25,7.83,7.67,9.33,10.0,10.0,Guatemala,Other,Other
-7.58,7.5,7.5,7.75,7.67,7.5,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.5,7.58,7.58,7.67,7.58,7.5,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.5,7.67,7.58,7.67,7.58,7.42,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.67,7.58,7.42,7.42,7.83,7.5,10.0,10.0,10.0,East Africa,Bourbon,Washed / Wet
-7.67,7.67,7.5,7.58,7.42,7.5,10.0,10.0,10.0,East Africa,Bourbon,Natural / Dry
-7.67,7.67,7.33,7.67,7.5,7.58,10.0,10.0,10.0,Colombia,Other,Other
-7.75,7.67,7.58,7.58,7.42,7.67,9.33,10.0,10.0,Asia Pacific,Caturra,Other
-7.67,7.75,7.33,7.92,7.42,7.5,10.0,10.0,10.0,Guatemala,Catuai,Washed / Wet
-7.75,7.67,7.33,7.75,7.5,7.42,10.0,10.0,10.0,Guatemala,Catuai,Washed / Wet
-7.83,7.67,7.25,7.67,7.75,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.67,7.67,7.67,7.5,7.42,7.5,10.0,10.0,10.0,Brazil,Catuai,Natural / Dry
-7.92,7.92,7.83,7.58,7.33,7.25,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.83,7.58,7.5,7.5,7.58,7.5,10.0,10.0,10.0,East Africa,SL14,Washed / Wet
-7.67,7.67,7.42,7.83,7.5,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.67,7.58,7.5,7.58,7.5,7.5,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.75,7.58,7.42,7.67,7.42,7.67,10.0,10.0,10.0,Brazil,Yellow Bourbon,Semi-washed / Semi-pulped
-7.75,7.42,7.33,7.5,7.58,7.17,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.83,7.5,7.58,7.33,7.5,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.33,7.67,7.75,7.42,7.75,7.58,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.58,7.75,7.42,7.67,7.58,7.42,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.5,7.5,7.42,7.58,7.75,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.58,7.42,7.5,7.67,7.58,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.67,7.83,7.5,7.58,7.58,7.67,9.33,10.0,10.0,Mexico,Typica,Semi-washed / Semi-pulped
-7.5,7.67,7.5,7.5,7.58,7.58,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.67,7.58,7.5,7.5,7.75,7.5,10.0,10.0,10.0,Colombia,Arusha,Natural / Dry
-7.75,7.58,7.5,7.67,7.83,7.75,9.33,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.58,7.58,7.58,7.67,7.42,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.5,7.67,7.5,7.67,7.5,7.83,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.67,7.67,7.58,7.5,7.67,7.42,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.33,7.67,7.58,7.5,7.75,7.67,10.0,10.0,10.0,Asia Pacific,Other,Other
-7.33,7.67,7.58,7.33,7.58,7.92,10.0,10.0,10.0,Colombia,Other,Other
-7.83,7.83,7.67,7.83,7.92,7.83,9.33,9.33,9.33,United States,Other,Other
-7.5,7.58,7.42,7.58,7.58,7.67,10.0,10.0,10.0,United States,Other,Other
-7.5,7.58,7.67,7.67,7.58,7.58,10.0,10.0,10.0,Colombia,Other,Other
-7.58,7.83,7.75,7.92,7.92,8.08,9.33,9.33,9.33,Central America,Caturra,Other
-7.5,7.25,7.42,7.75,8.17,7.5,10.0,10.0,10.0,Asia Pacific,Other,Other
-7.67,7.58,7.5,7.58,7.58,7.5,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.5,7.5,7.75,7.58,7.92,7.83,10.0,10.0,9.33,Central America,Bourbon,Washed / Wet
-7.58,7.67,7.5,7.33,7.67,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.17,7.83,7.25,7.67,7.67,7.58,10.0,10.0,10.0,Taiwan,Caturra,Natural / Dry
-7.5,7.58,7.67,7.33,7.5,7.75,10.0,10.0,10.0,Taiwan,Typica,Natural / Dry
-7.58,7.58,7.67,7.58,7.5,7.5,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-8.08,7.5,7.67,7.42,7.33,7.5,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.83,7.67,7.25,7.58,7.5,7.5,10.0,10.0,10.0,Mexico,Typica,Natural / Dry
-7.75,7.67,7.42,7.42,7.75,7.5,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-8.0,7.5,7.5,7.58,7.33,7.42,10.0,10.0,10.0,East Africa,SL14,Washed / Wet
-7.75,7.58,7.58,7.5,7.5,7.5,10.0,10.0,10.0,East Africa,SL14,Washed / Wet
-7.75,7.5,7.42,7.58,7.67,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.67,7.83,7.42,7.5,7.33,7.5,10.0,10.0,10.0,Guatemala,Caturra,Natural / Dry
-7.58,7.58,7.25,7.58,7.58,7.58,10.0,10.0,10.0,Guatemala,Other,Washed / Wet
-7.58,7.5,7.75,7.33,7.58,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.75,7.5,7.25,7.5,7.75,7.5,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.83,7.75,7.25,7.92,7.5,7.17,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.83,7.67,7.42,7.42,7.5,7.58,10.0,10.0,10.0,Colombia,Other,Washed / Wet
-7.58,7.58,7.33,7.25,7.58,7.75,10.0,10.0,10.0,Mexico,Typica,Natural / Dry
-7.67,7.33,7.17,7.58,8.08,7.42,10.0,10.0,10.0,Asia Pacific,Other,Natural / Dry
-8.0,7.92,7.67,7.17,7.67,7.42,9.33,10.0,10.0,Mexico,Typica,Washed / Wet
-7.5,7.5,7.5,7.42,7.67,7.83,10.0,10.0,10.0,United States,Hawaiian Kona,Washed / Wet
-7.5,7.75,7.33,7.75,7.08,7.83,10.0,10.0,10.0,Colombia,Other,Other
-7.42,7.58,7.5,7.17,7.5,8.0,10.0,10.0,10.0,Asia Pacific,Other,Other
-7.75,7.58,7.42,7.58,7.5,7.5,10.0,10.0,10.0,East Africa,SL28,Washed / Wet
-7.5,7.58,7.33,7.67,7.58,7.58,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.67,7.58,7.58,7.5,7.5,7.42,10.0,10.0,10.0,Brazil,Yellow Bourbon,Pulped natural / honey
-7.33,7.67,7.67,7.83,7.33,7.67,10.0,10.0,10.0,Central America,Pacas,Washed / Wet
-7.83,7.92,7.75,7.83,7.75,7.75,9.33,9.33,9.33,East Africa,Bourbon,Washed / Wet
-7.25,7.58,7.5,7.42,7.75,7.42,10.0,10.0,10.0,Asia Pacific,Other,Other
-7.58,7.58,7.33,7.67,7.67,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.58,7.83,7.33,7.67,7.42,7.33,10.0,10.0,10.0,Brazil,Catuai,Natural / Dry
-7.83,7.67,7.5,7.58,7.5,7.67,10.0,10.0,10.0,Colombia,Other,Washed / Wet
-7.42,7.58,7.25,7.5,7.75,7.75,10.0,10.0,10.0,United States,Other,Other
-7.67,7.67,7.75,7.67,7.42,7.17,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.5,7.42,7.58,7.5,7.58,7.58,10.0,10.0,10.0,Colombia,Typica,Natural / Dry
-7.83,7.5,7.5,7.42,7.5,7.5,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.5,7.33,7.25,7.58,7.75,10.0,10.0,10.0,East Africa,Arusha,Washed / Wet
-7.58,7.67,7.5,7.58,7.5,7.5,10.0,10.0,10.0,Mexico,Caturra,Washed / Wet
-7.67,7.58,7.42,7.75,7.42,7.42,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.67,7.67,7.33,7.5,7.33,7.92,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.58,7.58,7.5,7.42,7.67,7.58,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.75,7.58,7.75,7.75,7.25,7.5,10.0,10.0,10.0,Central America,Other,Other
-7.5,7.58,7.42,7.67,7.58,7.5,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.58,7.67,7.5,7.58,7.5,7.42,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.5,7.67,7.17,7.67,7.67,7.58,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.5,7.5,7.42,7.58,7.67,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.42,7.58,7.42,7.67,7.5,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.5,7.58,7.42,7.58,7.58,7.5,10.0,10.0,10.0,Asia Pacific,Sulawesi,Other
-7.58,7.58,7.33,7.58,7.33,7.67,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.83,7.67,7.33,7.67,7.58,7.67,9.33,10.0,10.0,Taiwan,Yellow Bourbon,Natural / Dry
-7.67,7.67,7.17,7.33,7.58,7.67,10.0,10.0,10.0,Central America,Bourbon,Washed / Wet
-7.58,7.5,7.42,7.67,7.42,7.5,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.58,7.5,7.42,7.58,7.5,7.5,10.0,10.0,10.0,Central America,Caturra,Natural / Dry
-7.5,7.5,7.58,7.5,7.58,7.58,10.0,10.0,10.0,Brazil,Yellow Bourbon,Pulped natural / honey
-7.67,7.5,7.33,7.33,7.67,7.67,10.0,10.0,10.0,Asia Pacific,Catimor,Natural / Dry
-7.5,7.67,7.42,7.67,7.5,7.5,10.0,10.0,10.0,Asia Pacific,Catimor,Washed / Wet
-7.5,7.58,7.58,7.75,7.33,7.5,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.75,7.58,7.42,7.5,7.33,7.5,10.0,10.0,10.0,East Africa,Gesha,Washed / Wet
-7.75,7.42,7.25,7.75,7.5,7.67,10.0,10.0,10.0,Guatemala,Pacas,Washed / Wet
-7.67,7.42,7.42,7.58,7.33,7.67,10.0,10.0,10.0,Colombia,Typica,Washed / Wet
-7.67,7.58,7.42,7.83,7.33,7.5,10.0,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-7.58,7.83,7.75,7.75,7.42,8.0,9.33,9.33,10.0,United States,Hawaiian Kona,Natural / Dry
-7.58,7.33,7.17,7.33,7.25,8.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.58,7.58,7.5,7.5,7.5,7.5,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.58,7.58,7.33,7.75,7.25,7.58,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-8.08,8.17,8.0,8.0,7.83,7.92,6.67,10.0,10.0,Mexico,Typica,Natural / Dry
-7.5,7.58,7.42,7.67,7.5,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.58,7.58,7.58,7.5,7.42,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.25,7.75,7.5,7.83,7.67,7.67,9.33,10.0,10.0,United States,Hawaiian Kona,Washed / Wet
-7.42,7.42,7.5,7.58,7.5,7.75,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.75,7.67,7.5,7.83,7.17,7.42,10.0,10.0,10.0,United States,Other,Other
-7.5,7.58,7.25,7.75,7.58,7.5,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.5,7.58,7.5,7.67,7.5,7.42,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.67,7.67,7.42,7.42,7.42,7.5,10.0,10.0,10.0,Asia Pacific,Catimor,Washed / Wet
-7.67,7.67,7.67,7.67,7.5,7.67,10.0,10.0,9.33,Central America,Pacas,Washed / Wet
-7.5,7.67,7.42,7.75,7.42,7.17,10.0,10.0,10.0,Mexico,Other,Other
-7.75,7.5,7.33,7.58,7.33,7.75,10.0,10.0,10.0,Colombia,Other,Washed / Wet
-7.58,7.5,7.42,7.67,7.5,7.5,10.0,10.0,10.0,Brazil,Yellow Bourbon,Natural / Dry
-7.33,7.5,7.58,7.58,7.67,7.5,10.0,10.0,10.0,Brazil,Catuai,Natural / Dry
-7.5,7.5,7.5,7.5,7.5,7.58,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.58,7.5,7.5,7.58,7.33,7.58,10.0,10.0,10.0,East Africa,Bourbon,Washed / Wet
-8.0,7.83,7.83,7.42,7.25,7.25,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.67,7.58,7.42,7.5,7.42,7.5,10.0,10.0,10.0,Mexico,Typica,Natural / Dry
-7.67,7.5,7.33,7.67,7.5,7.5,10.0,10.0,10.0,East Africa,SL14,Washed / Wet
-7.67,7.5,7.5,7.5,7.5,7.5,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.42,7.5,7.5,7.67,7.58,7.5,10.0,10.0,10.0,Asia Pacific,Caturra,Washed / Wet
-7.75,7.58,7.67,7.25,7.58,7.42,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.92,8.0,7.5,6.75,7.92,7.58,10.0,10.0,9.33,Central America,Other,Washed / Wet
-7.67,7.67,7.17,7.67,7.5,7.5,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.83,7.33,7.83,7.33,7.58,7.83,10.0,10.0,9.33,Asia Pacific,Other,Washed / Wet
-7.58,7.58,7.42,7.58,7.42,7.5,10.0,10.0,10.0,Mexico,Other,Washed / Wet
-7.5,7.58,7.58,7.58,7.42,7.42,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.33,7.58,7.42,7.42,7.67,7.67,10.0,10.0,10.0,Colombia,Other,Other
-7.83,7.67,7.5,7.67,7.5,7.58,10.0,10.0,9.33,United States,Other,Other
-7.75,7.58,7.25,7.75,7.67,7.58,10.0,10.0,10.0,Mexico,Blue Mountain,Other
-8.08,7.67,7.67,7.33,7.33,7.17,10.0,10.0,10.0,Colombia,Other,Other
-7.5,7.42,7.33,7.33,7.67,7.83,10.0,10.0,10.0,Colombia,Other,Other
-7.5,7.42,7.42,7.75,7.5,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.67,7.42,7.5,7.42,7.58,7.5,10.0,10.0,10.0,Taiwan,Typica,Pulped natural / honey
-7.5,7.58,7.42,7.5,7.75,7.33,10.0,10.0,10.0,Brazil,Other,Pulped natural / honey
-7.25,7.25,7.0,7.08,7.0,7.0,10.0,10.0,10.0,Taiwan,Other,Other
-7.42,7.42,7.5,7.33,7.25,7.67,10.0,10.0,10.0,Brazil,Other,Other
-7.83,7.58,7.42,7.33,7.42,7.5,10.0,10.0,10.0,Asia Pacific,Typica,Semi-washed / Semi-pulped
-7.75,7.33,7.42,7.67,7.42,7.5,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.42,7.58,7.58,7.42,7.58,7.5,10.0,10.0,10.0,Asia Pacific,Caturra,Washed / Wet
-7.75,7.42,7.33,7.5,7.58,7.5,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.83,7.5,7.42,7.58,7.42,7.42,10.0,10.0,10.0,East Africa,SL14,Natural / Dry
-7.67,7.42,7.5,7.67,7.0,7.75,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.58,7.58,7.42,7.75,7.67,7.67,9.33,10.0,10.0,Mexico,Other,Washed / Wet
-7.5,7.58,7.42,7.58,7.42,7.58,10.0,10.0,10.0,Guatemala,Other,Natural / Dry
-7.75,7.25,7.33,7.42,7.5,7.83,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.75,7.5,7.75,7.25,7.33,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.58,7.5,7.42,7.58,7.67,7.42,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.5,7.58,7.5,7.5,7.42,7.5,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.67,7.58,7.58,7.75,7.67,6.83,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.33,7.42,7.58,7.42,7.67,7.5,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.58,7.5,7.33,7.75,7.5,7.5,10.0,10.0,10.0,Brazil,Mundo Novo,Other
-7.5,7.5,7.5,7.5,7.58,7.5,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.83,7.75,7.25,7.5,7.42,7.33,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.58,7.58,7.33,7.5,7.5,7.5,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.5,7.5,7.33,7.5,7.67,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.5,7.83,7.5,7.75,7.33,7.42,9.33,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.33,7.5,7.5,7.5,7.67,7.5,10.0,10.0,10.0,Asia Pacific,Caturra,Washed / Wet
-7.67,7.42,7.33,7.58,7.5,7.5,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.75,7.0,7.42,7.58,7.58,7.58,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.42,7.58,7.5,7.67,7.25,7.5,10.0,10.0,10.0,Mexico,Other,Washed / Wet
-7.42,7.5,7.67,7.33,7.42,7.67,10.0,10.0,10.0,Brazil,Yellow Bourbon,Semi-washed / Semi-pulped
-7.83,7.42,7.33,7.67,7.42,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.5,7.5,7.42,7.42,7.58,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.83,7.67,7.17,7.33,7.5,7.67,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.5,7.58,7.5,7.5,7.42,7.42,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.67,7.5,7.33,7.67,7.5,7.33,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.92,7.5,7.33,7.58,7.25,7.42,10.0,10.0,10.0,Mexico,Typica,Semi-washed / Semi-pulped
-7.67,7.33,7.33,7.33,7.5,7.83,10.0,10.0,10.0,Guatemala,Caturra,Natural / Dry
-7.67,7.42,7.33,7.67,7.5,7.5,10.0,10.0,10.0,Brazil,Bourbon,Semi-washed / Semi-pulped
-7.67,7.5,7.33,7.5,7.25,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.33,7.42,7.33,7.75,7.42,7.67,10.0,10.0,10.0,United States,Hawaiian Kona,Washed / Wet
-7.75,7.58,7.67,7.67,7.58,7.58,9.33,10.0,10.0,Guatemala,Other,Other
-7.42,7.67,7.17,7.58,7.58,7.5,10.0,10.0,10.0,Central America,Other,Washed / Wet
-7.58,7.5,7.33,7.75,7.33,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.67,7.58,7.25,7.67,7.42,7.33,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.58,7.5,7.25,7.67,7.5,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.5,7.42,7.08,7.75,7.67,7.5,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-5.08,7.75,7.83,7.75,7.83,8.08,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.42,7.42,7.5,7.42,7.42,10.0,10.0,10.0,Asia Pacific,Catimor,Washed / Wet
-7.42,7.5,7.33,7.5,7.25,7.42,10.0,10.0,10.0,Brazil,Other,Other
-7.67,7.25,7.42,7.42,7.67,7.42,10.0,10.0,10.0,East Africa,Ruiru 11,Washed / Wet
-7.17,7.83,7.33,7.5,7.75,7.42,10.0,10.0,10.0,Brazil,Yellow Bourbon,Natural / Dry
-7.5,7.5,7.5,7.67,7.42,7.5,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.42,7.5,7.42,7.58,7.42,7.5,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.58,7.67,7.33,7.5,7.5,7.42,10.0,10.0,10.0,Brazil,Catuai,Semi-washed / Semi-pulped
-7.25,7.33,7.25,7.5,7.42,7.5,10.0,10.0,10.0,Brazil,Yellow Bourbon,Natural / Dry
-7.5,7.58,7.5,7.92,7.42,7.67,9.33,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.25,7.67,7.42,7.17,7.75,7.5,10.0,10.0,10.0,Central America,Other,Washed / Wet
-7.67,7.42,7.33,7.5,7.58,7.5,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.5,7.42,7.42,7.67,7.42,7.58,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.42,7.58,7.5,7.42,7.58,7.5,10.0,10.0,10.0,Mexico,Typica,Semi-washed / Semi-pulped
-7.42,7.58,7.33,7.58,7.5,7.5,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.75,7.33,7.25,7.58,7.58,7.33,10.0,10.0,10.0,Mexico,Caturra,Washed / Wet
-7.5,7.58,7.33,7.5,7.5,7.5,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.58,7.58,7.17,7.5,7.5,7.5,10.0,10.0,10.0,Mexico,Pacamara,Washed / Wet
-7.58,7.33,7.33,7.58,7.5,7.5,10.0,10.0,10.0,Mexico,Caturra,Washed / Wet
-7.67,7.58,7.33,7.42,7.58,7.33,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.83,7.5,7.42,7.67,7.17,7.33,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.67,7.33,7.25,7.42,7.5,7.67,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.75,7.5,7.42,7.42,7.5,7.42,10.0,10.0,10.0,Brazil,Arusha,Natural / Dry
-7.33,7.58,7.17,7.58,7.42,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.58,7.25,7.42,7.25,7.58,7.83,10.0,10.0,10.0,Colombia,Other,Other
-7.5,7.58,7.33,7.5,7.42,7.42,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.33,7.5,7.5,7.33,7.5,7.5,10.0,10.0,10.0,Brazil,Catuai,Natural / Dry
-7.42,7.42,7.42,7.5,7.5,7.58,10.0,10.0,10.0,Brazil,Other,Natural / Dry
-7.5,7.5,7.42,7.5,7.42,7.5,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.75,7.5,7.25,7.25,7.42,7.67,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.75,7.33,7.5,7.5,7.33,7.58,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.5,7.58,7.42,7.5,7.42,7.42,10.0,10.0,10.0,Asia Pacific,Catimor,Pulped natural / honey
-8.25,7.83,7.25,8.33,8.17,8.08,10.0,6.67,10.0,Brazil,Bourbon,Natural / Dry
-7.42,7.5,7.5,7.42,7.5,7.58,10.0,10.0,10.0,Brazil,Mundo Novo,Natural / Dry
-7.5,7.42,7.17,7.83,7.5,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.33,7.58,7.42,7.58,7.33,7.5,10.0,10.0,10.0,East Africa,Gesha,Washed / Wet
-7.75,8.08,7.67,8.08,8.08,8.0,10.0,10.0,6.67,Brazil,Bourbon,Natural / Dry
-7.58,7.67,7.5,7.58,7.75,7.5,9.33,10.0,10.0,Guatemala,Pacas,Washed / Wet
-7.33,7.58,7.42,7.5,7.5,7.5,10.0,10.0,10.0,Mexico,Other,Washed / Wet
-7.42,7.33,7.5,7.17,7.08,8.33,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.5,7.5,7.5,7.5,7.5,7.5,10.0,10.0,10.0,Taiwan,Typica,Semi-washed / Semi-pulped
-7.5,7.5,7.5,7.5,7.5,7.5,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.5,7.42,7.58,7.5,7.5,7.58,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.5,7.42,7.5,7.5,7.5,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.5,7.42,7.5,7.42,7.42,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.92,7.58,7.25,7.75,7.92,7.58,9.33,9.33,10.0,Central America,Other,Washed / Wet
-7.67,7.5,7.33,7.67,7.5,7.33,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.58,7.67,7.58,7.33,7.0,7.58,10.0,10.0,10.0,Mexico,Typica,Natural / Dry
-7.67,7.58,7.5,7.58,7.5,7.5,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.5,7.67,7.33,7.5,7.33,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.58,7.5,7.42,7.5,7.5,7.42,10.0,10.0,10.0,Brazil,Mundo Novo,Natural / Dry
-8.0,7.75,7.33,7.33,7.08,7.67,9.33,10.0,10.0,Mexico,Typica,Washed / Wet
-7.58,7.58,7.25,7.58,7.42,7.5,10.0,10.0,10.0,Brazil,Mundo Novo,Washed / Wet
-7.83,7.58,7.33,7.25,7.58,7.42,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.58,7.5,7.25,7.42,7.67,7.33,10.0,10.0,10.0,Brazil,Catuai,Washed / Wet
-7.0,7.08,7.0,7.17,7.0,7.0,10.0,10.0,10.0,Taiwan,Other,Other
-7.67,7.5,7.25,7.67,7.42,7.42,10.0,10.0,10.0,Guatemala,Pacas,Washed / Wet
-7.42,7.67,7.5,7.08,7.5,7.42,10.0,10.0,10.0,Brazil,Yellow Bourbon,Natural / Dry
-7.58,7.67,7.5,7.67,7.83,8.42,9.33,9.33,9.33,Central America,Bourbon,Washed / Wet
-7.58,7.5,7.42,7.58,7.42,7.42,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.58,7.42,7.33,7.42,7.58,7.5,10.0,10.0,10.0,East Africa,Gesha,Washed / Wet
-7.75,7.58,7.42,7.42,7.33,7.33,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.5,7.5,7.5,7.5,7.5,7.5,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.58,7.58,7.42,7.42,7.42,7.42,10.0,10.0,10.0,Mexico,Mundo Novo,Washed / Wet
-7.33,7.42,7.5,7.67,7.5,7.42,10.0,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-7.58,7.58,7.5,7.17,7.42,7.42,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.5,7.5,7.33,7.58,7.67,7.33,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.5,7.58,7.42,7.67,7.33,7.42,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.67,7.58,7.33,7.5,7.42,7.42,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.75,7.33,7.33,7.5,7.5,7.5,10.0,10.0,10.0,Central America,Other,Washed / Wet
-7.33,7.58,7.42,7.67,7.33,7.5,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.42,7.5,7.42,7.58,7.42,7.5,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.5,7.42,7.67,7.33,7.58,7.33,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.33,7.33,7.33,7.5,7.5,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.67,7.58,7.42,7.0,7.5,7.58,10.0,10.0,10.0,Brazil,Arusha,Natural / Dry
-7.17,7.25,7.58,7.25,7.58,7.67,10.0,10.0,10.0,Colombia,Other,Other
-7.42,7.42,7.5,7.42,7.42,7.5,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.5,7.5,7.17,7.42,7.5,7.5,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.5,7.5,7.33,7.42,7.5,7.42,10.0,10.0,10.0,Central America,Other,Other
-7.58,7.42,7.42,7.33,7.5,7.42,10.0,10.0,10.0,East Africa,Bourbon,Washed / Wet
-7.42,7.42,7.42,7.5,7.5,7.33,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-6.92,7.58,7.42,7.33,7.83,7.5,10.0,10.0,10.0,Brazil,Yellow Bourbon,Natural / Dry
-7.42,7.42,7.17,7.75,7.25,7.67,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.67,7.5,7.25,7.42,7.58,7.42,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.42,7.42,7.5,7.5,7.42,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.58,7.5,7.42,7.25,7.5,7.42,10.0,10.0,10.0,Brazil,Mundo Novo,Natural / Dry
-7.75,7.42,7.42,7.58,7.33,7.42,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.42,7.33,7.17,7.42,7.33,8.17,10.0,10.0,10.0,Mexico,Other,Washed / Wet
-7.5,7.5,7.33,7.42,7.5,7.42,10.0,10.0,10.0,Mexico,Other,Washed / Wet
-7.5,7.5,7.5,7.5,7.5,7.5,10.0,10.0,10.0,Taiwan,Typica,Other
-7.67,7.5,7.5,7.17,7.17,7.58,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.33,7.25,7.25,7.58,7.75,7.5,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.5,7.67,7.0,7.5,7.33,7.5,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.25,7.75,7.0,7.75,8.17,7.75,10.0,10.0,9.33,Guatemala,Caturra,Washed / Wet
-7.5,7.58,7.25,7.5,7.5,7.33,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.0,7.67,7.5,7.5,7.42,7.5,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.58,7.67,7.42,7.17,7.17,7.75,10.0,10.0,10.0,Colombia,Other,Other
-7.5,7.5,7.42,7.42,7.5,7.42,10.0,10.0,10.0,Asia Pacific,Bourbon,Washed / Wet
-7.75,7.58,7.42,7.67,7.83,7.58,9.33,9.33,10.0,Colombia,Caturra,Washed / Wet
-7.42,7.58,7.42,7.5,7.42,7.25,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.25,7.25,7.58,7.58,7.25,7.92,10.0,10.0,10.0,Brazil,Yellow Bourbon,Natural / Dry
-7.75,7.42,7.42,7.25,7.17,7.42,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.42,7.33,7.42,7.42,7.5,7.58,10.0,10.0,10.0,East Africa,Bourbon,Washed / Wet
-7.42,7.5,7.5,7.33,7.33,7.5,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.5,7.42,7.42,7.42,7.67,7.42,10.0,10.0,10.0,Colombia,Other,Washed / Wet
-7.58,7.33,7.33,7.33,7.5,7.67,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.25,7.58,7.58,7.25,7.5,7.42,10.0,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-7.42,7.58,7.5,7.33,7.42,7.42,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.5,7.42,7.42,7.5,7.25,7.5,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.67,7.5,7.25,7.58,7.42,7.33,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.67,8.0,7.17,7.08,7.67,7.08,10.0,10.0,10.0,Asia Pacific,Other,Natural / Dry
-7.58,7.42,7.25,7.75,7.33,7.42,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.33,7.5,7.33,7.58,7.08,7.83,10.0,10.0,10.0,United States,Hawaiian Kona,Washed / Wet
-7.67,7.42,7.67,7.33,7.25,7.58,10.0,10.0,10.0,Colombia,Other,Other
-7.5,7.5,7.17,7.5,7.5,7.42,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.5,7.5,7.25,7.33,7.42,7.5,10.0,10.0,10.0,Central America,Caturra,Natural / Dry
-7.5,7.33,7.42,7.5,7.33,7.42,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.67,7.33,7.33,7.42,7.42,7.42,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.42,7.5,7.25,7.33,7.5,7.5,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.42,7.42,7.33,7.58,7.33,7.42,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.5,7.42,7.33,7.58,7.33,7.5,10.0,10.0,10.0,East Africa,Gesha,Washed / Wet
-7.33,7.5,7.17,7.42,7.5,7.33,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.58,7.5,7.42,7.42,7.33,7.42,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.5,7.25,7.33,7.33,7.75,7.5,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.33,7.33,7.33,7.5,7.5,7.83,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.33,7.33,7.58,7.5,7.5,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.42,7.58,7.33,7.42,8.0,7.5,9.33,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.33,7.67,7.42,7.17,7.33,7.42,10.0,10.0,10.0,Brazil,Mundo Novo,Natural / Dry
-7.67,7.33,7.25,7.5,7.42,7.42,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.42,7.5,7.33,7.5,7.33,7.5,10.0,10.0,10.0,Brazil,Mundo Novo,Natural / Dry
-7.42,7.5,7.25,7.5,7.5,7.42,10.0,10.0,10.0,Brazil,Catuai,Semi-washed / Semi-pulped
-7.33,7.33,7.33,7.5,7.67,7.67,10.0,10.0,10.0,Guatemala,Bourbon,Natural / Dry
-7.58,7.5,7.17,7.5,7.5,7.42,10.0,10.0,10.0,Brazil,Mundo Novo,Semi-washed / Semi-pulped
-7.75,7.33,7.33,7.42,7.75,7.67,10.0,10.0,9.33,Guatemala,Bourbon,Washed / Wet
-7.33,7.0,7.08,7.42,7.5,7.67,10.0,10.0,10.0,Colombia,Caturra,Other
-7.58,7.5,7.25,7.58,7.58,7.5,9.33,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.5,7.5,7.25,7.42,7.42,7.42,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.58,7.5,7.25,7.33,7.42,7.5,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.42,7.33,7.33,7.5,7.5,7.33,10.0,10.0,10.0,Brazil,Catuai,Natural / Dry
-7.67,7.58,7.33,7.5,7.5,7.67,10.0,10.0,9.33,Central America,Bourbon,Washed / Wet
-7.58,7.58,7.17,7.83,7.17,7.33,10.0,10.0,10.0,Guatemala,Catuai,Washed / Wet
-7.33,7.33,7.33,7.42,7.5,7.58,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.58,7.42,7.25,7.17,7.5,7.67,10.0,10.0,10.0,Central America,Other,Washed / Wet
-7.67,7.08,7.42,7.33,7.75,7.42,10.0,10.0,10.0,East Africa,SL28,Washed / Wet
-7.42,7.33,7.33,7.58,7.33,7.5,10.0,10.0,10.0,Central America,Other,Washed / Wet
-7.5,7.5,7.42,7.25,7.5,7.5,10.0,10.0,10.0,Taiwan,Typica,Other
-7.58,7.5,7.25,7.58,7.5,7.25,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.5,7.5,7.25,7.25,7.5,7.5,10.0,10.0,10.0,Mexico,Typica,Semi-washed / Semi-pulped
-7.5,7.42,7.25,7.5,7.33,7.33,10.0,10.0,10.0,Mexico,Mundo Novo,Washed / Wet
-7.33,7.58,7.17,7.58,7.42,7.33,10.0,10.0,10.0,Mexico,Other,Washed / Wet
-7.67,7.42,7.33,7.83,7.5,7.5,9.33,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.42,7.58,7.25,7.5,7.33,7.5,10.0,10.0,10.0,Brazil,Mundo Novo,Natural / Dry
-7.67,7.33,7.33,7.58,7.33,7.33,10.0,10.0,10.0,Colombia,Other,Other
-7.42,7.5,7.25,7.5,7.33,7.42,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.25,7.33,7.5,7.33,7.67,7.42,10.0,10.0,10.0,Central America,Catuai,Pulped natural / honey
-7.42,7.5,7.42,7.5,7.42,7.25,10.0,10.0,10.0,Brazil,Mundo Novo,Natural / Dry
-7.75,7.83,7.58,7.75,7.92,7.83,10.0,10.0,10.0,Asia Pacific,Other,Other
-7.58,7.5,7.33,7.42,7.58,7.25,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.17,7.58,6.83,7.5,7.75,7.25,10.0,10.0,10.0,Brazil,Yellow Bourbon,Natural / Dry
-7.58,7.0,6.92,6.92,7.67,7.5,10.0,10.0,10.0,Brazil,Yellow Bourbon,Natural / Dry
-7.33,7.58,7.5,7.42,7.33,7.33,10.0,10.0,10.0,Asia Pacific,Catuai,Washed / Wet
-7.58,7.5,7.33,7.5,7.17,7.33,10.0,10.0,10.0,Mexico,Catuai,Washed / Wet
-7.5,7.5,7.33,7.5,7.42,7.25,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.67,7.5,7.5,7.25,7.08,7.42,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.67,7.33,7.17,7.25,7.75,7.33,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.42,7.42,7.42,7.33,7.42,7.42,10.0,10.0,10.0,Asia Pacific,Typica,Other
-7.58,7.42,7.33,7.33,7.33,7.42,10.0,10.0,10.0,East Africa,Gesha,Washed / Wet
-7.33,7.58,7.25,7.17,7.83,7.33,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.5,7.5,7.33,7.33,7.33,7.33,10.0,10.0,10.0,Central America,Caturra,Natural / Dry
-7.42,7.42,7.25,7.5,7.33,7.42,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.5,7.5,7.0,7.42,7.5,7.58,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.83,7.83,7.83,8.0,7.83,7.83,10.0,6.67,10.0,United States,Hawaiian Kona,Natural / Dry
-7.75,7.75,7.5,7.42,7.83,7.75,9.33,9.33,9.33,Brazil,Bourbon,Semi-washed / Semi-pulped
-7.83,7.67,7.33,7.33,7.67,7.83,9.33,10.0,9.33,Guatemala,Bourbon,Washed / Wet
-7.83,7.33,7.25,7.58,7.25,7.33,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.33,7.33,7.25,7.5,7.5,7.5,10.0,10.0,10.0,Mexico,Typica,Semi-washed / Semi-pulped
-7.33,7.67,7.25,7.5,7.5,7.25,10.0,10.0,10.0,Brazil,Mundo Novo,Other
-7.58,7.5,7.17,7.58,7.33,7.33,10.0,10.0,10.0,Colombia,Other,Other
-7.25,7.58,7.83,7.67,7.75,7.75,9.33,9.33,10.0,United States,Other,Other
-7.5,7.5,7.25,7.42,7.42,7.33,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.0,7.08,7.33,7.5,7.5,7.33,10.0,10.0,10.0,Asia Pacific,Caturra,Washed / Wet
-7.42,7.42,7.42,7.42,7.33,7.33,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.17,7.25,7.17,7.25,7.42,8.25,10.0,10.0,10.0,Brazil,Other,Natural / Dry
-7.5,7.5,7.33,7.42,7.25,7.25,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.42,7.5,7.17,7.67,7.33,7.42,10.0,10.0,10.0,Mexico,Mundo Novo,Washed / Wet
-7.42,7.5,7.33,7.58,7.33,7.33,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.33,7.42,7.33,7.67,7.42,7.25,10.0,10.0,10.0,Mexico,Caturra,Washed / Wet
-7.5,7.42,7.25,7.33,7.67,7.25,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.33,7.42,7.33,7.33,7.5,7.67,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.42,7.58,6.92,7.08,7.25,8.0,10.0,10.0,10.0,Colombia,Other,Other
-7.42,7.5,7.25,7.5,7.5,7.25,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.42,7.42,7.08,7.42,7.33,7.42,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.42,7.33,7.17,7.67,7.33,7.42,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.58,7.5,7.33,7.33,7.42,7.25,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.17,7.33,7.33,7.42,7.5,7.33,10.0,10.0,10.0,East Africa,Other,Other
-7.58,7.5,7.25,7.25,7.5,7.25,10.0,10.0,10.0,Central America,Other,Other
-7.75,7.75,7.75,7.67,5.25,7.83,10.0,10.0,10.0,Colombia,Other,Other
-7.25,7.75,6.92,7.42,7.5,7.58,10.0,10.0,10.0,Brazil,Yellow Bourbon,Natural / Dry
-7.42,7.33,7.25,7.42,7.5,7.42,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.33,7.33,7.5,7.25,7.42,7.33,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.25,7.42,7.25,7.5,7.5,7.42,10.0,10.0,10.0,Brazil,Bourbon,Washed / Wet
-7.17,7.42,7.33,7.42,7.33,7.42,10.0,10.0,10.0,Asia Pacific,Sumatra,Semi-washed / Semi-pulped
-7.5,7.33,7.5,7.5,7.17,7.17,10.0,10.0,10.0,Central America,Caturra,Natural / Dry
-7.5,7.17,7.17,7.17,7.5,7.08,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.42,7.42,7.67,8.0,7.58,7.5,9.33,9.33,10.0,Mexico,Other,Washed / Wet
-7.5,7.5,7.5,7.25,7.42,7.25,10.0,10.0,10.0,Taiwan,Typica,Semi-washed / Semi-pulped
-7.58,7.42,7.33,7.42,7.33,7.33,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.5,7.42,7.08,7.58,7.33,7.33,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.5,7.67,7.33,7.33,7.33,7.33,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.25,7.67,7.58,7.67,7.67,7.58,8.67,10.0,10.0,Mexico,Typica,Washed / Wet
-7.67,7.25,7.17,7.75,7.5,7.25,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.5,7.42,7.33,7.42,7.42,7.42,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.58,7.42,7.25,7.58,7.25,7.17,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.75,7.58,7.25,7.17,7.58,7.33,9.33,10.0,10.0,Mexico,Caturra,Semi-washed / Semi-pulped
-7.42,7.33,7.33,7.33,7.17,7.83,10.0,10.0,10.0,United States,Hawaiian Kona,Washed / Wet
-7.5,7.42,7.08,7.42,7.5,7.33,10.0,10.0,10.0,Central America,Catimor,Washed / Wet
-7.42,7.42,7.08,7.5,7.42,7.33,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.42,7.42,7.25,7.67,7.33,7.25,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.58,7.42,7.5,7.17,7.08,7.58,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.42,7.42,7.33,7.42,7.42,7.33,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.42,7.42,7.17,7.58,7.33,7.33,10.0,10.0,10.0,East Africa,Gesha,Washed / Wet
-7.33,7.17,7.08,7.08,8.33,8.25,10.0,10.0,9.33,Taiwan,Typica,Semi-washed / Semi-pulped
-7.42,7.42,7.33,7.33,7.5,7.25,10.0,10.0,10.0,Brazil,Yellow Bourbon,Washed / Wet
-7.42,7.33,7.17,7.58,7.42,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.67,7.5,7.42,7.5,6.75,7.42,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.67,7.58,7.42,7.58,7.58,7.42,10.0,10.0,8.67,Mexico,Typica,Natural / Dry
-7.08,7.33,7.58,7.58,7.17,7.5,10.0,10.0,10.0,Asia Pacific,Other,Other
-7.33,7.33,7.17,7.5,7.58,7.33,10.0,10.0,10.0,Asia Pacific,Other,Other
-7.25,7.17,7.33,7.33,7.5,7.75,10.0,10.0,10.0,Central America,Other,Other
-7.67,7.58,7.17,7.42,7.33,7.42,9.33,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.5,7.42,7.33,7.33,7.25,7.33,10.0,10.0,10.0,Central America,Caturra,Other
-7.5,7.5,7.33,7.42,7.17,7.25,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.5,7.42,7.25,7.25,7.5,7.25,10.0,10.0,10.0,Guatemala,Bourbon,Other
-7.5,7.42,7.33,7.08,7.58,7.25,10.0,10.0,10.0,Taiwan,Typica,Natural / Dry
-7.25,7.42,7.25,7.5,7.33,7.33,10.0,10.0,10.0,Asia Pacific,Catuai,Washed / Wet
-7.83,7.33,7.08,7.08,7.33,7.5,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.67,7.42,6.92,7.5,7.5,7.17,10.0,10.0,10.0,East Africa,Gesha,Washed / Wet
-7.5,7.42,7.17,7.58,7.25,7.42,10.0,10.0,10.0,Guatemala,Other,Washed / Wet
-7.42,7.33,7.67,7.33,7.42,7.5,10.0,10.0,9.33,Taiwan,Typica,Washed / Wet
-7.58,7.5,7.5,7.67,7.67,7.83,9.33,9.33,9.33,Brazil,Yellow Bourbon,Semi-washed / Semi-pulped
-7.5,7.42,7.25,7.25,7.33,7.33,10.0,10.0,10.0,Taiwan,Typica,Other
-7.33,7.33,7.17,7.42,7.5,7.5,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.58,7.42,7.25,7.42,7.33,7.33,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.42,7.25,7.17,7.42,7.17,8.0,10.0,10.0,10.0,Mexico,Catuai,Washed / Wet
-7.33,7.5,7.33,7.33,7.33,7.42,10.0,10.0,10.0,Mexico,Typica,Semi-washed / Semi-pulped
-7.42,7.42,7.33,7.17,7.25,7.42,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.5,7.5,7.25,7.5,7.42,7.58,9.33,10.0,10.0,Mexico,Typica,Natural / Dry
-7.75,7.17,7.17,7.33,7.58,7.33,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.5,7.42,7.17,7.42,7.5,7.33,10.0,10.0,10.0,Brazil,Bourbon,Semi-washed / Semi-pulped
-7.33,7.5,7.33,7.42,7.17,7.33,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.42,7.42,7.17,7.42,7.42,7.33,10.0,10.0,10.0,Colombia,Other,Other
-7.33,7.33,7.33,7.5,7.5,7.83,9.33,10.0,10.0,United States,Other,Other
-7.58,7.33,7.08,7.33,7.5,7.33,10.0,10.0,10.0,Mexico,Mundo Novo,Washed / Wet
-7.42,7.33,7.08,7.58,7.33,7.25,10.0,10.0,10.0,Guatemala,Catuai,Washed / Wet
-7.33,7.5,7.5,7.33,6.83,7.42,10.0,10.0,10.0,Brazil,Catuai,Natural / Dry
-7.5,7.33,7.17,7.25,7.5,7.42,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.83,7.75,7.42,7.17,7.08,7.08,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.58,7.17,7.33,7.42,7.08,7.42,10.0,10.0,10.0,East Africa,Gesha,Washed / Wet
-7.25,7.5,7.42,7.17,7.33,7.33,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.42,7.5,7.17,7.42,7.42,7.42,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.67,7.33,7.25,7.17,7.25,7.42,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.42,7.33,7.25,7.42,7.42,7.5,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.42,7.33,7.25,7.17,7.25,7.42,10.0,10.0,10.0,Mexico,Caturra,Washed / Wet
-7.42,7.42,7.25,7.25,7.5,7.33,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.5,7.42,7.25,7.17,7.17,7.75,10.0,10.0,10.0,Colombia,Caturra,Natural / Dry
-7.75,7.33,7.42,7.0,7.33,7.25,10.0,10.0,10.0,Colombia,Other,Other
-7.83,7.0,7.0,7.58,7.58,7.5,10.0,10.0,10.0,United States,Peaberry,Other
-7.5,7.33,7.33,7.17,7.33,7.42,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.5,7.5,7.0,7.17,7.5,7.33,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.67,7.42,7.0,7.42,7.58,7.08,10.0,10.0,10.0,Mexico,Other,Other
-7.25,7.33,7.33,7.33,7.33,7.42,10.0,10.0,10.0,Brazil,Catuai,Natural / Dry
-7.58,7.42,7.17,7.42,7.17,7.17,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.17,7.33,7.42,7.25,7.42,7.33,10.0,10.0,10.0,Brazil,Yellow Bourbon,Other
-7.08,7.33,7.42,7.33,7.33,7.5,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.75,7.33,7.08,7.33,7.33,7.25,10.0,10.0,10.0,East Africa,Gesha,Washed / Wet
-7.33,7.33,7.17,7.33,7.5,7.33,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.58,7.42,7.25,7.33,7.25,7.25,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.33,7.25,7.17,7.42,7.58,7.33,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.5,7.58,7.5,7.5,7.75,7.83,9.33,9.33,9.33,Brazil,Catuai,Natural / Dry
-7.83,7.75,7.67,7.83,7.83,7.75,9.33,10.0,10.0,Taiwan,Typica,Natural / Dry
-7.17,7.42,7.17,7.08,6.92,8.17,10.0,10.0,10.0,Brazil,Yellow Bourbon,Natural / Dry
-7.08,7.5,7.33,7.17,7.42,7.25,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.42,7.17,7.17,7.5,7.33,7.25,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.33,7.42,7.17,7.25,7.42,7.33,10.0,10.0,10.0,Guatemala,Pacamara,Washed / Wet
-7.33,7.17,7.17,7.5,7.25,7.42,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.5,7.5,7.25,7.25,7.25,7.25,10.0,10.0,10.0,Taiwan,Typica,Semi-washed / Semi-pulped
-7.5,7.33,7.5,7.58,7.0,7.25,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.42,7.42,7.33,7.33,7.5,7.42,9.33,10.0,10.0,Mexico,Typica,Washed / Wet
-7.33,7.5,7.17,7.17,7.58,7.17,10.0,10.0,10.0,Central America,Other,Washed / Wet
-7.67,7.17,7.17,7.33,7.5,7.17,10.0,10.0,10.0,East Africa,Bourbon,Washed / Wet
-7.75,7.58,7.08,7.25,7.08,7.25,10.0,10.0,10.0,Mexico,Caturra,Washed / Wet
-7.5,7.5,7.33,7.17,7.08,7.17,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.42,7.33,7.0,7.42,7.33,7.33,10.0,10.0,10.0,Central America,Catuai,Natural / Dry
-6.83,7.42,7.42,7.17,7.5,7.42,10.0,10.0,10.0,Asia Pacific,Caturra,Washed / Wet
-7.25,7.25,7.25,7.08,7.58,7.5,10.0,10.0,10.0,Asia Pacific,Typica,Natural / Dry
-7.58,7.17,7.17,7.33,7.33,7.25,10.0,10.0,10.0,East Africa,Bourbon,Washed / Wet
-7.58,7.25,7.33,7.08,7.33,7.33,10.0,10.0,10.0,East Africa,Caturra,Washed / Wet
-7.33,7.08,7.33,7.25,7.33,7.58,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.42,7.42,7.17,7.42,7.33,7.25,10.0,10.0,10.0,Brazil,Catuai,Natural / Dry
-7.42,7.25,7.08,7.75,7.42,7.17,10.0,10.0,10.0,Mexico,Typica,Natural / Dry
-7.42,7.25,7.33,7.25,7.25,7.42,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.42,7.33,7.25,7.42,7.5,7.17,10.0,10.0,10.0,Brazil,Mundo Novo,Natural / Dry
-7.25,7.75,7.67,7.67,7.42,7.67,8.67,9.33,10.0,United States,Other,Other
-7.42,7.33,7.17,7.33,7.42,7.17,10.0,10.0,10.0,East Africa,Other,Natural / Dry
-7.58,7.42,7.5,7.25,7.75,7.58,9.33,10.0,9.33,Brazil,Mundo Novo,Natural / Dry
-7.33,7.33,7.33,7.42,7.33,7.33,10.0,10.0,10.0,Central America,Other,Washed / Wet
-7.42,7.33,7.33,7.25,7.25,7.33,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.42,7.25,7.17,7.25,7.25,7.58,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.25,7.42,7.33,7.33,7.17,7.33,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.33,7.25,7.33,7.42,7.25,7.42,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.33,7.33,7.25,7.42,7.25,7.25,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.42,7.33,7.25,7.42,7.17,7.25,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.42,7.42,7.25,7.58,6.92,7.17,10.0,10.0,10.0,United States,Hawaiian Kona,Washed / Wet
-7.25,7.25,7.17,7.5,7.33,7.17,10.0,10.0,10.0,Brazil,Bourbon,Pulped natural / honey
-7.42,7.08,7.08,7.33,7.25,7.58,10.0,10.0,10.0,Central America,Bourbon,Washed / Wet
-7.33,7.17,7.17,7.67,7.33,7.17,10.0,10.0,10.0,Brazil,Yellow Bourbon,Pulped natural / honey
-7.42,7.25,7.17,7.5,7.25,7.17,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.67,7.5,7.42,5.25,7.67,7.75,10.0,10.0,10.0,Colombia,Caturra,Washed / Wet
-7.5,7.25,7.0,7.25,7.5,7.25,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.25,7.17,7.17,7.25,7.5,7.33,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.42,7.25,7.25,7.33,7.25,7.17,10.0,10.0,10.0,Central America,Caturra,Natural / Dry
-7.67,7.75,7.83,7.75,7.83,7.75,10.0,6.67,10.0,Brazil,Mundo Novo,Natural / Dry
-7.33,7.33,7.08,7.42,7.17,7.33,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.33,6.92,7.17,7.33,7.42,7.42,10.0,10.0,10.0,East Africa,SL14,Natural / Dry
-7.5,6.92,7.33,7.33,7.33,7.33,10.0,10.0,10.0,Taiwan,Typica,Semi-washed / Semi-pulped
-7.33,7.42,7.25,7.42,7.25,7.17,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.08,7.33,7.33,7.33,7.42,7.25,10.0,10.0,10.0,Mexico,Other,Washed / Wet
-7.58,7.67,7.5,7.67,7.58,7.5,8.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.33,7.17,7.25,7.33,7.33,7.25,10.0,10.0,10.0,Taiwan,Other,Washed / Wet
-7.67,7.67,7.33,7.58,7.67,7.5,9.33,9.33,9.33,Guatemala,Bourbon,Washed / Wet
-7.17,7.58,7.5,7.5,8.0,7.75,10.0,10.0,10.0,East Africa,SL28,Washed / Wet
-7.5,7.33,7.17,7.42,7.5,7.33,9.33,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.17,7.42,7.0,7.58,7.33,7.0,10.0,10.0,10.0,Asia Pacific,Other,Other
-7.42,7.08,7.17,7.17,7.58,7.25,10.0,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-7.33,7.17,7.17,7.25,7.42,7.33,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.25,7.33,7.25,7.25,7.25,7.33,10.0,10.0,10.0,Brazil,Yellow Bourbon,Natural / Dry
-7.92,7.67,7.33,7.08,7.08,7.08,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.17,7.42,7.17,7.25,7.25,7.33,10.0,10.0,10.0,Brazil,Bourbon,Natural / Dry
-7.33,7.08,7.25,7.0,7.5,7.42,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.58,7.42,6.92,7.5,7.25,7.17,10.0,10.0,10.0,Guatemala,Pacas,Washed / Wet
-7.42,7.25,7.25,7.25,7.25,7.25,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.25,7.17,7.08,7.08,7.08,8.08,10.0,10.0,10.0,Taiwan,Typica,Other
-7.42,7.25,7.25,7.25,7.25,7.25,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.58,7.33,7.08,7.5,7.17,7.25,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.67,7.58,7.33,7.33,7.17,7.0,10.0,10.0,10.0,Asia Pacific,Peaberry,Other
-7.42,7.33,7.17,7.17,7.17,7.25,10.0,10.0,10.0,Asia Pacific,Catimor,Washed / Wet
-7.67,7.25,7.08,7.33,7.17,7.25,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.17,7.08,7.25,7.42,7.25,7.33,10.0,10.0,10.0,Mexico,Catuai,Semi-washed / Semi-pulped
-7.33,7.25,7.33,7.33,7.25,7.17,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.5,7.17,7.33,7.25,7.17,7.17,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.42,7.33,7.0,7.25,7.33,7.5,10.0,10.0,10.0,United States,Hawaiian Kona,Washed / Wet
-7.33,7.33,7.0,6.83,7.33,7.67,10.0,10.0,10.0,Colombia,Other,Other
-7.17,7.25,7.08,7.17,7.25,7.58,10.0,10.0,10.0,Brazil,Other,Natural / Dry
-6.92,7.5,7.0,7.58,7.5,7.08,10.0,10.0,10.0,Asia Pacific,Catuai,Washed / Wet
-7.5,7.33,7.0,7.42,7.17,7.17,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.25,7.25,7.17,7.25,7.33,7.25,10.0,10.0,10.0,Central America,Other,Washed / Wet
-7.5,7.33,7.0,7.42,7.25,7.17,10.0,10.0,10.0,Central America,Caturra,Natural / Dry
-7.25,7.33,7.17,7.33,7.33,7.17,10.0,10.0,10.0,Central America,Caturra,Other
-7.42,7.17,7.08,7.42,7.25,7.25,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.25,7.33,7.08,7.5,7.25,7.33,10.0,10.0,10.0,Central America,Catuai,Natural / Dry
-7.33,7.33,7.25,7.25,7.17,7.17,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.58,7.33,7.42,7.25,7.5,7.5,9.33,9.33,10.0,Mexico,Typica,Washed / Wet
-7.08,7.33,7.17,7.25,7.33,7.67,10.0,10.0,10.0,United States,Arusha,Natural / Dry
-7.33,7.08,7.08,7.08,7.42,7.33,10.0,10.0,10.0,Taiwan,Typica,Other
-7.58,7.42,7.0,7.67,7.5,7.5,9.33,9.33,10.0,Asia Pacific,Mandheling,Semi-washed / Semi-pulped
-7.67,7.42,6.83,7.17,7.42,7.17,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.83,7.5,7.67,7.67,7.83,7.5,6.67,10.0,10.0,Central America,Caturra,Washed / Wet
-7.5,7.25,7.17,7.17,7.25,7.17,10.0,10.0,10.0,East Africa,Caturra,Washed / Wet
-7.25,7.17,7.17,7.25,7.17,7.42,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.67,7.5,7.42,7.67,7.5,7.75,10.0,10.0,6.67,Colombia,Caturra,Natural / Dry
-7.67,7.17,7.0,7.5,7.0,7.0,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.0,7.33,7.5,7.33,7.0,7.33,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.0,7.5,7.33,7.17,7.17,7.17,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.17,7.25,7.08,7.42,7.08,7.42,10.0,10.0,10.0,Colombia,Other,Other
-7.33,7.25,7.33,7.08,7.58,7.25,9.33,10.0,10.0,Brazil,Other,Other
-7.08,7.5,7.0,7.25,7.42,7.0,10.0,10.0,10.0,Central America,Other,Other
-7.25,7.08,7.08,7.33,7.33,7.25,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.42,7.25,7.33,7.0,7.08,7.25,10.0,10.0,10.0,Brazil,Bourbon,Semi-washed / Semi-pulped
-7.5,7.17,7.0,7.42,7.33,7.0,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.17,7.42,6.83,7.5,7.17,7.25,10.0,10.0,10.0,Guatemala,Bourbon,Natural / Dry
-7.42,7.58,7.5,7.92,7.83,7.83,8.67,8.67,9.33,United States,Other,Other
-7.08,7.25,7.0,7.5,7.08,7.33,10.0,10.0,10.0,Colombia,Other,Other
-7.17,7.17,7.17,7.42,7.17,7.25,10.0,10.0,10.0,Taiwan,Other,Natural / Dry
-7.33,7.25,7.08,7.17,7.25,7.17,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.58,7.33,7.0,7.17,7.33,7.08,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.25,7.25,7.17,7.17,7.25,7.17,10.0,10.0,10.0,East Africa,Other,Other
-7.25,7.33,7.17,7.5,7.33,7.25,9.33,10.0,10.0,Brazil,Yellow Bourbon,Semi-washed / Semi-pulped
-7.17,7.33,7.17,7.42,7.25,7.08,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.5,7.17,6.83,7.5,7.17,7.17,10.0,10.0,10.0,Guatemala,Other,Washed / Wet
-7.42,7.42,7.08,7.33,7.67,7.5,9.33,9.33,10.0,Brazil,Yellow Bourbon,Semi-washed / Semi-pulped
-7.42,7.33,7.33,7.58,7.58,7.42,8.67,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-7.5,7.5,7.0,7.67,7.17,7.0,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.25,7.25,7.08,7.33,7.25,7.17,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.25,7.42,7.0,7.42,7.33,7.0,10.0,10.0,10.0,Central America,Other,Other
-7.58,7.17,7.17,7.17,7.17,7.17,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.33,7.17,7.08,7.08,7.33,7.17,10.0,10.0,10.0,Central America,Bourbon,Washed / Wet
-7.25,7.08,7.25,7.17,7.33,7.17,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.25,7.25,7.17,7.25,7.25,7.25,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-6.92,7.17,7.08,7.5,7.33,7.17,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.42,7.08,7.08,7.33,7.25,7.17,10.0,10.0,10.0,Mexico,Caturra,Washed / Wet
-7.08,7.25,7.17,7.33,7.08,7.08,10.0,10.0,10.0,East Africa,Other,Other
-7.25,7.17,7.0,7.25,7.42,7.08,10.0,10.0,10.0,East Africa,Bourbon,Washed / Wet
-7.25,7.17,7.25,7.25,7.25,7.08,10.0,10.0,10.0,East Africa,Other,Washed / Wet
-7.25,7.25,7.08,7.25,7.25,7.25,10.0,10.0,10.0,Taiwan,Yellow Bourbon,Other
-7.33,7.33,6.83,7.5,7.0,7.17,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.25,7.08,7.08,7.33,7.33,7.17,10.0,10.0,10.0,Mexico,Typica,Semi-washed / Semi-pulped
-7.17,7.5,6.92,7.33,7.67,7.33,9.33,10.0,10.0,United States,Hawaiian Kona,Washed / Wet
-7.25,7.25,7.25,7.33,7.5,8.0,9.33,9.33,10.0,East Africa,Other,Other
-7.17,7.33,7.42,7.08,7.0,7.0,10.0,10.0,10.0,Brazil,Catuai,Natural / Dry
-7.25,7.25,7.0,7.0,7.42,7.0,10.0,10.0,10.0,Central America,Caturra,Natural / Dry
-7.25,7.17,7.0,7.33,7.33,7.0,10.0,10.0,10.0,Mexico,Caturra,Washed / Wet
-8.0,7.08,7.0,7.33,7.08,6.92,10.0,10.0,10.0,Asia Pacific,Other,Natural / Dry
-7.42,7.0,7.08,7.0,7.17,7.33,10.0,10.0,10.0,Asia Pacific,Catuai,Natural / Dry
-7.08,6.92,7.0,7.25,7.5,7.25,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.5,7.08,7.67,7.67,7.42,7.58,9.33,9.33,9.33,United States,Hawaiian Kona,Natural / Dry
-7.42,8.0,7.83,7.75,8.08,7.58,8.67,8.67,8.67,Colombia,Typica,Washed / Wet
-7.25,7.08,7.25,7.25,7.17,7.25,10.0,10.0,10.0,Taiwan,Typica,Semi-washed / Semi-pulped
-7.0,7.17,7.33,7.33,7.0,7.17,10.0,10.0,10.0,Guatemala,Caturra,Washed / Wet
-7.58,7.33,7.17,7.25,6.75,7.0,10.0,10.0,10.0,Mexico,Caturra,Washed / Wet
-7.42,7.25,7.25,7.58,7.42,7.33,8.67,10.0,10.0,Asia Pacific,Catimor,Other
-7.17,7.08,7.08,7.33,7.25,7.08,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.25,7.25,7.0,7.17,7.08,7.08,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.33,7.33,7.0,7.17,7.17,7.17,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.33,7.08,6.92,7.42,7.25,7.08,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.58,7.42,7.33,7.5,7.08,7.17,8.67,10.0,10.0,Mexico,Typica,Washed / Wet
-7.33,7.33,7.17,7.08,7.25,7.0,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.33,7.33,7.0,7.33,7.0,7.0,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.58,7.5,7.33,7.33,7.67,7.33,9.33,9.33,9.33,United States,Other,Other
-7.17,7.17,7.0,7.17,7.25,7.25,10.0,10.0,10.0,Brazil,Bourbon,Pulped natural / honey
-7.42,7.25,7.25,7.17,7.0,7.0,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.25,7.17,6.92,7.25,7.17,7.25,10.0,10.0,10.0,Central America,Other,Natural / Dry
-7.25,7.25,7.25,7.25,7.08,7.0,10.0,10.0,10.0,Taiwan,Typica,Other
-7.25,7.25,7.25,7.0,7.25,7.08,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.25,7.25,7.25,7.08,7.17,7.08,10.0,10.0,10.0,Taiwan,Typica,Semi-washed / Semi-pulped
-7.33,7.17,7.25,7.08,7.08,7.08,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.25,7.08,7.0,7.17,7.33,7.17,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.33,7.08,6.92,7.08,7.42,7.17,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.17,7.33,7.0,7.42,7.17,7.0,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.58,7.75,7.42,7.5,7.5,7.5,8.67,8.67,10.0,Mexico,Typica,Washed / Wet
-7.25,7.25,7.25,7.0,7.25,7.0,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.33,6.67,7.08,7.42,7.42,7.08,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.25,7.25,7.08,7.17,7.33,7.33,9.33,10.0,10.0,Mexico,Typica,Washed / Wet
-7.08,7.33,7.0,7.33,7.08,7.0,10.0,10.0,10.0,Mexico,Other,Washed / Wet
-7.42,7.42,7.5,7.92,7.75,7.58,8.67,9.33,8.67,East Africa,Other,Other
-7.83,7.67,7.58,7.75,7.83,7.17,6.67,10.0,10.0,Colombia,Other,Washed / Wet
-7.5,7.0,7.0,6.92,7.33,7.17,10.0,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-7.33,7.08,7.08,7.33,7.42,7.17,9.33,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.17,7.17,6.92,7.25,7.33,7.08,10.0,10.0,10.0,Mexico,Other,Washed / Wet
-7.5,7.17,7.0,7.17,7.25,7.08,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.17,7.08,7.08,7.08,7.5,7.33,9.33,10.0,10.0,Mexico,Catuai,Washed / Wet
-7.33,7.25,7.0,7.42,7.17,7.17,9.33,10.0,10.0,Mexico,Typica,Natural / Dry
-7.17,7.33,7.08,7.58,7.33,7.08,10.0,9.33,10.0,Mexico,Mundo Novo,Washed / Wet
-7.5,7.42,7.58,7.42,7.5,7.58,8.67,8.67,10.0,United States,Other,Other
-7.0,7.08,7.0,7.17,7.25,7.25,10.0,10.0,10.0,East Africa,SL34,Washed / Wet
-7.33,7.25,6.92,7.33,7.25,7.33,9.33,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-6.83,7.17,7.17,6.92,7.5,7.08,10.0,10.0,10.0,Central America,Caturra,Washed / Wet
-7.17,7.08,7.0,7.25,7.5,7.0,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.58,7.08,6.83,7.17,7.5,7.17,9.33,10.0,10.0,United States,Hawaiian Kona,Natural / Dry
-7.5,7.42,7.25,7.58,7.33,7.42,9.33,9.33,9.33,Guatemala,Bourbon,Washed / Wet
-7.75,7.33,7.17,7.33,7.67,7.83,9.33,9.33,8.67,Taiwan,Typica,Natural / Dry
-7.08,7.08,7.25,7.0,7.17,7.17,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.25,7.08,6.92,7.5,7.08,6.92,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.58,7.5,7.67,7.75,7.67,7.58,8.0,8.0,10.0,Central America,Catuai,Washed / Wet
-7.58,7.08,7.0,7.0,7.5,6.92,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.58,7.08,6.92,7.58,7.5,6.92,10.0,9.33,10.0,Mexico,Bourbon,Washed / Wet
-7.25,7.08,7.0,7.17,7.17,7.08,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.25,7.17,7.17,7.08,7.17,7.0,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.33,7.25,7.0,7.08,7.08,7.0,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.58,7.33,7.5,7.33,7.0,7.33,9.33,9.33,9.33,Guatemala,Bourbon,Washed / Wet
-7.25,6.83,6.92,7.08,7.25,7.08,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.42,7.42,7.25,7.58,7.42,7.33,9.33,9.33,9.33,Guatemala,Bourbon,Washed / Wet
-7.25,7.08,7.0,6.83,7.33,7.17,10.0,10.0,10.0,Central America,Bourbon,Washed / Wet
-6.92,7.17,6.83,7.42,7.17,7.08,10.0,10.0,10.0,Asia Pacific,Other,Washed / Wet
-7.5,7.0,6.83,7.08,7.08,7.17,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.42,7.25,6.83,7.58,7.17,6.58,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.33,7.17,7.0,6.75,7.08,7.0,10.0,10.0,10.0,Mexico,Caturra,Washed / Wet
-6.92,7.17,7.17,7.17,7.08,7.08,10.0,10.0,10.0,Mexico,Mundo Novo,Washed / Wet
-7.17,7.17,7.0,7.0,7.25,6.92,10.0,10.0,10.0,Asia Pacific,Peaberry,Other
-7.08,7.0,6.92,7.33,7.25,7.08,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.25,6.92,6.92,7.33,7.25,7.0,10.0,10.0,10.0,Mexico,Caturra,Washed / Wet
-7.25,7.17,7.0,6.75,7.17,7.33,10.0,10.0,10.0,Colombia,Other,Other
-7.08,7.0,6.83,7.33,7.25,7.0,10.0,10.0,10.0,Guatemala,Other,Other
-6.92,6.92,7.0,7.42,7.25,7.0,10.0,10.0,10.0,Central America,Caturra,Natural / Dry
-6.92,7.0,7.17,7.0,7.42,7.0,10.0,10.0,10.0,Taiwan,Typica,Natural / Dry
-7.83,7.5,7.42,7.42,7.67,7.5,10.0,6.67,10.0,Colombia,Caturra,Washed / Wet
-7.25,7.08,6.92,7.25,7.58,7.08,9.33,10.0,10.0,Mexico,Caturra,Washed / Wet
-7.25,7.33,7.0,7.25,7.17,7.17,9.33,10.0,10.0,Mexico,Typica,Washed / Wet
-7.08,7.33,7.25,7.58,7.33,7.42,9.33,9.33,9.33,Guatemala,Bourbon,Washed / Wet
-7.25,7.33,6.83,7.0,7.0,7.17,10.0,10.0,10.0,Guatemala,Other,Washed / Wet
-7.0,6.83,6.83,7.42,7.33,7.17,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.42,7.25,6.75,7.25,7.42,7.25,9.33,9.33,10.0,Colombia,Caturra,Washed / Wet
-7.0,7.0,6.83,7.33,7.42,6.92,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.42,7.17,7.08,7.17,7.08,7.08,9.33,10.0,10.0,Mexico,Typica,Washed / Wet
-7.17,6.5,6.33,7.25,7.58,7.33,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.08,6.83,6.83,7.25,7.42,7.08,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.0,7.0,6.92,7.17,7.17,7.08,10.0,10.0,10.0,Mexico,Bourbon,Washed / Wet
-7.33,7.42,7.33,7.42,7.5,7.42,8.67,9.33,9.33,Guatemala,Bourbon,Washed / Wet
-7.58,7.0,6.75,6.92,7.0,6.92,10.0,10.0,10.0,Central America,Catuai,Washed / Wet
-7.08,7.0,6.92,7.42,7.0,6.92,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.25,7.17,6.75,7.25,7.0,6.92,10.0,10.0,10.0,Guatemala,Catuai,Washed / Wet
-7.17,7.42,7.5,8.0,7.25,7.83,10.0,10.0,6.67,Central America,Catuai,Washed / Wet
-7.25,7.08,6.92,7.08,7.17,7.17,9.33,10.0,10.0,Mexico,Typica,Washed / Wet
-7.17,6.92,6.92,7.08,7.17,7.0,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-6.75,6.75,6.83,7.25,7.58,7.08,10.0,10.0,10.0,Mexico,Typica,Other
-7.58,7.67,7.42,7.42,7.67,7.67,8.67,8.67,8.67,Guatemala,Bourbon,Washed / Wet
-7.33,7.0,6.92,7.25,7.33,7.08,9.33,10.0,10.0,Mexico,Typica,Washed / Wet
-7.25,7.08,6.75,7.33,7.42,7.0,9.33,10.0,10.0,Mexico,Mundo Novo,Washed / Wet
-7.17,7.25,7.25,7.17,7.25,7.08,9.33,9.33,10.0,Mexico,Typica,Washed / Wet
-7.33,7.17,6.58,7.42,7.08,6.83,10.0,10.0,10.0,Guatemala,Other,Washed / Wet
-7.0,7.0,7.0,7.0,7.0,7.0,10.0,10.0,10.0,Central America,Pacas,Washed / Wet
-6.75,7.08,6.67,7.25,7.17,7.08,10.0,10.0,10.0,Mexico,Mundo Novo,Natural / Dry
-7.5,7.17,6.92,7.5,7.25,7.0,8.67,10.0,10.0,Mexico,Typica,Semi-washed / Semi-pulped
-7.17,6.83,6.83,7.25,7.17,6.92,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.33,7.0,6.75,7.08,7.17,7.25,9.33,10.0,10.0,Mexico,Typica,Washed / Wet
-7.5,7.0,6.92,7.08,6.92,6.75,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.17,7.0,6.92,7.0,7.0,7.0,10.0,10.0,10.0,Central America,Caturra,Other
-7.5,6.92,6.92,7.25,7.58,7.42,9.33,9.33,9.33,United States,Other,Natural / Dry
-7.33,7.08,6.33,7.25,7.0,7.0,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.25,6.83,6.83,7.0,7.17,7.0,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.25,7.33,7.17,7.25,7.08,7.0,8.67,10.0,10.0,Mexico,Typica,Semi-washed / Semi-pulped
-7.67,7.17,6.83,7.33,7.58,7.17,9.33,10.0,8.67,Mexico,Bourbon,Washed / Wet
-7.0,6.92,6.83,7.17,7.17,7.17,10.0,10.0,9.33,Asia Pacific,Typica,Washed / Wet
-6.92,6.92,6.67,7.25,7.17,6.92,10.0,10.0,10.0,Mexico,Caturra,Washed / Wet
-7.08,7.0,6.75,6.83,7.08,6.92,10.0,10.0,10.0,Central America,Other,Other
-6.83,7.08,6.92,6.75,7.25,7.08,10.0,10.0,10.0,Central America,Other,Natural / Dry
-7.33,7.17,6.92,7.58,7.25,7.17,8.67,9.33,10.0,Guatemala,Other,Washed / Wet
-6.83,6.75,7.17,7.25,7.0,6.92,10.0,10.0,10.0,Taiwan,Typica,Washed / Wet
-7.0,7.0,6.75,7.33,6.92,6.92,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.92,7.58,7.58,7.92,7.92,7.5,8.0,6.67,10.0,Mexico,Typica,Washed / Wet
-7.92,6.83,7.08,7.42,6.75,7.33,8.67,9.33,10.0,United States,Other,Other
-7.25,6.75,6.92,6.92,7.25,7.58,9.33,9.33,10.0,Mexico,Bourbon,Washed / Wet
-7.08,6.83,6.83,7.0,7.0,6.92,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.25,7.17,7.0,6.83,7.58,7.08,8.67,10.0,10.0,Mexico,Caturra,Washed / Wet
-6.83,7.0,6.92,7.08,6.92,6.83,10.0,10.0,10.0,Brazil,Catuai,Natural / Dry
-7.58,7.17,7.0,7.17,7.33,7.0,8.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.5,7.75,7.58,7.83,7.92,7.92,7.33,8.0,8.67,United States,Hawaiian Kona,Natural / Dry
-7.17,6.5,6.67,7.0,7.17,7.17,10.0,10.0,10.0,Guatemala,Other,Washed / Wet
-7.17,7.17,6.5,7.17,7.0,6.83,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.25,7.25,7.0,7.5,7.33,7.42,8.0,9.33,10.0,Mexico,Typica,Natural / Dry
-7.17,6.08,6.17,7.25,7.33,7.33,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.5,7.5,7.33,7.58,7.5,7.42,8.67,8.67,8.67,United States,Hawaiian Kona,Natural / Dry
-7.42,7.33,7.33,7.5,7.67,7.75,8.0,8.67,9.33,United States,Hawaiian Kona,Natural / Dry
-6.92,6.83,6.92,6.92,6.92,6.83,10.0,10.0,10.0,Asia Pacific,Java,Washed / Wet
-7.08,6.83,6.67,7.25,7.25,6.92,10.0,9.33,10.0,Mexico,Typica,Washed / Wet
-7.5,7.08,7.33,7.17,7.5,7.5,6.67,10.0,10.0,Taiwan,Yellow Bourbon,Washed / Wet
-6.83,7.0,6.67,7.0,7.0,6.83,10.0,10.0,10.0,Central America,Pacas,Natural / Dry
-7.58,7.33,7.5,7.42,7.5,7.33,8.0,8.67,9.33,United States,Hawaiian Kona,Natural / Dry
-7.42,7.25,6.83,7.33,7.0,6.92,9.33,9.33,9.33,Guatemala,Other,Washed / Wet
-7.33,7.17,6.92,7.08,7.33,7.0,9.33,9.33,9.33,Asia Pacific,Typica,Washed / Wet
-7.0,6.83,6.83,7.17,6.67,6.83,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.25,7.33,7.0,7.0,7.25,7.08,10.0,10.0,8.0,Mexico,Other,Washed / Wet
-7.42,7.17,7.0,7.17,7.67,7.17,8.67,9.33,9.33,Colombia,Other,Other
-7.5,7.25,7.42,7.0,7.08,6.83,8.67,9.33,10.0,Central America,Caturra,Washed / Wet
-7.42,7.25,7.0,7.0,7.25,7.08,8.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.17,6.17,6.17,7.08,7.33,6.83,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.42,7.0,7.0,7.17,7.08,7.0,9.33,8.67,10.0,Central America,Other,Other
-7.0,6.75,6.67,6.83,7.08,6.83,10.0,10.0,10.0,Brazil,Other,Washed / Wet
-7.0,6.83,6.67,7.17,6.83,6.83,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.17,6.75,6.58,7.33,7.33,7.17,9.33,9.33,10.0,Taiwan,Typica,Washed / Wet
-7.58,7.67,7.58,7.67,7.42,7.42,9.33,9.33,6.0,United States,Other,Natural / Dry
-7.17,6.75,6.58,6.75,6.83,6.75,10.0,10.0,10.0,Mexico,Typica,Washed / Wet
-7.08,6.92,6.33,7.0,6.92,7.0,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.5,7.33,7.42,7.58,7.58,6.92,8.0,8.0,10.0,Brazil,Bourbon,Natural / Dry
-7.33,7.0,6.83,7.17,7.17,7.17,9.33,9.33,9.33,Guatemala,Other,Washed / Wet
-7.33,7.0,6.67,7.0,6.92,6.92,9.33,9.33,10.0,Mexico,Typica,Washed / Wet
-7.08,6.92,6.83,6.67,7.58,7.42,8.67,9.33,10.0,United States,Other,Natural / Dry
-7.08,7.0,7.0,7.25,7.33,7.25,8.67,8.67,10.0,Mexico,Other,Washed / Wet
-7.67,7.33,7.17,6.67,7.17,7.42,9.33,10.0,6.67,Asia Pacific,Other,Natural / Dry
-6.67,6.33,6.42,6.83,7.0,6.92,10.0,10.0,10.0,Mexico,Typica,Other
-6.42,6.5,6.5,7.33,6.33,6.92,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.17,6.58,6.58,7.0,7.25,6.58,9.33,9.33,10.0,Mexico,Typica,Washed / Wet
-7.5,7.0,6.83,7.5,7.17,7.33,8.67,8.67,8.67,Guatemala,Bourbon,Washed / Wet
-6.17,6.5,6.5,7.17,7.0,6.83,10.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.25,7.08,6.83,7.17,7.33,6.83,8.67,8.67,9.33,United States,Hawaiian Kona,Natural / Dry
-7.5,7.33,7.33,7.58,7.67,7.25,8.0,8.0,8.0,United States,Other,Natural / Dry
-7.42,7.0,6.83,7.08,6.92,6.83,7.33,10.0,10.0,Mexico,Typica,Washed / Wet
-7.33,7.0,6.5,6.08,7.58,6.33,9.33,10.0,9.33,Asia Pacific,Other,Natural / Dry
-7.08,6.83,6.83,7.17,7.17,7.08,10.0,7.33,10.0,Mexico,Bourbon,Washed / Wet
-6.83,6.83,6.67,6.83,7.0,6.83,9.33,8.67,10.0,Central America,Pacas,Natural / Dry
-6.83,6.5,6.5,6.92,6.75,7.0,9.33,10.0,9.33,Asia Pacific,Other,Washed / Wet
-7.17,7.0,6.83,7.5,7.17,7.0,8.0,8.0,10.0,Brazil,Other,Natural / Dry
-7.92,7.58,7.17,7.58,7.33,7.17,8.0,8.0,8.0,Guatemala,Bourbon,Washed / Wet
-6.67,6.5,6.33,7.0,7.17,6.75,8.67,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.5,7.25,6.92,7.0,7.17,6.83,8.0,8.0,10.0,Mexico,Pacamara,Washed / Wet
-7.17,6.92,6.67,6.83,7.25,7.75,10.0,6.0,10.0,Mexico,Mundo Novo,Washed / Wet
-7.25,6.83,6.67,7.08,7.17,6.83,10.0,6.67,10.0,Mexico,Other,Washed / Wet
-7.17,7.17,6.83,7.17,7.42,6.67,8.67,7.33,10.0,Mexico,Typica,Washed / Wet
-7.0,6.92,6.75,6.92,7.17,6.83,10.0,6.67,10.0,Mexico,Typica,Washed / Wet
-7.08,6.75,6.58,7.0,7.0,6.75,8.67,8.67,10.0,Mexico,Typica,Washed / Wet
-7.33,6.75,6.67,7.25,7.5,7.0,10.0,5.33,10.0,Mexico,Typica,Washed / Wet
-6.75,6.5,6.17,7.0,7.25,6.75,8.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-6.75,6.67,6.17,7.17,7.0,6.58,8.0,10.0,10.0,Guatemala,Bourbon,Washed / Wet
-7.08,7.0,6.83,7.5,7.33,6.83,8.0,7.33,10.0,Mexico,Typica,Washed / Wet
-7.5,7.25,7.0,7.25,7.42,7.33,8.0,8.67,6.67,United States,Hawaiian Kona,Natural / Dry
-6.5,6.33,6.5,7.5,7.33,6.83,8.67,10.0,8.67,Guatemala,Bourbon,Washed / Wet
-7.0,6.58,6.67,6.83,7.08,6.83,10.0,6.67,10.0,Mexico,Typica,Washed / Wet
-6.92,6.42,6.17,7.33,7.25,6.75,10.0,6.67,10.0,Mexico,Typica,Washed / Wet
-7.67,7.0,7.17,7.58,7.33,7.33,10.0,2.67,10.0,Mexico,Typica,Washed / Wet
-7.17,7.17,7.17,7.58,7.67,6.92,9.33,6.67,6.67,United States,Hawaiian Kona,Natural / Dry
-7.25,6.58,6.58,7.0,7.0,6.42,8.0,8.0,10.0,Brazil,Other,Other
-7.0,7.17,6.83,7.17,7.0,7.17,8.0,8.0,8.0,Central America,Pacas,Washed / Wet
-7.08,7.08,6.92,7.08,6.92,6.92,8.0,8.0,8.0,Mexico,Typica,Washed / Wet
-8.0,7.33,7.75,7.33,7.42,7.67,6.67,6.67,6.67,Colombia,Other,Natural / Dry
-6.92,6.92,6.92,7.5,7.58,7.17,6.67,6.67,9.33,United States,Hawaiian Kona,Natural / Dry
-6.33,6.5,6.33,6.83,6.33,6.5,10.0,6.67,10.0,Central America,Caturra,Washed / Wet
-6.92,6.92,6.92,6.92,7.17,7.0,10.0,2.67,10.0,Mexico,Mundo Novo,Washed / Wet
-6.5,6.67,6.42,7.17,7.33,6.5,8.0,6.0,10.0,Mexico,Bourbon,Washed / Wet
-6.92,7.0,6.83,6.92,7.42,6.92,6.0,6.0,10.0,Mexico,Typica,Washed / Wet
-7.0,7.0,6.83,7.0,7.33,6.83,6.0,6.0,10.0,Brazil,Other,Natural / Dry
-6.67,6.5,6.17,6.67,6.83,6.17,8.0,8.0,8.0,Central America,Catuai,Washed / Wet
-7.0,6.17,6.17,6.67,6.5,6.17,8.0,8.0,8.0,Central America,Catuai,Washed / Wet
-7.0,6.33,6.17,6.5,6.67,6.17,8.0,8.0,8.0,Central America,Catuai,Washed / Wet
-7.08,6.83,6.25,7.42,7.25,6.75,10.0,0.0,10.0,Mexico,Bourbon,Washed / Wet
-7.25,6.58,6.33,6.25,6.42,6.08,6.0,6.0,6.0,Central America,Caturra,Other
-7.5,6.67,6.67,7.67,7.33,6.67,8.0,1.33,1.33,Guatemala,Catuai,Washed / Wet
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Central America,Caturra,Other
-7.83,8.08,7.75,7.92,8.25,7.92,10.0,10.0,8.0,East Africa,Other,Other
-8.0,7.75,7.92,8.0,7.92,7.92,10.0,10.0,8.0,Asia Pacific,Other,Washed / Wet
-7.92,7.83,7.92,8.0,7.83,7.92,10.0,10.0,7.83,Asia Pacific,Other,Other
-8.0,7.92,7.92,7.75,7.83,7.75,10.0,10.0,7.75,East Africa,Other,Other
-8.33,7.83,7.83,7.75,8.25,7.75,10.0,10.0,7.58,East Africa,Other,Other
-8.0,7.92,7.67,8.0,7.75,7.92,10.0,10.0,7.75,Asia Pacific,Other,Other
-7.67,7.75,7.83,7.83,7.92,7.75,10.0,10.0,8.0,Asia Pacific,Other,Other
-7.67,7.75,7.83,7.67,7.92,7.83,10.0,10.0,7.92,Asia Pacific,Other,Washed / Wet
-7.67,7.75,7.58,7.83,7.83,8.0,10.0,10.0,7.92,Asia Pacific,Other,Washed / Wet
-7.67,7.83,7.83,7.83,7.92,7.75,10.0,10.0,7.75,East Africa,Other,Other
-7.58,7.92,7.75,7.83,7.5,7.67,10.0,10.0,7.67,East Africa,Other,Other
-7.67,7.83,7.75,7.5,7.75,7.58,10.0,10.0,7.75,Asia Pacific,Other,Natural / Dry
-7.58,7.58,7.67,7.58,7.67,7.67,10.0,10.0,7.5,Asia Pacific,Other,Other
-8.0,7.75,7.75,7.58,7.67,7.5,10.0,10.0,7.58,East Africa,Other,Other
-8.0,7.67,7.75,7.5,7.67,7.58,10.0,10.0,7.58,East Africa,Other,Other
-7.75,7.75,7.67,7.67,7.58,7.58,10.0,10.0,7.58,Asia Pacific,Other,Other
-7.5,7.5,7.25,7.83,7.67,7.83,10.0,10.0,7.83,Asia Pacific,Other,Natural / Dry
-7.33,7.58,7.5,7.75,7.75,7.67,10.0,10.0,7.75,East Africa,Other,Other
-7.83,7.58,7.33,7.67,7.5,7.5,10.0,10.0,7.75,East Africa,Other,Other
-7.75,7.42,7.33,7.58,7.67,7.58,10.0,10.0,7.67,East Africa,Other,Other
-7.67,7.67,7.5,7.33,7.58,7.5,10.0,10.0,7.42,Asia Pacific,Other,Other
-7.58,7.42,7.42,7.83,7.42,7.5,10.0,10.0,7.42,Asia Pacific,Other,Natural / Dry
-7.92,7.5,7.42,7.42,7.42,7.42,9.33,10.0,7.58,United States,Arusha,Natural / Dry
-7.33,7.33,7.17,7.42,7.5,7.17,9.33,9.33,7.42,United States,Other,Natural / Dry
-7.42,6.83,6.75,7.17,7.25,7.0,9.33,9.33,7.08,Asia Pacific,Other,Natural / Dry
-6.75,6.67,6.5,6.83,6.92,6.83,9.33,9.33,6.67,Asia Pacific,Other,Natural / Dry
+user,item,rating
+user_1,China_Catimor_Washed/Wet,87.25
+user_2,Ethiopia_EthiopianYirgacheffe_Natural/Dry,87.25
+user_3,CostaRica_Caturra_Washed/Wet,87.17
+user_4,Brazil_Bourbon_Natural/Dry,86.92
+user_5,Uganda_Sl14_Washed/Wet,86.83
+user_3,Taiwan_Sumatra_PulpedNatural/Honey,86.58
+user_4,Brazil_Bourbon_Natural/Dry,86.42
+user_6,CostaRica_Caturra_Washed/Wet,86.33
+user_7,Kenya_Sl34_Washed/Wet,86.25
+user_3,UnitedStates_HawaiianKona_Natural/Dry,86.25
+user_3,Thailand_Caturra_Washed/Wet,86.17
+user_3,Taiwan_Bourbon_Semi-Washed/Semi-Pulped,86.08
+user_7,Kenya_Sl28_Natural/Dry,86.08
+user_4,Brazil_Bourbon_Semi-Washed/Semi-Pulped,86.08
+user_3,Colombia_Caturra_Washed/Wet,86.0
+user_3,Kenya_Sl28_Washed/Wet,86.0
+user_8,Guatemala_Bourbon_Washed/Wet,85.92
+user_5,Uganda_Sl14_Natural/Dry,85.92
+user_9,Colombia_Caturra_Washed/Wet,85.92
+user_6,Panama_Gesha_Washed/Wet,85.83
+user_8,Guatemala_Bourbon_Washed/Wet,85.83
+user_8,Guatemala_Catuai_Washed/Wet,85.83
+user_10,Ethiopia_Caturra_Natural/Dry,85.75
+user_3,ElSalvador_Bourbon_Washed/Wet,85.58
+user_3,ElSalvador_Bourbon_Semi-Washed/Semi-Pulped,85.58
+user_3,UnitedStates_HawaiianKona_Natural/Dry,85.58
+user_2,Panama_Caturra_Natural/Dry,85.5
+user_2,Kenya_Sl28_Natural/Dry,85.5
+user_5,Uganda_Sl14_Washed/Wet,85.5
+user_8,Guatemala_Bourbon_Washed/Wet,85.5
+user_5,Uganda_Sl14_Washed/Wet,85.42
+user_3,UnitedStates_HawaiianKona_Natural/Dry,85.42
+user_4,Brazil_Bourbon_Semi-Washed/Semi-Pulped,85.42
+user_1,China_Catimor_Natural/Dry,85.33
+user_2,Guatemala_Pacamara_Natural/Dry,85.33
+user_3,CostaRica_Caturra_Washed/Wet,85.33
+user_3,CostaRica_Caturra_Washed/Wet,85.33
+user_7,Kenya_Sl34_Washed/Wet,85.33
+user_7,Kenya_Sl34_Washed/Wet,85.33
+user_9,Colombia_Caturra_Washed/Wet,85.25
+user_9,Colombia_Caturra_Natural/Dry,85.25
+user_3,Guatemala_Caturra_Washed/Wet,85.17
+user_9,Colombia_Caturra_Natural/Dry,85.08
+user_3,UnitedStates_HawaiianKona_Natural/Dry,85.08
+user_9,Colombia_Caturra_Natural/Dry,85.08
+user_5,Uganda_Sl14_Washed/Wet,85.0
+user_9,Colombia_Caturra_Washed/Wet,85.0
+user_3,CostaRica_Catuai_Washed/Wet,85.0
+user_11,Mexico_Typica_Washed/Wet,85.0
+user_7,Kenya_Sl34_Washed/Wet,85.0
+user_4,Brazil_MundoNovo_Natural/Dry,85.0
+user_9,Colombia_Caturra_Washed/Wet,84.92
+user_9,Colombia_Caturra_Washed/Wet,84.92
+user_3,Taiwan_Typica_Semi-Washed/Semi-Pulped,84.92
+user_9,Colombia_Caturra_Washed/Wet,84.92
+user_12,Mexico_Typica_Semi-Washed/Semi-Pulped,84.92
+user_4,Brazil_Bourbon_Natural/Dry,84.92
+user_4,Brazil_Catuai_Natural/Dry,84.92
+user_3,Taiwan_Typica_Natural/Dry,84.83
+user_5,Uganda_Sl14_Natural/Dry,84.83
+user_3,UnitedStates_HawaiianKona_Natural/Dry,84.83
+user_13,Thailand_Caturra_PulpedNatural/Honey,84.75
+user_7,Kenya_Sl34_Washed/Wet,84.75
+user_14,Honduras_Catuai_Washed/Wet,84.75
+user_15,ElSalvador_Bourbon_Washed/Wet,84.67
+user_16,Indonesia_Java_Washed/Wet,84.67
+user_13,Japan_MundoNovo_PulpedNatural/Honey,84.67
+user_6,CostaRica_Catuai_Washed/Wet,84.67
+user_8,Guatemala_Bourbon_Washed/Wet,84.67
+user_6,CostaRica_Caturra_Washed/Wet,84.67
+user_2,Ethiopia_EthiopianYirgacheffe_Washed/Wet,84.67
+user_6,CostaRica_Catuai_Washed/Wet,84.67
+user_2,Taiwan_Typica_Washed/Wet,84.67
+user_9,Colombia_Caturra_Washed/Wet,84.67
+user_13,Kenya_Sl28_Washed/Wet,84.67
+user_8,Guatemala_Bourbon_Washed/Wet,84.67
+user_8,Guatemala_Bourbon_Washed/Wet,84.67
+user_12,Mexico_Typica_Washed/Wet,84.67
+user_7,Kenya_Sl34_Washed/Wet,84.58
+user_9,Colombia_Caturra_Washed/Wet,84.58
+user_7,Kenya_Peaberry_Washed/Wet,84.58
+user_8,Guatemala_Pacas_Washed/Wet,84.58
+user_8,Guatemala_Bourbon_Washed/Wet,84.58
+user_9,Colombia_Caturra_Washed/Wet,84.58
+user_9,Colombia_Caturra_Washed/Wet,84.58
+user_7,Kenya_Sl28_Washed/Wet,84.58
+user_9,Colombia_Caturra_Washed/Wet,84.58
+user_3,CostaRica_Bourbon_Semi-Washed/Semi-Pulped,84.58
+user_9,Colombia_Caturra_Washed/Wet,84.58
+user_4,Brazil_Bourbon_Semi-Washed/Semi-Pulped,84.58
+user_4,Brazil_Catuai_Semi-Washed/Semi-Pulped,84.58
+user_6,CostaRica_Caturra_Washed/Wet,84.5
+user_5,Uganda_Sl14_Washed/Wet,84.5
+user_1,China_Catimor_Washed/Wet,84.5
+user_6,CostaRica_Caturra_Washed/Wet,84.5
+user_8,Guatemala_Bourbon_Washed/Wet,84.5
+user_13,Kenya_Sl28_Washed/Wet,84.5
+user_12,Mexico_Typica_Washed/Wet,84.5
+user_12,Mexico_Typica_Washed/Wet,84.5
+user_8,Guatemala_Bourbon_Washed/Wet,84.5
+user_6,CostaRica_Caturra_Washed/Wet,84.42
+user_9,Colombia_Caturra_Natural/Dry,84.42
+user_9,Colombia_Caturra_Washed/Wet,84.42
+user_3,Taiwan_Typica_Washed/Wet,84.42
+user_3,UnitedStates_HawaiianKona_Natural/Dry,84.42
+user_12,Mexico_Pacamara_Washed/Wet,84.42
+user_7,Kenya_Sl28_Washed/Wet,84.33
+user_9,Colombia_Caturra_Washed/Wet,84.33
+user_14,Honduras_Catuai_Washed/Wet,84.33
+user_9,Colombia_Caturra_Natural/Dry,84.33
+user_9,Colombia_Caturra_Washed/Wet,84.33
+user_12,Mexico_Typica_Washed/Wet,84.33
+user_3,Taiwan_Typica_Washed/Wet,84.25
+user_13,Thailand_Catimor_Natural/Dry,84.25
+user_9,Colombia_Caturra_Natural/Dry,84.25
+user_8,Guatemala_Caturra_Washed/Wet,84.25
+user_8,Guatemala_Caturra_Washed/Wet,84.25
+user_1,China_Catimor_Natural/Dry,84.25
+user_9,Colombia_Caturra_Washed/Wet,84.25
+user_9,Colombia_Caturra_Washed/Wet,84.25
+user_9,Colombia_Caturra_Natural/Dry,84.25
+user_9,Colombia_Caturra_Washed/Wet,84.25
+user_3,UnitedStates_HawaiianKona_Natural/Dry,84.25
+user_12,Mexico_Typica_Semi-Washed/Semi-Pulped,84.25
+user_12,Mexico_Bourbon_Washed/Wet,84.25
+user_12,Mexico_Bourbon_Washed/Wet,84.25
+user_8,Guatemala_Bourbon_Washed/Wet,84.17
+user_9,Colombia_Caturra_Washed/Wet,84.17
+user_6,CostaRica_Caturra_Washed/Wet,84.17
+user_8,Guatemala_Caturra_Washed/Wet,84.17
+user_8,Guatemala_Caturra_Washed/Wet,84.17
+user_8,Guatemala_Bourbon_Washed/Wet,84.17
+user_9,Colombia_Caturra_Washed/Wet,84.17
+user_6,Nicaragua_Caturra_Natural/Dry,84.17
+user_17,Brazil_Catuai_Natural/Dry,84.17
+user_6,CostaRica_Caturra_Washed/Wet,84.17
+user_10,Ethiopia_Gesha_Natural/Dry,84.17
+user_7,Kenya_Sl28_Washed/Wet,84.17
+user_3,Brazil_MundoNovo_Natural/Dry,84.17
+user_8,Guatemala_Bourbon_Washed/Wet,84.17
+user_3,ElSalvador_Bourbon_Natural/Dry,84.17
+user_9,Colombia_Caturra_Washed/Wet,84.17
+user_8,Guatemala_Catuai_Natural/Dry,84.17
+user_16,Indonesia_Mandheling_Natural/Dry,84.13
+user_9,Colombia_Caturra_Washed/Wet,84.08
+user_3,Taiwan_Typica_Washed/Wet,84.08
+user_8,Guatemala_Bourbon_Washed/Wet,84.08
+user_9,Colombia_Caturra_Washed/Wet,84.08
+user_3,Guatemala_Bourbon_Washed/Wet,84.08
+user_3,UnitedStates_HawaiianKona_Natural/Dry,84.08
+user_12,Mexico_Typica_Washed/Wet,84.08
+user_5,Ethiopia_Gesha_Natural/Dry,84.0
+user_14,Honduras_Caturra_Washed/Wet,84.0
+user_8,Guatemala_Caturra_Washed/Wet,84.0
+user_8,Guatemala_Bourbon_Natural/Dry,84.0
+user_9,Colombia_Caturra_Natural/Dry,84.0
+user_9,Colombia_Caturra_Washed/Wet,84.0
+user_3,Brazil_YellowBourbon_Natural/Dry,84.0
+user_9,Colombia_Caturra_Washed/Wet,84.0
+user_7,Kenya_Sl34_Washed/Wet,84.0
+user_7,Kenya_Sl28_Washed/Wet,84.0
+user_17,Brazil_Bourbon_Natural/Dry,83.92
+user_11,Mexico_MundoNovo_Washed/Wet,83.92
+user_3,Thailand_Catimor_Natural/Dry,83.92
+user_17,Brazil_Bourbon_Natural/Dry,83.92
+user_3,Taiwan_Typica_Washed/Wet,83.92
+user_9,Colombia_Caturra_Washed/Wet,83.92
+user_2,Taiwan_Typica_Washed/Wet,83.92
+user_9,Colombia_Caturra_Natural/Dry,83.92
+user_12,Mexico_Typica_Washed/Wet,83.92
+user_12,Mexico_Typica_Washed/Wet,83.92
+user_12,Mexico_Typica_Washed/Wet,83.92
+user_9,Colombia_Caturra_Washed/Wet,83.83
+user_6,CostaRica_Caturra_Washed/Wet,83.83
+user_8,Guatemala_Bourbon_Washed/Wet,83.83
+user_17,Brazil_YellowBourbon_Natural/Dry,83.83
+user_3,Taiwan_Typica_Washed/Wet,83.83
+user_3,Brazil_Bourbon_Semi-Washed/Semi-Pulped,83.83
+user_6,CostaRica_Catuai_Washed/Wet,83.83
+user_8,Guatemala_Bourbon_Washed/Wet,83.83
+user_3,Brazil_YellowBourbon_Natural/Dry,83.83
+user_9,Colombia_Caturra_Washed/Wet,83.83
+user_8,Guatemala_Bourbon_Washed/Wet,83.83
+user_12,Mexico_Bourbon_Natural/Dry,83.83
+user_12,Mexico_Pacas_Natural/Dry,83.83
+user_4,Brazil_YellowBourbon_Semi-Washed/Semi-Pulped,83.83
+user_7,Kenya_Sl28_Washed/Wet,83.75
+user_17,Brazil_Bourbon_Natural/Dry,83.75
+user_9,Colombia_Caturra_Washed/Wet,83.75
+user_3,Taiwan_Typica_Natural/Dry,83.75
+user_1,China_Catimor_Washed/Wet,83.75
+user_9,Colombia_Caturra_Natural/Dry,83.75
+user_5,Uganda_Bourbon_Natural/Dry,83.75
+user_9,Colombia_Caturra_Washed/Wet,83.75
+user_9,Colombia_Caturra_Washed/Wet,83.75
+user_9,Colombia_Caturra_Washed/Wet,83.75
+user_3,UnitedStates_HawaiianKona_Natural/Dry,83.75
+user_12,Mexico_Caturra_Natural/Dry,83.75
+user_3,Guatemala_Caturra_Washed/Wet,83.75
+user_17,Brazil_Bourbon_Natural/Dry,83.67
+user_7,Kenya_Sl28_Washed/Wet,83.67
+user_14,Honduras_Caturra_Washed/Wet,83.67
+user_14,Nicaragua_Caturra_Washed/Wet,83.67
+user_17,Brazil_Bourbon_Natural/Dry,83.67
+user_3,Taiwan_Caturra_Natural/Dry,83.67
+user_3,Colombia_Caturra_Washed/Wet,83.67
+user_8,Guatemala_Bourbon_Washed/Wet,83.67
+user_9,Colombia_Caturra_Washed/Wet,83.67
+user_9,Colombia_Caturra_Washed/Wet,83.67
+user_8,Guatemala_Bourbon_Washed/Wet,83.67
+user_8,Guatemala_Bourbon_Washed/Wet,83.67
+user_9,Colombia_Caturra_Washed/Wet,83.67
+user_3,Guatemala_Caturra_Natural/Dry,83.67
+user_8,Guatemala_Bourbon_Washed/Wet,83.67
+user_12,Mexico_Typica_Washed/Wet,83.67
+user_16,Indonesia_Typica_Washed/Wet,83.67
+user_8,Guatemala_Caturra_Washed/Wet,83.67
+user_17,Brazil_Bourbon_Natural/Dry,83.58
+user_8,Guatemala_Caturra_Washed/Wet,83.58
+user_9,Colombia_Caturra_Washed/Wet,83.58
+user_1,China_Catimor_Washed/Wet,83.58
+user_9,Colombia_Caturra_Washed/Wet,83.58
+user_18,Mexico_Caturra_Washed/Wet,83.58
+user_5,Uganda_Sl14_Washed/Wet,83.58
+user_9,Colombia_Caturra_Natural/Dry,83.58
+user_9,Colombia_Caturra_Washed/Wet,83.58
+user_9,Colombia_Caturra_Washed/Wet,83.58
+user_9,Colombia_Caturra_Washed/Wet,83.58
+user_12,Mexico_Typica_Washed/Wet,83.58
+user_9,Colombia_Caturra_Natural/Dry,83.58
+user_4,Brazil_Catuai_Semi-Washed/Semi-Pulped,83.58
+user_9,Colombia_Caturra_Washed/Wet,83.5
+user_6,CostaRica_Caturra_Washed/Wet,83.5
+user_9,Colombia_Caturra_Natural/Dry,83.5
+user_8,Guatemala_Bourbon_Washed/Wet,83.5
+user_9,Colombia_Caturra_Washed/Wet,83.5
+user_19,"Tanzania,UnitedRepublicOf_Ruiru11_Washed/Wet",83.5
+user_3,Indonesia_Sumatra_Semi-Washed/Semi-Pulped,83.5
+user_9,Colombia_Caturra_Washed/Wet,83.5
+user_6,Guatemala_Caturra_Washed/Wet,83.5
+user_9,Colombia_Caturra_Washed/Wet,83.5
+user_14,Honduras_Caturra_Natural/Dry,83.5
+user_9,Colombia_Caturra_Washed/Wet,83.5
+user_12,Mexico_Bourbon_Natural/Dry,83.5
+user_12,Mexico_Typica_Semi-Washed/Semi-Pulped,83.5
+user_12,Mexico_Pacamara_Washed/Wet,83.5
+user_8,Guatemala_Caturra_Washed/Wet,83.5
+user_9,Colombia_Caturra_Washed/Wet,83.5
+user_3,Guatemala_Bourbon_Washed/Wet,83.5
+user_9,Colombia_Caturra_Washed/Wet,83.42
+user_8,Guatemala_Bourbon_Washed/Wet,83.42
+user_9,Colombia_Caturra_Washed/Wet,83.42
+user_6,CostaRica_Caturra_Washed/Wet,83.42
+user_5,Uganda_Sl14_Washed/Wet,83.42
+user_13,Thailand_Catimor_Washed/Wet,83.42
+user_15,ElSalvador_Bourbon_Washed/Wet,83.42
+user_9,Colombia_Caturra_Natural/Dry,83.42
+user_17,Brazil_YellowBourbon_Semi-Washed/Semi-Pulped,83.42
+user_19,"Tanzania,UnitedRepublicOf_Bourbon_Washed/Wet",83.42
+user_9,Colombia_Caturra_Washed/Wet,83.42
+user_8,Guatemala_Bourbon_Natural/Dry,83.42
+user_8,Guatemala_Caturra_Washed/Wet,83.42
+user_8,Guatemala_Bourbon_Washed/Wet,83.42
+user_3,UnitedStates_HawaiianKona_Natural/Dry,83.42
+user_9,Colombia_Caturra_Washed/Wet,83.42
+user_9,Colombia_Caturra_Washed/Wet,83.33
+user_9,Colombia_Caturra_Washed/Wet,83.33
+user_9,Colombia_Caturra_Washed/Wet,83.33
+user_3,Brazil_Catuai_Semi-Washed/Semi-Pulped,83.33
+user_18,Mexico_Caturra_Washed/Wet,83.33
+user_9,Colombia_Caturra_Washed/Wet,83.33
+user_3,CostaRica_Caturra_Washed/Wet,83.33
+user_3,UnitedStates_HawaiianKona_Natural/Dry,83.33
+user_6,CostaRica_Catuai_Washed/Wet,83.33
+user_9,Colombia_Caturra_Natural/Dry,83.33
+user_8,Guatemala_Bourbon_Washed/Wet,83.33
+user_3,UnitedStates_HawaiianKona_Natural/Dry,83.33
+user_3,Burundi_Bourbon_Washed/Wet,83.33
+user_9,Colombia_Caturra_Washed/Wet,83.33
+user_11,Mexico_Typica_Washed/Wet,83.25
+user_3,CostaRica_Catuai_PulpedNatural/Honey,83.25
+user_8,Guatemala_Pacas_Washed/Wet,83.25
+user_5,Uganda_Sl14_Washed/Wet,83.25
+user_9,Colombia_Caturra_Natural/Dry,83.25
+user_18,Mexico_Typica_Natural/Dry,83.25
+user_3,Taiwan_Bourbon_Washed/Wet,83.25
+user_2,Taiwan_Typica_Washed/Wet,83.25
+user_9,Colombia_Caturra_Natural/Dry,83.25
+user_8,Guatemala_Caturra_Washed/Wet,83.25
+user_9,Colombia_Caturra_Washed/Wet,83.25
+user_12,Mexico_Bourbon_Washed/Wet,83.25
+user_3,UnitedStates_HawaiianKona_Natural/Dry,83.25
+user_12,Mexico_MundoNovo_Washed/Wet,83.25
+user_12,Mexico_Caturra_Washed/Wet,83.25
+user_8,Guatemala_Bourbon_Washed/Wet,83.25
+user_4,Brazil_YellowBourbon_Semi-Washed/Semi-Pulped,83.25
+user_9,Colombia_Caturra_Washed/Wet,83.25
+user_9,Colombia_Caturra_Washed/Wet,83.25
+user_17,Brazil_Bourbon_Natural/Dry,83.17
+user_8,Guatemala_Bourbon_Washed/Wet,83.17
+user_20,"Tanzania,UnitedRepublicOf_Bourbon_Washed/Wet",83.17
+user_3,Vietnam_Catimor_Natural/Dry,83.17
+user_8,Guatemala_Caturra_Washed/Wet,83.17
+user_14,Honduras_Catuai_Washed/Wet,83.17
+user_1,China_Catimor_Washed/Wet,83.17
+user_1,China_Catimor_Washed/Wet,83.17
+user_15,ElSalvador_Bourbon_Washed/Wet,83.17
+user_8,Guatemala_Bourbon_Washed/Wet,83.17
+user_8,Guatemala_Bourbon_Washed/Wet,83.17
+user_7,Kenya_Sl28_Washed/Wet,83.17
+user_9,Colombia_Caturra_Washed/Wet,83.17
+user_5,Uganda_Sl14_Washed/Wet,83.17
+user_14,Honduras_Catuai_Natural/Dry,83.17
+user_14,Honduras_Caturra_Natural/Dry,83.17
+user_8,Guatemala_Catuai_Washed/Wet,83.17
+user_3,UnitedStates_HawaiianKona_Natural/Dry,83.17
+user_20,"Tanzania,UnitedRepublicOf_Bourbon_Washed/Wet",83.17
+user_8,Guatemala_Bourbon_Washed/Wet,83.17
+user_12,Mexico_Typica_Washed/Wet,83.17
+user_12,Mexico_Typica_Washed/Wet,83.17
+user_12,Mexico_Pacamara_Washed/Wet,83.17
+user_9,Colombia_Caturra_Washed/Wet,83.17
+user_12,Mexico_Typica_Washed/Wet,83.17
+user_9,Colombia_Caturra_Washed/Wet,83.17
+user_12,Mexico_Typica_Washed/Wet,83.17
+user_4,Brazil_MundoNovo_Natural/Dry,83.17
+user_4,Brazil_MundoNovo_Natural/Dry,83.17
+user_3,Guatemala_Bourbon_Washed/Wet,83.17
+user_4,Brazil_MundoNovo_Semi-Washed/Semi-Pulped,83.17
+user_9,Colombia_Caturra_Washed/Wet,83.08
+user_9,Colombia_Caturra_Washed/Wet,83.08
+user_17,Brazil_YellowBourbon_PulpedNatural/Honey,83.08
+user_17,Brazil_YellowBourbon_Natural/Dry,83.08
+user_3,Taiwan_Typica_Natural/Dry,83.08
+user_17,Brazil_MundoNovo_Natural/Dry,83.08
+user_3,Brazil_Bourbon_Washed/Wet,83.08
+user_6,CostaRica_Catuai_Washed/Wet,83.08
+user_3,UnitedStates_HawaiianKona_Natural/Dry,83.08
+user_3,UnitedStates_HawaiianKona_Natural/Dry,83.08
+user_3,UnitedStates_HawaiianKona_Natural/Dry,83.08
+user_3,UnitedStates_HawaiianKona_Washed/Wet,83.08
+user_17,Brazil_Bourbon_Natural/Dry,83.0
+user_17,Brazil_Bourbon_Natural/Dry,83.0
+user_17,Brazil_Bourbon_Natural/Dry,83.0
+user_5,Uganda_Bourbon_Washed/Wet,83.0
+user_5,Uganda_Bourbon_Natural/Dry,83.0
+user_8,Guatemala_Catuai_Washed/Wet,83.0
+user_8,Guatemala_Catuai_Washed/Wet,83.0
+user_8,Guatemala_Bourbon_Washed/Wet,83.0
+user_17,Brazil_Catuai_Natural/Dry,83.0
+user_2,Taiwan_Typica_Washed/Wet,83.0
+user_5,Uganda_Sl14_Washed/Wet,83.0
+user_8,Guatemala_Bourbon_Washed/Wet,83.0
+user_6,CostaRica_Catuai_Washed/Wet,83.0
+user_3,Brazil_YellowBourbon_Semi-Washed/Semi-Pulped,83.0
+user_9,Colombia_Caturra_Washed/Wet,83.0
+user_9,Colombia_Caturra_Washed/Wet,83.0
+user_9,Colombia_Caturra_Natural/Dry,83.0
+user_9,Colombia_Caturra_Natural/Dry,83.0
+user_9,Colombia_Caturra_Washed/Wet,83.0
+user_12,Mexico_Typica_Washed/Wet,83.0
+user_12,Mexico_Typica_Semi-Washed/Semi-Pulped,83.0
+user_12,Mexico_Bourbon_Washed/Wet,83.0
+user_9,Colombia_Arusha_Natural/Dry,83.0
+user_9,Colombia_Caturra_Washed/Wet,83.0
+user_9,Colombia_Caturra_Washed/Wet,83.0
+user_8,Guatemala_Bourbon_Washed/Wet,83.0
+user_9,Colombia_Caturra_Washed/Wet,83.0
+user_17,Brazil_Bourbon_Natural/Dry,82.92
+user_15,ElSalvador_Bourbon_Washed/Wet,82.92
+user_9,Colombia_Caturra_Washed/Wet,82.92
+user_3,Taiwan_Caturra_Natural/Dry,82.92
+user_2,Taiwan_Typica_Natural/Dry,82.92
+user_18,Mexico_Typica_Natural/Dry,82.92
+user_3,Mexico_Bourbon_Washed/Wet,82.92
+user_5,Uganda_Sl14_Washed/Wet,82.92
+user_5,Uganda_Sl14_Washed/Wet,82.92
+user_8,Guatemala_Bourbon_Washed/Wet,82.92
+user_8,Guatemala_Caturra_Natural/Dry,82.92
+user_9,Colombia_Caturra_Washed/Wet,82.92
+user_9,Colombia_Caturra_Natural/Dry,82.92
+user_8,Guatemala_Bourbon_Washed/Wet,82.92
+user_12,Mexico_Typica_Natural/Dry,82.92
+user_12,Mexico_Typica_Washed/Wet,82.92
+user_3,UnitedStates_HawaiianKona_Washed/Wet,82.92
+user_7,Kenya_Sl28_Washed/Wet,82.83
+user_8,Guatemala_Bourbon_Washed/Wet,82.83
+user_17,Brazil_YellowBourbon_PulpedNatural/Honey,82.83
+user_15,ElSalvador_Pacas_Washed/Wet,82.83
+user_3,Rwanda_Bourbon_Washed/Wet,82.83
+user_8,Guatemala_Bourbon_Washed/Wet,82.83
+user_17,Brazil_Catuai_Natural/Dry,82.83
+user_8,Guatemala_Bourbon_Washed/Wet,82.83
+user_9,Colombia_Typica_Natural/Dry,82.83
+user_9,Colombia_Caturra_Washed/Wet,82.83
+user_20,"Tanzania,UnitedRepublicOf_Arusha_Washed/Wet",82.83
+user_12,Mexico_Caturra_Washed/Wet,82.83
+user_12,Mexico_Bourbon_Washed/Wet,82.83
+user_8,Guatemala_Bourbon_Washed/Wet,82.83
+user_12,Mexico_Typica_Washed/Wet,82.83
+user_8,Guatemala_Caturra_Washed/Wet,82.75
+user_8,Guatemala_Caturra_Washed/Wet,82.75
+user_8,Guatemala_Bourbon_Washed/Wet,82.75
+user_8,Guatemala_Bourbon_Washed/Wet,82.75
+user_8,Guatemala_Bourbon_Washed/Wet,82.75
+user_8,Guatemala_Bourbon_Washed/Wet,82.75
+user_3,Taiwan_YellowBourbon_Natural/Dry,82.75
+user_15,ElSalvador_Bourbon_Washed/Wet,82.75
+user_6,CostaRica_Caturra_Washed/Wet,82.75
+user_14,Honduras_Caturra_Natural/Dry,82.75
+user_17,Brazil_YellowBourbon_PulpedNatural/Honey,82.75
+user_1,China_Catimor_Natural/Dry,82.75
+user_1,China_Catimor_Washed/Wet,82.75
+user_9,Colombia_Caturra_Washed/Wet,82.75
+user_19,Malawi_Gesha_Washed/Wet,82.75
+user_8,Guatemala_Pacas_Washed/Wet,82.75
+user_9,Colombia_Typica_Washed/Wet,82.75
+user_3,UnitedStates_HawaiianKona_Natural/Dry,82.75
+user_3,UnitedStates_HawaiianKona_Natural/Dry,82.75
+user_6,Colombia_Caturra_Washed/Wet,82.75
+user_12,Mexico_Typica_Washed/Wet,82.75
+user_12,Mexico_Typica_Washed/Wet,82.75
+user_12,Mexico_Typica_Natural/Dry,82.75
+user_9,Colombia_Caturra_Washed/Wet,82.75
+user_9,Colombia_Caturra_Washed/Wet,82.75
+user_3,UnitedStates_HawaiianKona_Washed/Wet,82.75
+user_3,Panama_Catuai_Washed/Wet,82.75
+user_17,Brazil_Bourbon_Natural/Dry,82.67
+user_17,Brazil_Bourbon_Natural/Dry,82.67
+user_2,Laos_Catimor_Washed/Wet,82.67
+user_15,ElSalvador_Pacas_Washed/Wet,82.67
+user_17,Brazil_YellowBourbon_Natural/Dry,82.67
+user_17,Brazil_Catuai_Natural/Dry,82.67
+user_19,"Tanzania,UnitedRepublicOf_Bourbon_Washed/Wet",82.67
+user_2,Taiwan_Typica_Washed/Wet,82.67
+user_12,Mexico_Typica_Natural/Dry,82.67
+user_5,Uganda_Sl14_Washed/Wet,82.67
+user_2,Taiwan_Typica_Washed/Wet,82.67
+user_13,Thailand_Caturra_Washed/Wet,82.67
+user_9,Colombia_Caturra_Washed/Wet,82.67
+user_8,Guatemala_Caturra_Washed/Wet,82.67
+user_12,Mexico_Typica_Washed/Wet,82.67
+user_8,Guatemala_Bourbon_Washed/Wet,82.58
+user_3,Taiwan_Typica_PulpedNatural/Honey,82.58
+user_21,Indonesia_Typica_Semi-Washed/Semi-Pulped,82.58
+user_13,Thailand_Caturra_Washed/Wet,82.58
+user_5,Uganda_Sl14_Natural/Dry,82.58
+user_6,CostaRica_Catuai_Washed/Wet,82.58
+user_9,Colombia_Caturra_Washed/Wet,82.58
+user_9,Colombia_Caturra_Washed/Wet,82.58
+user_9,Colombia_Caturra_Washed/Wet,82.58
+user_12,Mexico_Typica_Washed/Wet,82.58
+user_12,Mexico_Typica_Washed/Wet,82.58
+user_9,Colombia_Caturra_Washed/Wet,82.58
+user_17,Brazil_Bourbon_Natural/Dry,82.5
+user_14,Honduras_Caturra_Washed/Wet,82.5
+user_8,Guatemala_Bourbon_Washed/Wet,82.5
+user_13,Thailand_Caturra_Washed/Wet,82.5
+user_3,Brazil_YellowBourbon_Semi-Washed/Semi-Pulped,82.5
+user_8,Guatemala_Bourbon_Washed/Wet,82.5
+user_9,Colombia_Caturra_Washed/Wet,82.5
+user_8,Guatemala_Bourbon_Washed/Wet,82.5
+user_12,Mexico_Typica_Washed/Wet,82.5
+user_12,Mexico_Typica_Washed/Wet,82.5
+user_12,Mexico_Typica_Semi-Washed/Semi-Pulped,82.5
+user_8,Guatemala_Caturra_Natural/Dry,82.5
+user_4,Brazil_Bourbon_Semi-Washed/Semi-Pulped,82.5
+user_9,Colombia_Caturra_Washed/Wet,82.5
+user_3,UnitedStates_HawaiianKona_Washed/Wet,82.5
+user_8,Guatemala_Bourbon_Washed/Wet,82.42
+user_8,Guatemala_Bourbon_Washed/Wet,82.42
+user_8,Guatemala_Bourbon_Washed/Wet,82.42
+user_8,Guatemala_Caturra_Washed/Wet,82.42
+user_9,Colombia_Caturra_Washed/Wet,82.42
+user_1,China_Catimor_Washed/Wet,82.42
+user_19,"Tanzania,UnitedRepublicOf_Ruiru11_Washed/Wet",82.42
+user_17,Brazil_YellowBourbon_Natural/Dry,82.42
+user_6,Guatemala_Caturra_Washed/Wet,82.42
+user_12,Mexico_Typica_Washed/Wet,82.42
+user_4,Brazil_Catuai_Semi-Washed/Semi-Pulped,82.42
+user_3,Brazil_YellowBourbon_Natural/Dry,82.42
+user_12,Mexico_Bourbon_Washed/Wet,82.42
+user_9,Colombia_Caturra_Washed/Wet,82.42
+user_12,Mexico_Typica_Washed/Wet,82.42
+user_12,Mexico_Typica_Semi-Washed/Semi-Pulped,82.42
+user_12,Mexico_Typica_Washed/Wet,82.42
+user_12,Mexico_Caturra_Washed/Wet,82.42
+user_12,Mexico_Typica_Washed/Wet,82.42
+user_12,Mexico_Pacamara_Washed/Wet,82.42
+user_12,Mexico_Caturra_Washed/Wet,82.42
+user_12,Mexico_Bourbon_Washed/Wet,82.42
+user_12,Mexico_Typica_Washed/Wet,82.42
+user_9,Colombia_Caturra_Natural/Dry,82.42
+user_4,Brazil_Arusha_Natural/Dry,82.42
+user_9,Colombia_Caturra_Washed/Wet,82.42
+user_14,Honduras_Caturra_Washed/Wet,82.33
+user_17,Brazil_Catuai_Natural/Dry,82.33
+user_17,Brazil_Bourbon_Natural/Dry,82.33
+user_6,CostaRica_Caturra_Washed/Wet,82.33
+user_6,CostaRica_Catuai_Washed/Wet,82.33
+user_1,China_Catimor_PulpedNatural/Honey,82.33
+user_3,Brazil_Bourbon_Natural/Dry,82.33
+user_17,Brazil_MundoNovo_Natural/Dry,82.33
+user_8,Guatemala_Bourbon_Washed/Wet,82.33
+user_19,Malawi_Gesha_Washed/Wet,82.33
+user_3,Brazil_Bourbon_Natural/Dry,82.33
+user_8,Guatemala_Pacas_Washed/Wet,82.33
+user_6,Colombia_Caturra_Washed/Wet,82.33
+user_2,Taiwan_Typica_Semi-Washed/Semi-Pulped,82.33
+user_2,Taiwan_Typica_Washed/Wet,82.33
+user_8,Guatemala_Bourbon_Washed/Wet,82.33
+user_9,Colombia_Caturra_Washed/Wet,82.33
+user_12,Mexico_Typica_Washed/Wet,82.33
+user_8,Guatemala_Bourbon_Washed/Wet,82.33
+user_12,Mexico_Typica_Natural/Dry,82.33
+user_12,Mexico_Bourbon_Washed/Wet,82.33
+user_8,Guatemala_Bourbon_Washed/Wet,82.33
+user_4,Brazil_MundoNovo_Natural/Dry,82.33
+user_12,Mexico_Typica_Washed/Wet,82.33
+user_4,Brazil_MundoNovo_Washed/Wet,82.33
+user_9,Colombia_Caturra_Natural/Dry,82.33
+user_3,Brazil_Catuai_Washed/Wet,82.25
+user_8,Guatemala_Pacas_Washed/Wet,82.25
+user_17,Brazil_YellowBourbon_Natural/Dry,82.25
+user_15,ElSalvador_Bourbon_Washed/Wet,82.25
+user_14,Honduras_Catuai_Washed/Wet,82.25
+user_19,Malawi_Gesha_Washed/Wet,82.25
+user_3,Brazil_Bourbon_Natural/Dry,82.25
+user_2,Taiwan_Typica_Washed/Wet,82.25
+user_12,Mexico_MundoNovo_Washed/Wet,82.25
+user_3,UnitedStates_HawaiianKona_Natural/Dry,82.25
+user_12,Mexico_Bourbon_Washed/Wet,82.25
+user_8,Guatemala_Bourbon_Washed/Wet,82.25
+user_12,Mexico_Bourbon_Washed/Wet,82.25
+user_12,Mexico_Typica_Washed/Wet,82.25
+user_12,Mexico_Typica_Washed/Wet,82.25
+user_12,Mexico_Typica_Washed/Wet,82.25
+user_9,Colombia_Caturra_Washed/Wet,82.25
+user_9,Colombia_Caturra_Washed/Wet,82.25
+user_4,Brazil_Arusha_Natural/Dry,82.25
+user_17,Brazil_Bourbon_Natural/Dry,82.17
+user_14,Honduras_Caturra_Washed/Wet,82.17
+user_19,"Tanzania,UnitedRepublicOf_Bourbon_Washed/Wet",82.17
+user_17,Brazil_YellowBourbon_Natural/Dry,82.17
+user_14,Honduras_Catuai_Washed/Wet,82.17
+user_2,Guatemala_Bourbon_Washed/Wet,82.17
+user_17,Brazil_MundoNovo_Natural/Dry,82.17
+user_3,Taiwan_Typica_Washed/Wet,82.17
+user_9,Colombia_Caturra_Washed/Wet,82.17
+user_12,Mexico_Typica_Washed/Wet,82.17
+user_3,Guatemala_Caturra_Washed/Wet,82.17
+user_12,Mexico_Typica_Washed/Wet,82.17
+user_12,Mexico_Typica_Washed/Wet,82.17
+user_16,Indonesia_Bourbon_Washed/Wet,82.08
+user_9,Colombia_Caturra_Washed/Wet,82.08
+user_17,Brazil_Bourbon_Natural/Dry,82.08
+user_17,Brazil_YellowBourbon_Natural/Dry,82.08
+user_6,CostaRica_Caturra_Washed/Wet,82.08
+user_20,"Tanzania,UnitedRepublicOf_Bourbon_Washed/Wet",82.08
+user_6,CostaRica_Caturra_Washed/Wet,82.08
+user_3,UnitedStates_HawaiianKona_Natural/Dry,82.08
+user_12,Mexico_Typica_Washed/Wet,82.08
+user_12,Mexico_Typica_Washed/Wet,82.08
+user_12,Mexico_Typica_Washed/Wet,82.08
+user_12,Mexico_Typica_Washed/Wet,82.08
+user_3,UnitedStates_HawaiianKona_Washed/Wet,82.08
+user_14,Honduras_Caturra_Washed/Wet,82.0
+user_14,Honduras_Caturra_Natural/Dry,82.0
+user_17,Brazil_Bourbon_Natural/Dry,82.0
+user_19,Malawi_Gesha_Washed/Wet,82.0
+user_3,Taiwan_Typica_Washed/Wet,82.0
+user_6,CostaRica_Catuai_Washed/Wet,82.0
+user_14,Honduras_Caturra_Washed/Wet,82.0
+user_9,Colombia_Caturra_Washed/Wet,82.0
+user_3,Taiwan_Typica_Washed/Wet,82.0
+user_3,Brazil_MundoNovo_Natural/Dry,82.0
+user_12,Mexico_Typica_Washed/Wet,82.0
+user_4,Brazil_MundoNovo_Natural/Dry,82.0
+user_4,Brazil_Catuai_Semi-Washed/Semi-Pulped,82.0
+user_8,Guatemala_Bourbon_Natural/Dry,82.0
+user_4,Brazil_MundoNovo_Semi-Washed/Semi-Pulped,82.0
+user_3,Guatemala_Bourbon_Washed/Wet,82.0
+user_8,Guatemala_Bourbon_Washed/Wet,81.92
+user_8,Guatemala_Bourbon_Washed/Wet,81.92
+user_14,Honduras_Caturra_Washed/Wet,81.92
+user_17,Brazil_Catuai_Natural/Dry,81.92
+user_15,ElSalvador_Bourbon_Washed/Wet,81.92
+user_8,Guatemala_Catuai_Washed/Wet,81.92
+user_3,Zambia_Sl28_Washed/Wet,81.92
+user_12,Mexico_Bourbon_Washed/Wet,81.92
+user_12,Mexico_Typica_Semi-Washed/Semi-Pulped,81.92
+user_12,Mexico_MundoNovo_Washed/Wet,81.92
+user_12,Mexico_Bourbon_Washed/Wet,81.92
+user_4,Brazil_MundoNovo_Natural/Dry,81.92
+user_8,Guatemala_Bourbon_Washed/Wet,81.83
+user_3,CostaRica_Catuai_PulpedNatural/Honey,81.83
+user_17,Brazil_MundoNovo_Natural/Dry,81.83
+user_8,Guatemala_Bourbon_Washed/Wet,81.83
+user_17,Brazil_YellowBourbon_Natural/Dry,81.83
+user_17,Brazil_YellowBourbon_Natural/Dry,81.83
+user_22,Myanmar_Catuai_Washed/Wet,81.83
+user_18,Mexico_Catuai_Washed/Wet,81.83
+user_14,Honduras_Catuai_Washed/Wet,81.83
+user_6,CostaRica_Caturra_Washed/Wet,81.83
+user_3,Taiwan_Typica_Washed/Wet,81.83
+user_19,Malawi_Gesha_Washed/Wet,81.83
+user_3,Brazil_Bourbon_Natural/Dry,81.83
+user_14,Honduras_Caturra_Natural/Dry,81.83
+user_3,Mexico_Typica_Washed/Wet,81.83
+user_9,Colombia_Caturra_Washed/Wet,81.83
+user_3,UnitedStates_HawaiianKona_Natural/Dry,81.83
+user_3,Brazil_Bourbon_Semi-Washed/Semi-Pulped,81.83
+user_8,Guatemala_Bourbon_Washed/Wet,81.83
+user_12,Mexico_Bourbon_Washed/Wet,81.83
+user_12,Mexico_Typica_Semi-Washed/Semi-Pulped,81.83
+user_8,Guatemala_Bourbon_Washed/Wet,81.75
+user_3,Vietnam_Caturra_Washed/Wet,81.75
+user_12,Mexico_Bourbon_Washed/Wet,81.75
+user_12,Mexico_MundoNovo_Washed/Wet,81.75
+user_12,Mexico_Typica_Washed/Wet,81.75
+user_12,Mexico_Caturra_Washed/Wet,81.75
+user_12,Mexico_Typica_Washed/Wet,81.75
+user_9,Colombia_Caturra_Washed/Wet,81.75
+user_17,Brazil_Bourbon_Natural/Dry,81.67
+user_8,Guatemala_Bourbon_Washed/Wet,81.67
+user_8,Guatemala_Bourbon_Washed/Wet,81.67
+user_14,Honduras_Catuai_Washed/Wet,81.67
+user_17,Brazil_YellowBourbon_Natural/Dry,81.67
+user_3,Brazil_Bourbon_Washed/Wet,81.67
+user_3,Indonesia_Sumatra_Semi-Washed/Semi-Pulped,81.67
+user_14,Honduras_Caturra_Natural/Dry,81.67
+user_6,CostaRica_Caturra_Washed/Wet,81.67
+user_2,Taiwan_Typica_Semi-Washed/Semi-Pulped,81.67
+user_2,Taiwan_Typica_Washed/Wet,81.67
+user_12,Mexico_Typica_Washed/Wet,81.67
+user_8,Guatemala_Bourbon_Washed/Wet,81.67
+user_12,Mexico_Typica_Washed/Wet,81.67
+user_12,Mexico_Bourbon_Washed/Wet,81.67
+user_12,Mexico_Bourbon_Washed/Wet,81.67
+user_12,Mexico_Bourbon_Washed/Wet,81.67
+user_12,Mexico_Caturra_Semi-Washed/Semi-Pulped,81.67
+user_3,UnitedStates_HawaiianKona_Washed/Wet,81.67
+user_14,Honduras_Catimor_Washed/Wet,81.58
+user_8,Guatemala_Bourbon_Washed/Wet,81.58
+user_3,Taiwan_Typica_Washed/Wet,81.58
+user_6,CostaRica_Caturra_Washed/Wet,81.58
+user_19,Malawi_Gesha_Washed/Wet,81.58
+user_3,Taiwan_Typica_Semi-Washed/Semi-Pulped,81.58
+user_4,Brazil_YellowBourbon_Washed/Wet,81.58
+user_8,Guatemala_Bourbon_Washed/Wet,81.58
+user_12,Mexico_Typica_Washed/Wet,81.58
+user_12,Mexico_Typica_Natural/Dry,81.58
+user_8,Guatemala_Bourbon_Washed/Wet,81.5
+user_14,Honduras_Caturra_Washed/Wet,81.5
+user_2,Taiwan_Typica_Natural/Dry,81.5
+user_22,Myanmar_Catuai_Washed/Wet,81.5
+user_6,CostaRica_Caturra_Washed/Wet,81.5
+user_19,Malawi_Gesha_Washed/Wet,81.5
+user_3,Taiwan_Typica_Washed/Wet,81.5
+user_3,Brazil_YellowBourbon_Semi-Washed/Semi-Pulped,81.5
+user_12,Mexico_Typica_Washed/Wet,81.5
+user_12,Mexico_Typica_Washed/Wet,81.5
+user_12,Mexico_Catuai_Washed/Wet,81.5
+user_12,Mexico_Typica_Semi-Washed/Semi-Pulped,81.5
+user_12,Mexico_Bourbon_Washed/Wet,81.5
+user_12,Mexico_Typica_Natural/Dry,81.5
+user_4,Brazil_Bourbon_Semi-Washed/Semi-Pulped,81.5
+user_8,Guatemala_Bourbon_Washed/Wet,81.5
+user_11,Mexico_MundoNovo_Washed/Wet,81.42
+user_8,Guatemala_Catuai_Washed/Wet,81.42
+user_17,Brazil_Catuai_Natural/Dry,81.42
+user_14,Honduras_Catuai_Washed/Wet,81.42
+user_2,Taiwan_Typica_Washed/Wet,81.42
+user_19,Malawi_Gesha_Washed/Wet,81.42
+user_3,Brazil_Bourbon_Natural/Dry,81.42
+user_8,Guatemala_Bourbon_Washed/Wet,81.42
+user_3,Mexico_Typica_Washed/Wet,81.42
+user_8,Guatemala_Bourbon_Washed/Wet,81.42
+user_12,Mexico_Caturra_Washed/Wet,81.42
+user_12,Mexico_Typica_Washed/Wet,81.42
+user_9,Colombia_Caturra_Natural/Dry,81.42
+user_9,Colombia_Caturra_Washed/Wet,81.33
+user_14,Honduras_Caturra_Washed/Wet,81.33
+user_17,Brazil_Catuai_Natural/Dry,81.33
+user_14,Honduras_Catuai_Washed/Wet,81.33
+user_19,Malawi_Gesha_Washed/Wet,81.33
+user_14,Honduras_Catuai_Washed/Wet,81.33
+user_12,Mexico_Typica_Washed/Wet,81.33
+user_12,Mexico_Typica_Washed/Wet,81.33
+user_3,Brazil_Catuai_Natural/Dry,81.33
+user_3,Taiwan_Typica_Natural/Dry,81.25
+user_17,Brazil_YellowBourbon_Natural/Dry,81.25
+user_23,Nicaragua_Catuai_Washed/Wet,81.25
+user_14,Honduras_Catuai_Washed/Wet,81.25
+user_2,Guatemala_Pacamara_Washed/Wet,81.25
+user_2,Taiwan_Typica_Semi-Washed/Semi-Pulped,81.25
+user_8,Guatemala_Caturra_Washed/Wet,81.25
+user_12,Mexico_Typica_Washed/Wet,81.25
+user_19,"Tanzania,UnitedRepublicOf_Bourbon_Washed/Wet",81.17
+user_18,Mexico_Caturra_Washed/Wet,81.17
+user_6,CostaRica_Caturra_Washed/Wet,81.17
+user_14,Honduras_Catuai_Natural/Dry,81.17
+user_13,Thailand_Caturra_Washed/Wet,81.17
+user_3,Philippines_Typica_Natural/Dry,81.17
+user_19,"Tanzania,UnitedRepublicOf_Bourbon_Washed/Wet",81.17
+user_19,Malawi_Caturra_Washed/Wet,81.17
+user_6,CostaRica_Catuai_Washed/Wet,81.17
+user_4,Brazil_Catuai_Natural/Dry,81.17
+user_12,Mexico_Typica_Natural/Dry,81.17
+user_3,Guatemala_Caturra_Washed/Wet,81.17
+user_4,Brazil_MundoNovo_Natural/Dry,81.17
+user_3,Brazil_MundoNovo_Natural/Dry,81.08
+user_6,CostaRica_Caturra_Washed/Wet,81.08
+user_12,Mexico_Typica_Washed/Wet,81.08
+user_12,Mexico_Typica_Washed/Wet,81.08
+user_12,Mexico_Typica_Washed/Wet,81.08
+user_12,Mexico_Typica_Washed/Wet,81.08
+user_3,UnitedStates_HawaiianKona_Washed/Wet,81.08
+user_17,Brazil_Bourbon_PulpedNatural/Honey,81.0
+user_15,ElSalvador_Bourbon_Washed/Wet,81.0
+user_17,Brazil_YellowBourbon_PulpedNatural/Honey,81.0
+user_8,Guatemala_Bourbon_Washed/Wet,81.0
+user_9,Colombia_Caturra_Washed/Wet,81.0
+user_8,Guatemala_Bourbon_Washed/Wet,81.0
+user_3,Taiwan_Typica_Washed/Wet,81.0
+user_14,Honduras_Caturra_Natural/Dry,81.0
+user_17,Brazil_MundoNovo_Natural/Dry,81.0
+user_5,Uganda_Sl14_Natural/Dry,81.0
+user_2,Taiwan_Typica_Semi-Washed/Semi-Pulped,81.0
+user_12,Mexico_Typica_Washed/Wet,81.0
+user_8,Guatemala_Bourbon_Washed/Wet,80.92
+user_7,Kenya_Sl28_Washed/Wet,80.92
+user_11,Mexico_Bourbon_Washed/Wet,80.92
+user_3,UnitedStates_HawaiianKona_Natural/Dry,80.92
+user_17,Brazil_YellowBourbon_Natural/Dry,80.92
+user_2,Taiwan_Typica_Washed/Wet,80.92
+user_3,Brazil_Bourbon_Natural/Dry,80.92
+user_3,Nicaragua_Caturra_Washed/Wet,80.92
+user_8,Guatemala_Pacas_Washed/Wet,80.92
+user_2,Taiwan_Typica_Washed/Wet,80.92
+user_2,Taiwan_Typica_Washed/Wet,80.92
+user_12,Mexico_Typica_Washed/Wet,80.92
+user_2,Laos_Catimor_Washed/Wet,80.83
+user_6,Guatemala_Caturra_Washed/Wet,80.83
+user_12,Mexico_Catuai_Semi-Washed/Semi-Pulped,80.83
+user_12,Mexico_Typica_Washed/Wet,80.83
+user_12,Mexico_Bourbon_Washed/Wet,80.83
+user_3,UnitedStates_HawaiianKona_Washed/Wet,80.83
+user_22,Myanmar_Catuai_Washed/Wet,80.75
+user_8,Guatemala_Caturra_Washed/Wet,80.75
+user_14,Honduras_Caturra_Natural/Dry,80.75
+user_14,Honduras_Catuai_Washed/Wet,80.75
+user_14,Honduras_Catuai_Natural/Dry,80.75
+user_3,CostaRica_Caturra_Washed/Wet,80.75
+user_12,Mexico_Typica_Washed/Wet,80.75
+user_3,UnitedStates_Arusha_Natural/Dry,80.75
+user_3,Indonesia_Mandheling_Semi-Washed/Semi-Pulped,80.67
+user_8,Guatemala_Bourbon_Washed/Wet,80.67
+user_6,CostaRica_Caturra_Washed/Wet,80.67
+user_19,Malawi_Caturra_Washed/Wet,80.67
+user_12,Mexico_Typica_Washed/Wet,80.67
+user_9,Colombia_Caturra_Natural/Dry,80.67
+user_8,Guatemala_Bourbon_Washed/Wet,80.67
+user_8,Guatemala_Bourbon_Washed/Wet,80.67
+user_8,Guatemala_Bourbon_Washed/Wet,80.67
+user_3,Brazil_Bourbon_Semi-Washed/Semi-Pulped,80.58
+user_14,Honduras_Caturra_Washed/Wet,80.58
+user_8,Guatemala_Bourbon_Natural/Dry,80.58
+user_8,Guatemala_Caturra_Washed/Wet,80.5
+user_14,Honduras_Catuai_Washed/Wet,80.5
+user_17,Brazil_YellowBourbon_Semi-Washed/Semi-Pulped,80.5
+user_3,Brazil_YellowBourbon_Semi-Washed/Semi-Pulped,80.5
+user_3,UnitedStates_HawaiianKona_Natural/Dry,80.5
+user_8,Guatemala_Bourbon_Washed/Wet,80.5
+user_12,Mexico_Typica_Washed/Wet,80.5
+user_2,Taiwan_Typica_Washed/Wet,80.42
+user_3,ElSalvador_Bourbon_Washed/Wet,80.42
+user_24,Taiwan_Typica_Washed/Wet,80.42
+user_12,Mexico_Typica_Washed/Wet,80.42
+user_12,Mexico_Caturra_Washed/Wet,80.42
+user_19,"Tanzania,UnitedRepublicOf_Bourbon_Washed/Wet",80.33
+user_8,Guatemala_Bourbon_Washed/Wet,80.33
+user_12,Mexico_Typica_Semi-Washed/Semi-Pulped,80.33
+user_3,UnitedStates_HawaiianKona_Washed/Wet,80.33
+user_17,Brazil_Catuai_Natural/Dry,80.25
+user_14,Honduras_Caturra_Natural/Dry,80.25
+user_11,Mexico_Caturra_Washed/Wet,80.25
+user_22,Myanmar_Catuai_Natural/Dry,80.25
+user_23,Nicaragua_Caturra_Washed/Wet,80.25
+user_3,UnitedStates_HawaiianKona_Natural/Dry,80.25
+user_3,Colombia_Typica_Washed/Wet,80.25
+user_2,Taiwan_Typica_Semi-Washed/Semi-Pulped,80.25
+user_3,Guatemala_Caturra_Washed/Wet,80.25
+user_12,Mexico_Caturra_Washed/Wet,80.25
+user_23,Nicaragua_Caturra_Washed/Wet,80.17
+user_14,Honduras_Catuai_Washed/Wet,80.17
+user_8,Guatemala_Bourbon_Washed/Wet,80.17
+user_12,Mexico_Typica_Washed/Wet,80.17
+user_12,Mexico_Typica_Washed/Wet,80.17
+user_12,Mexico_Bourbon_Washed/Wet,80.17
+user_8,Guatemala_Bourbon_Washed/Wet,80.17
+user_17,Brazil_Bourbon_PulpedNatural/Honey,80.08
+user_2,Taiwan_Typica_Washed/Wet,80.08
+user_2,Taiwan_Typica_Washed/Wet,80.08
+user_2,Taiwan_Typica_Semi-Washed/Semi-Pulped,80.08
+user_12,Mexico_Typica_Washed/Wet,80.08
+user_12,Mexico_Typica_Washed/Wet,80.08
+user_14,Nicaragua_Caturra_Washed/Wet,80.0
+user_3,Mexico_Typica_Washed/Wet,80.0
+user_2,Taiwan_Typica_Washed/Wet,80.0
+user_12,Mexico_Typica_Washed/Wet,80.0
+user_3,UnitedStates_HawaiianKona_Natural/Dry,79.92
+user_12,Mexico_Bourbon_Washed/Wet,79.92
+user_12,Mexico_Bourbon_Washed/Wet,79.92
+user_12,Mexico_Catuai_Washed/Wet,79.92
+user_12,Mexico_Typica_Natural/Dry,79.92
+user_12,Mexico_MundoNovo_Washed/Wet,79.92
+user_7,Kenya_Sl34_Washed/Wet,79.83
+user_8,Guatemala_Bourbon_Washed/Wet,79.83
+user_23,Nicaragua_Caturra_Washed/Wet,79.83
+user_12,Mexico_Typica_Washed/Wet,79.83
+user_3,UnitedStates_HawaiianKona_Natural/Dry,79.83
+user_8,Guatemala_Bourbon_Washed/Wet,79.75
+user_3,Taiwan_Typica_Natural/Dry,79.75
+user_3,Taiwan_Typica_Washed/Wet,79.75
+user_3,CostaRica_Catuai_Washed/Wet,79.75
+user_12,Mexico_Typica_Washed/Wet,79.75
+user_12,Mexico_Bourbon_Washed/Wet,79.75
+user_12,Mexico_Bourbon_Washed/Wet,79.75
+user_12,Mexico_Bourbon_Washed/Wet,79.75
+user_12,Mexico_Typica_Washed/Wet,79.75
+user_3,Guatemala_Bourbon_Washed/Wet,79.75
+user_12,Mexico_Typica_Washed/Wet,79.75
+user_8,Guatemala_Bourbon_Washed/Wet,79.67
+user_15,ElSalvador_Bourbon_Washed/Wet,79.67
+user_8,Guatemala_Bourbon_Washed/Wet,79.67
+user_12,Mexico_Typica_Washed/Wet,79.67
+user_12,Mexico_Caturra_Washed/Wet,79.67
+user_12,Mexico_MundoNovo_Washed/Wet,79.67
+user_12,Mexico_Typica_Washed/Wet,79.58
+user_12,Mexico_Caturra_Washed/Wet,79.58
+user_23,Nicaragua_Caturra_Natural/Dry,79.5
+user_2,Taiwan_Typica_Natural/Dry,79.5
+user_9,Colombia_Caturra_Washed/Wet,79.5
+user_12,Mexico_Caturra_Washed/Wet,79.5
+user_12,Mexico_Typica_Washed/Wet,79.5
+user_8,Guatemala_Bourbon_Washed/Wet,79.42
+user_12,Mexico_Typica_Washed/Wet,79.42
+user_3,Colombia_Caturra_Washed/Wet,79.33
+user_12,Mexico_Typica_Washed/Wet,79.33
+user_12,Mexico_Typica_Washed/Wet,79.33
+user_8,Guatemala_Bourbon_Washed/Wet,79.33
+user_3,Taiwan_Typica_Washed/Wet,79.25
+user_12,Mexico_Bourbon_Washed/Wet,79.25
+user_8,Guatemala_Bourbon_Washed/Wet,79.17
+user_14,Honduras_Catuai_Washed/Wet,79.17
+user_8,Guatemala_Bourbon_Washed/Wet,79.17
+user_8,Guatemala_Catuai_Washed/Wet,79.17
+user_3,CostaRica_Catuai_Washed/Wet,79.17
+user_12,Mexico_Typica_Washed/Wet,79.17
+user_12,Mexico_Typica_Washed/Wet,79.17
+user_8,Guatemala_Bourbon_Washed/Wet,79.08
+user_12,Mexico_Typica_Washed/Wet,79.08
+user_12,Mexico_MundoNovo_Washed/Wet,79.08
+user_12,Mexico_Typica_Washed/Wet,79.08
+user_14,Honduras_Pacas_Washed/Wet,79.0
+user_12,Mexico_MundoNovo_Natural/Dry,79.0
+user_12,Mexico_Typica_Semi-Washed/Semi-Pulped,79.0
+user_12,Mexico_Typica_Washed/Wet,79.0
+user_12,Mexico_Typica_Washed/Wet,78.92
+user_12,Mexico_Typica_Washed/Wet,78.92
+user_8,Guatemala_Bourbon_Washed/Wet,78.75
+user_12,Mexico_Typica_Washed/Wet,78.75
+user_12,Mexico_Typica_Semi-Washed/Semi-Pulped,78.75
+user_12,Mexico_Bourbon_Washed/Wet,78.75
+user_3,China_Typica_Washed/Wet,78.67
+user_12,Mexico_Caturra_Washed/Wet,78.67
+user_3,Taiwan_Typica_Washed/Wet,78.58
+user_12,Mexico_Typica_Washed/Wet,78.58
+user_12,Mexico_Typica_Washed/Wet,78.58
+user_3,Mexico_Bourbon_Washed/Wet,78.5
+user_12,Mexico_Typica_Washed/Wet,78.5
+user_12,Mexico_Caturra_Washed/Wet,78.5
+user_17,Brazil_Catuai_Natural/Dry,78.42
+user_12,Mexico_Typica_Washed/Wet,78.42
+user_3,UnitedStates_HawaiianKona_Natural/Dry,78.33
+user_8,Guatemala_Bourbon_Washed/Wet,78.33
+user_12,Mexico_Typica_Natural/Dry,78.33
+user_8,Guatemala_Bourbon_Washed/Wet,78.33
+user_3,UnitedStates_HawaiianKona_Natural/Dry,78.25
+user_3,UnitedStates_HawaiianKona_Natural/Dry,78.25
+user_16,Indonesia_Java_Washed/Wet,78.17
+user_12,Mexico_Typica_Washed/Wet,78.08
+user_3,Taiwan_YellowBourbon_Washed/Wet,78.0
+user_14,Honduras_Pacas_Natural/Dry,78.0
+user_3,UnitedStates_HawaiianKona_Natural/Dry,78.0
+user_3,China_Typica_Washed/Wet,78.0
+user_8,Guatemala_Bourbon_Washed/Wet,78.0
+user_6,CostaRica_Caturra_Washed/Wet,77.92
+user_12,Mexico_Typica_Washed/Wet,77.92
+user_8,Guatemala_Bourbon_Washed/Wet,77.92
+user_8,Guatemala_Bourbon_Washed/Wet,77.83
+user_3,Taiwan_Typica_Washed/Wet,77.67
+user_12,Mexico_Typica_Washed/Wet,77.5
+user_8,Guatemala_Bourbon_Washed/Wet,77.42
+user_17,Brazil_Bourbon_Natural/Dry,77.33
+user_12,Mexico_Typica_Washed/Wet,77.33
+user_8,Guatemala_Bourbon_Washed/Wet,76.5
+user_12,Mexico_Typica_Washed/Wet,76.42
+user_8,Guatemala_Bourbon_Washed/Wet,76.33
+user_8,Guatemala_Bourbon_Washed/Wet,76.33
+user_3,UnitedStates_HawaiianKona_Natural/Dry,76.25
+user_12,Mexico_Typica_Washed/Wet,76.17
+user_12,Mexico_Bourbon_Washed/Wet,76.08
+user_14,Honduras_Pacas_Natural/Dry,76.0
+user_8,Guatemala_Bourbon_Washed/Wet,75.58
+user_8,Guatemala_Bourbon_Washed/Wet,75.58
+user_12,Mexico_Pacamara_Washed/Wet,75.5
+user_12,Mexico_MundoNovo_Washed/Wet,75.17
+user_12,Mexico_Typica_Washed/Wet,75.17
+user_12,Mexico_Typica_Washed/Wet,75.0
+user_12,Mexico_Typica_Washed/Wet,74.92
+user_12,Mexico_Typica_Washed/Wet,74.83
+user_8,Guatemala_Bourbon_Washed/Wet,74.75
+user_8,Guatemala_Bourbon_Washed/Wet,74.75
+user_12,Mexico_Typica_Washed/Wet,74.67
+user_3,UnitedStates_HawaiianKona_Natural/Dry,74.42
+user_8,Guatemala_Bourbon_Washed/Wet,74.33
+user_12,Mexico_Typica_Washed/Wet,74.33
+user_12,Mexico_Typica_Washed/Wet,74.0
+user_12,Mexico_Typica_Washed/Wet,73.83
+user_3,UnitedStates_HawaiianKona_Natural/Dry,73.67
+user_14,Honduras_Pacas_Washed/Wet,73.42
+user_3,Mexico_Typica_Washed/Wet,72.92
+user_3,UnitedStates_HawaiianKona_Natural/Dry,72.58
+user_6,CostaRica_Caturra_Washed/Wet,71.75
+user_12,Mexico_MundoNovo_Washed/Wet,71.08
+user_12,Mexico_Bourbon_Washed/Wet,71.0
+user_3,Mexico_Typica_Washed/Wet,70.75
+user_14,Honduras_Catuai_Washed/Wet,69.33
+user_14,Honduras_Catuai_Washed/Wet,69.17
+user_14,Honduras_Catuai_Washed/Wet,69.17
+user_12,Mexico_Bourbon_Washed/Wet,68.33
+user_8,Guatemala_Catuai_Washed/Wet,59.83
+user_3,UnitedStates_Arusha_Natural/Dry,79.33
